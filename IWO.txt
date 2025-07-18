@@ -81,9 +81,31 @@ Families become an individual under the family-head.
 Organization is a structured group of individuals which submit to the will of the leader.
 	{ government, corporation, religion, sect }
 
+Table of Contents
 
-
-
+Introduction
+Table of Contents
+Definitions
+Ten MandUrMints 
+Individual
+King
+Lineage of the Royal House
+One Ring Platform
+Sections of the One Ring Platform
+10 Year Cycle
+Militia & Viking
+Judge & Jury
+Market 
+Owner & Employee
+Citizenry 
+Land Money
+Education & Meritocracy
+Open Source
+Man Meat
+Global Initiative 
+America
+Artificial Intelligence
+Distribution of non-individual assets
 
 
 
@@ -598,6 +620,7 @@ Employees are protected by stability of position and stability of company.
 Citizenry
 Individual has the axiomatic domain over product of labor.
 Business can only exist within a stable society.
+Exist residents which are non-citizens consisting as entities with no roots, immigrants, or punitive-recipients.
 
 Community is placed above business.
 How well one contributes to the community trumps excellence in business. 
@@ -635,48 +658,183 @@ This allows a window of accumulation, of inventory or constructions, which allow
 Artificial Intelligence can flag open-patents by predefined vectors of exploitation, and also any predefined vectors of inefficiency. 
 Clarity of how the product stands against global competition will increase effectiveness of investors in common stock of the business.
 
-Owner & Employee
-Owner is defined as an individual which bootstraps a company with a minimum of 40% of personal-assets and works full-time on the endeavor.
-No Partnerships nor conglomeration are allowed to own a company. 
+Owner Employee Investor
+Companies are tied to family lineage to an accountable owner.
+Ownership is transferred exclusively as inheritance to heir.
+A company is solely dissolved by sale of assets.
 
-One company maximum per owner.
-One business-parcel of land per company.
+One company per individual.
+One parcel of land per company.
 
-One process of transfer of ownership: inheritance by heir.
-Companies are tied to the family lineage.
-A company is dissolved by the sale of assets.
+Exist no partnerships or corporations.
+✦
+Companies exist as structures dependent on society. 
+Thus company books are accessible to the public. 
+Citizen marshals only able to access sensitive-records.
 
-Owners have executive power & gains.
-Employees have stability & gains.
-Convergence is to longevity by a healthy strong foundation.
+Inter-company and investor meeting-minutes or correspondence are public records.
+Massive undertakings require modularization of many discrete companies.
+One Ring independently allocates Citizen Marshalls which is a cost of the undertaking.
+✦
 Society & business rely upon each other symbiotically.
+Long-term stability of society allows for business prosperity.
+Companies must seek to establish long-term stability for employees and the improvement of the welfare of society.
+✦
+Exist three types of inheritable company-stock: Owner, Employee, Investor.
 
-Exist three types of stocks which reflect the three types of individuals associated with a business.
+Owner Stock:
+the founder individual which bootstraps a company.
+a minimum investment of 30% of personal-assets.
+full-time work on the endeavor until investors are paid in full.
+single individual owner holding publicly accountable executive power.
+major companies decisions are subject to a 2/3 compromise in event of action-veto.
 
-Owner Stock
-Gains of initial investment will not exceed 400% of original bootstrap investment.
-These gains are paid back at an annual rate lower than 20% annual.
-Owner-stock is bound by inheritance any the gains on initial investment carry-forward.
-Owner has the singular executive role within the company.
-The role of owner is reflective of the role of the King.
+Employee Stock:
+voting rights weighted by tenure.
+vetos force a compromise which favors the owner decision in a ratio of 2/3.
+Compensation composed of base pay and performance-driven pay based upon metrics.
 
-Employee Stock
-Employees receive a ratio of all gains tied to their contribution.
-Employees have voting rights upon major company decisions.
-Employee veto forces a compromise which favors the owner by 3:2 proportion.
-Employee’s contributions are calculated based upon daily open-source metrics.
-Keystone position of contribution-metrics instill focus of the individual from child to adult.
-Integrity of the system in based upon nature of man to check correct calculation of self & others.
-Explicit contribution-metrics are compiled over the lifetime of that engagement.
-	{ time, overtime, holiday, stress, commitment, implementations }
-AI & Auditor, chosen by employee, will oversee probationary periods required before termination of employee from company.
-Employee stock is bound to the profits & gains produced from interval of involvement scaled by the ratio of contribution-metrics. This is carry-forward to heir.
+Investor Stock:
+Public transaction of tangible investment.
+Investment is immediate and full, no promises or fractional reserve.
+Investors must remain in a passive role, illegal to influence the company.
+Investment returns capped at 100% gains on original amount invested.
+Indefinite repayment timeline.
+Investors are the first compensated in event of asset liquidation.
+Company community contributions will be made in the name of the investor.
+✦
+Employee Performance Calculation:
 
-Investor Stock
-Idle investors gains common stock which is capped at a return of 10% annual.
-Investor gains are only received after fulfillment of employee gains.
-Investors are barred from interfering in company implementation.
-Common stock has no voting rights.
+Employees are responsible for calculating the metrics of their daily contributions.
+Owners must submit their own work calculation to receive above base compensation.
+Owners are responsible for the management verification of daily contributions.
+
+Contribution metrics are public & industry-normalized.
+
+Individuals are educated since youth to comprehend the complexity of job-work accounting.
+This mechanism of compensation is deeply respected and thus guarded by peer-to-peer many eyes inspection to establish honest protection.
+Calculation mastery of per-job accounts, contributions, and resultant gains.
+
+Metrics encode the company lifespan will detail efforts of each individual for each day.
+This data allows payments to focus more on actions and the resulting contribution.
+The time spent as unit of payment is a poor indicator of effort and breeds lazy effort.
+
+Management verified employee actions, being guarded by the employee body, may be 
+
+Peer-reviewed evaluation on the One Ring ensure comprehensive measures of effort.
+As data sets age the vital contributions will begin to stand out clearly.
+
+Metrics:
+	{ action, time, overtime, holiday, innovation, implementation, stress, tenure }
+✦
+Effort precede gains on investment gambling.
+
+Flow of payments:
+Base compensation for owner & employee 
+Compensation for units of employee work calculation
+Compensation for units of owner work calculation
+Payment of investors capped at 10% of annual revenue
+Profit on owner investment
+✦
+Community improvement owed for each loan in the amount of 200% of original loan. 
+Investor activity is proof that the owner was not ready to launch and thus put the public in an unstable situation.
+Community determines how to use the money which is paid in honor of the lender.
+This is paid only as able, after original lender is completely settled.
+✦
+Ventures are sole proprietor entities distinct from companies.
+Ventures do NOT have: company land, employees, or investors.
+Ventures are not subject to any control, only criminal negligence.
+✦
+Extraction of local resources can only be done by a local owner stewardship.
+The oversight of confirmed multiplier will be national to avoid corruption.
+Citizen Marshalls can halt-work for a period of time respective of their rank.
+
+Region where the resource is extracted must be the recipient of the improved restoration.
+Local community must approve the company establishment. 
+National interest proved by science can veto company establishment.
+Local public land must be improved, this is settled in community approval.
+Betterment of public land must be done parallel to operations.
+A trust must be accumulated prior to approval by investors. This trust is sufficient to restore the land of operations.
+
+Resources:
+	{ soil, timber, water, mining, wild-harvest, atmospheric, hunting/fishing, oil/gas, land-clearing }
+
+Dialogue: Owner Employee Investor
+ORAC SCIT
+
+Kleon: But Euchi, why do you disallow partnerships and corporations,
+Structures commonly employed in our time?
+
+Euchi: History speaks clearly, Kleon. 
+Modular discrete companies, each guided by a responsible individual, 
+succeed profoundly where conglomerates falter. 
+Unix, Perl—these were not borne by committees but by dedicated masters. 
+Conglomerates breed corruption, inefficiency, and secrecy, rather than innovation.
+
+Kleon: Yet large undertakings demand collective effort. 
+How can this be reconciled?
+
+Euchi: Great ventures must rely upon modularization, 
+numerous independent companies each accountable and transparent. 
+Citizen marshals, independently assigned by One Ring, guard the integrity of these massive enterprises.
+
+Thalion: Yet consider, Euchi, if singular ownership restricts expertise and innovation
+—how will enterprises requiring multiple specialists flourish without partnerships?
+
+Euchi: Modular structures, each led by accountable individuals, 
+allow specialization without sacrificing accountability. 
+The collaborative strength lies not in conglomeration but in transparent modular alliances.
+
+Kleon: Your commitment to public transparency is admirable, 
+yet may it not compromise competitive advantage and privacy?
+
+Euchi: Transparency guards integrity and builds trust. 
+Sensitive information remains accessible only to citizen marshals, 
+ensuring accountability without unnecessary exposure.
+
+Thalion: Your employment metrics intrigue me
+—but do they not risk reducing complex human contributions to mere calculable units?
+
+Euchi: A valid concern, Thalion. 
+Yet, consider metrics as guides rather than absolute measures. 
+Peer reviews and management oversight on One Ring maintain fairness, 
+rewarding genuine contribution beyond mere hours logged.
+
+Kleon: Euchi, Your principle of single accountable ownership intrigues me, 
+but how will you address unforeseen incompetence or lack of preparedness in an heir?
+
+Euchi: Kleon, lineage alone does not define suitability. 
+Heirship may extend beyond blood through adoption
+—merit, proven virtue, and capability shall govern the choice, echoing ancient wisdom.
+
+Kleon: Euchi, the role of passive investors appears restricted and unattractive. 
+Might this discourage essential capital investment?
+
+Euchi: Passive investors recognize that effort precedes reward. 
+Their role, carefully balanced, ensures they contribute without undue influence. 
+The community debt serves as a safeguard,
+ acknowledging the investor’s trust yet reminding us of our initial obligations.
+
+Thalion: And your rule against fractional reserves
+—do you not fear that strict adherence might limit economic flexibility?
+
+Euchi: Prudence demands that tangible, immediate commitment underlies investment. 
+While flexibility is valuable, the integrity and stability derived from full, 
+immediate investment create a safer long-term economic environment.
+
+Kleon: Lastly, resource extraction
+—local oversight seems sound, but might it not breed local corruption or narrow self-interest?
+
+Euchi: National oversight of multiplier standards ensures impartiality. 
+Citizen marshals, allocated by the independent One Ring, 
+balance local interests with broader ecological and social integrity.
+
+Thalion: These points clarify much, Euchi. 
+Your vision requires delicate balance and continued vigilance.
+
+Euchi: Indeed, friends. No system is beyond refinement. 
+Continued discourse is essential, illuminating our blind spots and strengthening our community bonds.
+
 
 Militia & Viking
 Local Militia is the only means to which man may attain any degree of liberty.
@@ -865,6 +1023,70 @@ First, animals being innocently burdened by the war of the region, will receive 
 Vikings, only after, can receive their loot of the man-meat.
 ✦
 Animal offering transcends sacrifice unto society, into an act benevolent to the universe.
+
+
+Dialogue: On the Doctrine of Man Meat
+ORAC SCIT
+
+Euchi: Friends, today let us examine the doctrine of “Man Meat.” 
+The core is this: society respects all life or respects none. 
+A murderer who takes innocent life violates the foundation of order and thus forfeits his own. 
+His execution serves justice absolutely, and in death, returns balance by nourishing the animal kingdom. Is this doctrine wise and just?
+
+Kleon: Euchi, you propose execution without mercy or rehabilitation for murderers. 
+Yet does this not assume infallibility in judgment? 
+How can society guard against wrongful executions?
+
+Euchi: A vital concern, Kleon. This is precisely why execution must be public, visible, and visceral. 
+When all eyes bear witness, the officials responsible face maximum accountability. 
+The fear of misjudgment thus ensures justice is measured and meticulous.
+
+Thalion: Yet, Euchi, I fear you tread a path of profound brutality. 
+Is not mercy, forgiveness, and the possibility of redemption the hallmark of a truly civilized society? 
+Does your doctrine not risk reducing justice to mere vengeance?
+
+Euchi: Your concern is noble, Thalion, but misplaced. 
+True mercy draws clear lines. 
+Lesser offenses may indeed seek redemption and rehabilitation. 
+Murder, however, is an irrevocable act—a point of no return. 
+Forgiveness here is not mercy but an abdication of justice, 
+serving only the greed of institutions that profit from punishment rather than resolve crime.
+
+Kleon: Even accepting this, Euchi, the notion of human bodies as “meat” for animals troubles me deeply. Does this not strip the human corpse of dignity and sacredness, descending into barbarity?
+
+Euchi: Quite the opposite, Kleon. 
+Your notion of human exceptionalism is itself barbaric. 
+The civilized intellect recognizes the dignity and interconnectedness of all life. 
+To return human flesh to animals is not desecration but restoration, 
+repaying our debt to the animal kingdom from which humanity continually takes. 
+In this balance, dignity resides not in hoarding our bodies but in harmonizing with the universe.
+
+Thalion: Euchi, you speak of cosmic balance, 
+yet does this practice not risk a society desensitized to violence, 
+numb to the spectacle of public execution?
+
+Euchi: The execution is neither spectacle nor entertainment, Thalion. 
+It is solemn, necessary accountability. 
+Public transparency prevents conspiracies and injustices hidden behind closed doors. 
+The horror witnessed in such acts mirrors precisely the gravity of the original crime. 
+To sanitize death is to diminish the gravity of murder itself.
+
+Kleon: But Euchi, do you not fear misuse by powerful actors 
+who might exploit this doctrine under the guise of justice?
+
+Euchi: Vigilance must always accompany any powerful doctrine. 
+Public oversight, stringent criteria, and absolute equality before the law
+—whether vagrant or king
+—are safeguards woven into the very fabric of this doctrine. 
+The same standard of ultimate justice applies to all.
+
+Euchi: Your challenges sharpen this vision, friends. 
+Indeed, justice is not static—it demands constant refinement and vigilance. 
+Let us revisit and refine our doctrine continually, 
+ensuring that our quest for cosmic balance and absolute justice remains true.
+
+Kleon & Thalion: So it must be, Euchi. 
+Dialogue is our greatest safeguard. We shall revisit this again.
 
 Global Initiative 
 The world will converge to the Individual World Order thru the propagation of health voluntary adoption. 
@@ -965,3 +1187,28 @@ America merely acts to deliver upon the international decision.
 
 Decades may allow the aggressor to recompense the injured.
 Decades may only delay the inevitable atop a long-standing, real, oppressive dread.
+
+
+
+
+
+
+notes
+reassign all residential
+each family must pay in service:
+keep elderly, guard home, defense, agri, build wildlife habitation, jury
+
+wildlife kept sacred, domain all living things. not all thibgs ubder man
+
+
+axiom nature: look to the universe for ultimate truth
+all fades, all struggles look to moons scars
+without strength exist no domain
+way of life can not exist without ability to maintain domain
+
+uniform axiom basis foundations
+unite diverse tribes via uniform basis 
+
+always exist convergence towards organized monopoly,  need exist protocols to reset
+
+milita monk stillness: anger, anxiety, argue, waste energy in times of scarcity, monk fasting training in stress conditions
