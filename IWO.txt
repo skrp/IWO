@@ -97,7 +97,7 @@ Militia & Viking
 Judge & Jury
 Market 
 Owner & Employee
-Citizenry 
+Citizenry Resident Rural
 Land Money
 Education & Meritocracy
 Open Source
@@ -509,61 +509,152 @@ Non-tolerance of monopoly and illegal ownership.
 Only a prune unto successful businesses.
 Family land is entirely excluded in calculations or assets forfeiture. 
 Land Money
-Titles protected by Grace of the King.
 Each title protected by guardianship of all titles.
-Each title is provided with the stamp of the King.
+Family Ancestral Temples each guard the record of all title ownership.
 
-Each individual protects all other individuals with records of proof.
-Ancestral Temples on family land have a record of every family’s parcel.
-A physical map Ancestral Land kept as a record. 
-New maps of Ancestral Land will be added to each repository.
-
-A portion of the family residential parcel is committed to a 20 meter space set as the Ancestral Temple.
-Ancestral Temple space may not be sold off, and if all members of the family are gone then the shrine will be damned a graveyard of bad energy, never to be reappropriated by society.
-
-Individual has supreme dominion of the land.
 No taxation or forced sale of land.
-Land transfers down a public lineage.
-Public boundaries, clear lines of ownership, One Ring involvement work to settle all land disputes.
+Society obtains only loss when a family dies out.
+Competition or hope of every obtaining land, outside of familiar association, is nullified.
 
-A portion of the land is split into common stock which is used for commerce.
-In each 10 Year Cycle 5% maximum of land may be set into the title of common stock.
-Repurchase of common stock by owner is set to 110% of sale-price. 
-Common stock gives no rights to the holder, it only gives the ability to trade.
-This setup favors the family to build upon the land to one-day reclaim at a set-rate of the original purchase.
+Land types: Ancestral Land, Heir Stock, Common Stock, Production, Wildlife, Public. 
+✦
+Ancestral Land consists of Core & Temple.
+Ancestral Temple is a reserved 100 meter squared space in every family land.
+Core of family land is 30% of the original parcel, enclosing the Ancestral Temple.
+Core & Ancestral Temple can never be occupied non-familiar.
 
-A portion of land may be sectioned as heir-stock and can be sold at any price.
-The Original Ancestral Family must have a standard plot size adjacent to the Ancestral Shrine to allow a sale of heir-stock. 
-Heir-stock is the only stock that can evolve into ownership and then Ancestral Land. 
-If an individual accumulates a standard parcel size of heir-stock then this can be submitted as a bid to claim as family land in the next 10 Year Cycle. 
-Land remains under the domino of the owner until the land bid is ratified by the 10 Year Cycle.
-Heir-stock is a public exchange and heir-stock can not be traded. 
-Owners of heir-stock can not be coerced to sell back. 
-Heir-stock is heavily inspected for validity or coercion. 
-After heir-stock converted to family land, the parcel may be submitted in a evaluation for an Ancestral Bid, after the third cyclic period.
-Land ownership must be stable and as static as possible to reduce land disputes.
+If the family line dies off the Core & Ancestral land becomes cursed forsaken.
+No man may enter this area of bad energy. 
+May wildlife find better fortune than man found.
 
-Global assessment audits value of all land  to establish stable global markets.
-Assessment revalues the stock value of the land into One Ring.
+Individuals of family always have space to exist that none able to take.
+There the family deposits & builds for the welfare of the future lines.
+Stability of family lines are built over generations which create a strong nation.
+Grand constructions increase the value of the land in region.
+	{ defense, communication, shelters, vault, housing, energy }
+✦
+Individual has supreme dominion of the land, subject to the 10 Axioms.
+All life has easement rights which can not restrict free movement.
 
-Land owners converge to land betterment.
-Land is the public holding of international wealth.
-International metrics establish a clear path to valuation.
-Land is worshiped and is the center of value.
+Land transfers thru public lineage.
+Public boundaries recorded in each Ancestral Temple establish indisputably clear lines of ownership.
+Individual head of family is confirmed via DNA inheritance. 
+Heir selection is always an internal family matter.
 
-Land money is immune to inflation by proper audits. 
-Yet, it has a natural growth without disrupting the stability of the system.
-Land is a finite resource that also has intrinsic value.
-Land money is entirely contained and explicitly calculable. 
-The value can be estimated from satellite to the naked eye of a bypasser.
+One Ring settles land disputes.
+✦
+Heir Land is the only land type which can be converted to Family Land for direct transaction.
+A citizen-alien, being of no official ancestral descent, is able to obtain Family Land by means of Heir Land.
 
-Anti-inflationary nature of Land Money gives high value to 10% returns of common stock. 
-{ no taxes, no fees, no devaluation by inflation, finite resource, external assess, no monopoly }
+Heir Land is obtained directly from Family Land by an unlimited public transaction.
+Heir Land can not be further traded, it is a transaction from seller to specific buyer.
+Heir Land is obtained from Public Land by ZENG-ZI ratified in 10-Year-Cycle.
+Heir Land requires a full 10-Year-Cycle of probationary domain to be ratified into permanent Ancestral Land.
 
-Business land is entirely separate from residential land.
-Business and production must only be done on business land.
-This maintains the sanctity of family land as a garden.
+The family may use the land in the duration, but does not have Common Stock options until ratification is complete.
+Heir Land is protected as Family Land. 
+There can be no coercion of sell or forfeiture.
+Heir transactions are heavily inspected, it is the permanent assimilation of family into a nation. 
 
+Wealthy immigrant, being a naturalized citizen, purchases land from Family Land.
+This is then submitted in the next 10-Year-Cycle.
+After that entire entire 10-Year-Cycle has expired, then the next 10-Year-Cycle ratifies or banishes the land into Public Land.
+✦
+Production land is entirely separate from residential land.
+An individual can only own one company. One company can only own one land plot.
+This land may sublet to other companies.
+In event of company dissolution, this land is sold to another company.
+Production land zones are stable unless changed by ZENG-ZI.
+✦
+Wildlife land is restricted land for non-human life.
+No hunting nor gathering. Land can be improved for sake of wildlife.
+This is space due for the nourishment of the animals of the land.
+Wildlife land is forever set apart from human use.
+✦
+Public Land is used as the region sets into legislation per-parcel.
+	{ parks, beaches, camping, hunting, gathering, trails }
+
+Public Land is zoned per 10-Year-Cycle only at the National level of judgement.
+Public Land may be selected for Heir Land only in a National Pool.
+This national mechanism allows diversity to establish, independent of the region politics.
+Thus local politics can not manipulate usage of Public Land for private gain.
+✦
+Global land valuation is a fixed point matrix that is only modified during 10-year cycles:
+	{ rain, flood, hurricane, tornado, well, proximity, biome, tree, soil, region }
+
+Each parcel of land is valued based on this single matrix.
+The matrix evolves over time both to echo invariants and to bend to values of each generation.
+
+Land metrics modify the basis established by the Global-Matrix.
+One Ring compiles local review, external audit, satellite.
+The valuation of each parcel exists on the One Ring in real time.
+Easement allows any to inspect the land by pass thru.
+✦
+Land valuation is the basis of global currency.
+Land is a bounded finite resource of common sense value.
+Inflation is checked to the base value of the land on the market explicitly verified.
+Fraud can not stay hidden and would permanently damn reputation. 
+
+Each nation in the world has unique value to offer the world.
+This value is bound by nature and fluctuates with nature & the values held in each generation of the 10-Year-Cycle.
+
+The dynamic nature of land keeps the foundation of currency non-stagnant.
+Disasters, improvements, fortunes of nature; these all play to keep the system active.
+
+International participation will round the Global-Matrix to a solid basis.
+Global Common Stock markets allow trade of value without ever allowing foreign control of the assets.
+Global markets will be stable and immune to international fiat sabotage.
+
+Currency will be the common basis established by the Global Matrix.
+Common stock in one country can be directly exchanged for common stock of another country by a citizen of different country.
+
+Nations are not equal in the land which exists within borders. 
+Mathematical geographic open science will evolve a Global-Matrix that converges towards accurate valuation value independent of nation.
+Thus harmony is established that is coherent with common reason.
+
+Improvement of the land does not lead to inflation. Land has intrinsic value.
+Owners will lean to the strengths of the region which tends to natural betterment.
+
+Gaming of the Global Matrix will be difficult. Each attribute is infinitesimal.
+Fraud of superficial improvement is inspectable by local, agent, satellite.
+Full spread calculations of the proof of value guards the entire system from rot.
+✦
+Cyclic stability is achieved by the nature of the Common Stock life-cycle.
+
+Each 10-Year-Cycle the head of family may activate an exterior-most section of land into Common Stock.
+A marked-designated portion of the land is split into Common Stock. 
+Common Stock is directly tied to specific portions of land.
+
+Common Stock is sold on free markets having the basis of value of Global Matrix & supplemental metric.
+
+The maximum section must be smaller than 5% of the total Family Land available.
+This stabilizes the availability of Common Stock, and it protects the family from collapse due to a single generation's mismanagement.
+
+Common Stock may be sold at any value, but to each stock is attached the Global Matrix valuation at the point of offer release.
+The free markets may adjust the purchase by supplemental metrics, or by information of development. 
+Speculation of change is allowed to freely affect the purchase of Common Stock at any time.
+
+At the end of the 10-Year-Cycle, the family (only in that time) has the option to buy back the stock at the invariant rate of 110% of the valuation-at-point-of-release.
+If the family is unable to buy back the common stock.
+The national public land trust has the option to buy back the land at 100% of the valuation-at-point-of-release. This land becomes Public Land.
+Else the land is forfeited to Wildlife. The stockholder loses all value. Family must redraw the border of land. 
+
+Common stock never gives no land rights to the holder of Common Stocks. 
+It only gives the right to freely trade or hold till end of cycle buyback.
+
+Family is able to build upon the land continuously, increasing the land value well past the original valuation-at-point-of-release.
+Real time valuation benefits the current holder with an increased value of Common Stock. This allows to trade more favorably in gain & liquidity.
+Yet at the end of the cycle, the family reclaims the land at the invariant 110%.
+
+Common Stock is by nature cyclic. 
+The value may grown sinusoidal. The value may decrease coscynical. 
+Regardless of growth or loss, the value will always begin stable and towards the end of 10-Year-Cycle converge to tradability of the 110% original valuation-at-point-of-release.
+A natural gravitational pull which balances the system into health within the cycle.
+ 
+
+	
+
+Dialogue
 Mathematics quantify valuable metals as a being of infinite nature.
 Continuous mining of metals is compounded by unknown quantities stored or waiting to be rediscovered. 
 Any currency founded upon precious metals is susceptible to overnight implosion.
@@ -572,15 +663,91 @@ Fiat currency is built entirely upon widespread trust in set imaginary value.
 In no era of human history has fiat been a stable foundation for a society.
 History has proven that countries attack the stability of other nations by devaluation of currency and then using stability of their own currency to leverage a foothold which then acts as a permanent threat of explosion.
 
-Land money sets all currency to an equal footing of stability. 
-Each region has its variance of attributes.
-Objectivity will work to balance between metrics.
-Land is a dynamic element, from catastrophe to degradation. 
-Promise of equal treatment can give harmony unto realities which are inherently unequal.
+Anti-inflationary nature of Land Money gives high value to 10% returns of common stock. 
+{ no taxes, no fees, no devaluation by inflation, finite resource, external assess, no monopoly }
 
-There exists no negative land, and therefore exists no debt.
-There is no usury because there is no land lending.
-Equal-opportunity & ease-of-entry will allow only gain by effort.
+
+A sold B, common stock A increased by 20% in cycle, B traded with a gain. 
+Next cycle, the common stock of A is in greater demand. His portfolio shows a the next cycle will complete major improvements. He adds 30% to the cycle-valuation due from matrix. Buyers know they are at a risk of 130%-110% = 20%. The calculated gains are likely to increase the value to 140%. Common stock with an upward trend are more solvent and thus a gain of 10% benefits the stock with liquidity.
+
+A fire devalued the land to 30%. The owner knows he can modify the land to be more fire-resistant and improve the land. Else the land will be lost. Exists a strong incentive to buy the land back at 110% of the original value.
+Thus the stock holders do not lose the value. They gain 10% from insolvent stock, of their original.
+
+
+Dialogue: Land Money
+
+Euchi:
+Let us begin with the root: What is it that makes a currency worthy of trust? 
+The ancients worshipped gold and silver, for their shine was eternal, 
+but their worth, it seems, is haunted by infinity. 
+There is always one more mountain to scour, one shipwreck yet unfound.
+
+Orac Scit:
+And thus, Master, we have seen gold-backed empires fall 
+when a new mine was struck, or a horde revealed. 
+The value of the coin diluted overnight, not by honest labor, but by fortune and greed.
+
+Euchi:
+Fiat then arose—not from the earth, but from consensus. 
+“This paper has worth because we say it does, and our sword is sharp.” 
+But fiat is a shadow without a body, easily dispelled by the winds of war, 
+the whim of kings, or the whisper of panic. 
+Trust, when shaken, is not easily restored.
+
+Orac Scit:
+Indeed, all fiat money is a bet against disaster. 
+And history is a record of lost wagers: nations attacking the purse of their rivals, 
+devaluation as the hidden blade, and the common folk left with ashes.
+
+Euchi:
+Now attend: Land, unlike gold or decree, is a finite vessel, a substance shared by all. 
+It cannot be conjured, nor can it slip away in the night. 
+Each parcel, seen by the sun, bounded by stone and tree, 
+is a currency which resists both the pickaxe and the printing press.
+
+Orac Scit:
+And yet, land is not without its own perils. 
+What of fire, flood, and the decay of empires? 
+Is not land devalued by disaster, or lost by misrule?
+
+Euchi:
+This is the heart of the matter. Land money is not static; it is cyclic, like the seasons. 
+Through the cycle, the value of land—made liquid as common stock—rises and falls with fortune. 
+But at each cycle’s end, all claims converge: the holder is redeemed at 110% of the original value. 
+The risk and gain are known in advance; no one is left in ruin by surprise, nor enriched by chance alone.
+
+Orac Scit:
+So, let us examine:
+Suppose A sells common stock to B. 
+In the course of the cycle, improvements and public works raise the value by 20%. 
+B sells to C for a profit. All are content. 
+In the next cycle, more improvements are foreseen, and the matrix reflects this. 
+Buyers see an opportunity—a further 30% rise is possible. 
+But the limit is set by the cycle: the maximum return is known.
+Thus, speculation is productive, not reckless.
+
+Euchi:
+Exactly. And if calamity strikes—a fire burns the land to ash, its value cut to a third
+—the owner still has the motive and means to restore it. 
+He may rebuild, make the land fire-resistant, and recover both value and standing. 
+The cycle is a net, catching the fall, giving time for recovery.
+At worst, the stockholder receives the agreed redemption; 
+at best, both owner and holder prosper from honest effort.
+
+Orac Scit:
+This, then, is the difference:
+	Gold can be diluted.
+	Fiat can be devalued.
+	Land, by its cycles and bounds, is shielded from both.
+No monopoly can seize the earth, for the public and wild claim all loss. 
+No inflation gnaws at the value, for all see and verify the land’s worth.
+
+Euchi:
+And so, with land as money, the people are not at the mercy of distant kings or hidden mines, 
+but of their own labor and stewardship.
+The cycle is the proof against both panic and pride.
+The return is slow, sure, and anchored to reality.
+This is no fantasy—it is the currency of a living nation.
 
 Education & Meritocracy
 Decentralized & unrestricted growth of an individual from education to workforce.
@@ -617,32 +784,207 @@ Assistance is never required but it is rewarded based upon decentralized regiona
 Individuals reap reward of labor due by fair distribution of profits & gains.
 Employees are protected by stability of position and stability of company.
 
-Citizenry
-Individual has the axiomatic domain over product of labor.
-Business can only exist within a stable society.
-Exist residents which are non-citizens consisting as entities with no roots, immigrants, or punitive-recipients.
+Citizenry Resident Community Rural
+Citizens are adults with roles within a community & in the nation.
+Residents are non-citizens with no stable roots, immigrants or under punitive exclusion. 
+All adults have a say, but only citizens are able to vote in law & jury.
 
-Community is placed above business.
+Citizens & residents are responsible for government & community well-being.
+Exist no taxes and the effort to maintain society is the burden of all who live there.
+✦
+American easement is the right to pass through, but not to settle.
+Residence requires approval from the community. 
+
+Community is not isolated from the world. 
+Globe pressures nation. Nation pressures side. Side pressures region. Region pressures community.
+People have proven that an efficient transmission of public actions. 
+The flow of observer posting video onto a platform. 
+Then for the society to determine the correct action. 
+Correct reaction trumps rapid response. 
+Individuals are known and the proper action will be taken, correctness > quickness. 
+
+'Let each citizen stand, not as a tenant in a corporate state, but as a steward of a living community. Where every hand builds & every public dispute weighed by peers, then justice need not a throne' -- ORAC SCIT
+✦
+A failed-state needs to be uprooted as resultant of ill foundation & improper growth.
+All titles in township are nullified. All town lands will be returned under local jurisdiction.
+
+All land & buildings are community distributed assets. 
+Applicant goes through a interview process & probationary period in a public role.
+
+Citizens: Jury, Legislation, Permits, Inspection, Code, Militia
+Utility Business: Energy, Water, Communications
+Residents: Public-Works, Waste-Management, Parks, Welfare service
+
+Clear roles and accountability to individual. 
+Acts are recorded as witnesses, both individual & another, to loyalty & service.
+✦
+Proper community is built by design of the new order.
+
+Core of town is the neighborhood of town leadership, the basis for a functioning community:
+	{ Orator, Doctor, Militia Command, Fire & Rescue, Infrastructure }
+
+Town structure of zones expanding out.
+Core community residences, Town Hall & gathering-park.
+Major business headquarters
+Larger social buildings: grocery, school, hospital, well-fare
+Urban neighborhoods, parks, wildlife habitation
+Rural Land: Large buildings, factories, farms, public land, ancestral land, wildlife-only-zones
+
+1) Core community neighborhood has sets of houses designated to each role: Active, Apprentice, Retiree.
+Mentor, current & third choice apprentice are available in the same area.
+The service to the community grants their house until matrimonial death.
+Residences will be built for comfortable respect & live-in-stations for emergency work.
+Residence is tied to the role of service.
+
+2) Business can only exist within a stable society, thus community supersedes employment obligation.
 How well one contributes to the community trumps excellence in business. 
+Businesses operate on a lease from the community.
 
+4) Families work their way up in the community. From temporary probation, residency non-citizen, stable citizen housing, to long-standing family reputation.
+If an individual becomes lethargic, family members must step up to fulfill community service to retain status.
+Long-standing families with continued service attain the highest degree of stability, their choice to stay or upgrade. 
+
+Movement to towns with culture suited to the temperament of the family is normal. 
+Reputation is always carried forward. This allows a way to ease community friction.
+
+Community assigns the distribution of residences in a public & open-source fashion. 
+Adherence to strict standard protocols is the iron clad law in distributions.
+
+Stable generational homes for long-standing citizens. 
+Neighborhoods of homes for long-term citizens of reputation.
+Neighborhoods of homes for non-citizens, both stable & transient.
+✦
 Each adult citizen is required to perform governmental duties.
 Three branches of the government: Judicial, Legislative, Executive.
-Citizen has the freedom to build respect in a place of choice.
+Citizen has the freedom to build respect in a role of available choices.
 
 Peer verification, Artificial Intelligence and public devices all monitor individual to civic duty.
 Education trains roles which tend to be passed down thru lineage.
 Culture establishes critical weight upon ancestral lines which never fail. 
 Families gain from consistency, and cultivation by parental guidance over apprenticeship. 
 
-One Ring ensures that acts over a lifetime culminate in the expectations of current situations.
-Acts will tend to align harmoniously with the timeframe of the individual.
-When one is able, then puts effort vigorously, will be rewarded proportionally which allows freedom to exist entirely focused elsewhere.
-
-Artificial Intelligence will allow voluntary oversight to accurately establish metrics to acts of civic duty.
+One Ring ensures that acts over a lifetime culminate in the expectations of current situations, and build reputation to pass any toxic stagnation.
+Acts of service will tend to align harmoniously with the timeframe of the individual.
+Plan life well, act vigorously in your appointed time-frame, document, get witness.
+Daily life, a sudden social emergency, aid, then get counted for service.
+Artificial Intelligence will allow voluntary oversight to accurately establish standardized metrics, and verifications, to acts of civic duty.
 Witness of unaffiliated citizens will weigh the effectiveness of the action.
+These public calculations will allow community to weigh value of contributions.
+✦
+Stadium convergence called by any member of the Community Core. 
+Town Hall bell will ring, marching band as able, drive-by heralds. 
+Allow an hour for attendance. 
+Record of the podium, field, stadium seats, voter face confirmation. 
+All who care can attend & speak as equals. 
+Orator lays out the issue as assisted by AI and designates the choices on field.
+Community citizens vote by standing in the zone of choice, one from each group leaves field and rises to the stadium to verify no one enters the field. Last group with members on the field wins the vote.
+Weekly Town Hall meetings of the mundane procedures which effectuate the stadium results. Anyone can attend the recorded sessions.
+✦
+Title holders have less community duties and have a stronger hold onto the land: business, farms, homesteads.
+Title holders can not be zoned off land.
+Community obligations are in proportion to usage.
+This land can be sold but never under obligation.
+Exist strict regulations on maximum size of land, easements, and usage of the land.
 
-Metrics will give a standard which determines the contribution of each individual.
-Isolation of time & effort from results will crown effectiveness as principal to contribution.
+
+
+
+Dialogue: Citizen Resident Rural
+	
+Euchi:
+Friends, the age of slumber is ended.
+All that lived for itself, or fed upon the labor of others, is swept away. 
+Here, the only home is the one built and kept by service. 
+All serve; none escape. The core is not inherited but earned. Speak: who objects?
+
+Kleon:
+Euchi, your doctrine is sharp as the sword—perhaps too sharp. 
+Tell me, if all must serve, what of the crippled, the broken, the simple of mind? 
+Does not your meritocracy risk becoming another tyranny—only now by “function,” not blood or coin?
+
+Euchi:
+No one escapes the burden, nor the dignity, Kleon.
+There are roles for all; even the weakest may sweep, the slowest may watch, the least skilled may aid. The only shame is in refusing all contribution.
+In aiding the cripple, the cripple return aid.
+
+Thalion:
+Yet is it not mercy that distinguishes a just city?
+ What of forgiveness, of rest? 
+If pain is the forge, do we not risk breaking spirits that might, with time, mend? 
+What of grace for the disgraced, and respite for the exhausted?
+
+Euchi:
+All are allowed rest, Thalion—retirement is honored. 
+Forgiveness is the air we breathe; for if all are known, all need it in turn. 
+Yet none shall be permitted the luxury of uselessness
+—each must find their function, and serve.
+
+Kleon:
+And if a function excludes, if the core grows clannish? 
+You abolish birthright only to risk a new priesthood of “fit ones.” 
+Will the unfit forever sweep, never ascend?
+
+
+Euchi:
+Entry is by public record and real merit, not secret favor. 
+The path upward exists; let all who strive be seen. 
+If cliques form, their deeds are also seen—none may hide behind closed doors.
+
+Demos:
+But what if I find no place? 
+What if my gifts are not wanted here, but the next town over?
+ Will I be forced to wander, forever an outsider?
+
+Euchi:
+Travel to the community which is harmonious to your ability.
+Is this not the only true path of life, not easy but always of greater value to find community.
+Seek where you are needed. 
+Each community shapes itself, but all honor the same law: visible contribution.
+
+Thalion:
+But what of the soul’s needs? Who tends to song, to faith, to beauty? 
+If only function matters, will not the city grow hard, and hearts grow cold?
+
+Euchi:
+Art, faith, and care are no less service than fire or law.
+ Let them be weighed, let them prove their worth by the life they bring.
+Else should law demand respect by force.
+Your choices build your ability -- choose wisely.
+
+Kleon:
+And justice? Your courts rise from local to world, 
+but if every step is watched and every plea is logged, 
+does not the shadow of record itself become a tyranny? 
+Who forgives when the ledger remembers all?
+
+Euchi:
+Forgiveness is not the erasure of truth, Kleon, 
+but the act of knowing and choosing anew. 
+A record may scar, but it may also protect.
+
+Demos:
+And who ensures that your “new birth” does not become a new chain, heavier than the last? 
+How do we know the struggle is worth the pain?
+
+Euchi:
+The question is open, Demos, and must ever be. 
+There is no system that cannot harden, no liberty that cannot die. 
+The guard against tyranny is not in law alone, but in living memory and unending vigilance.
+A society cultivated to recognize vices and their cure.
+
+Thalion:
+So then, the greatest question remains unanswered: 
+How do we build a city that does not merely replace old cruelties with new, 
+but learns—forever, and in every heart—to forgive, to renew, to see worth in all?
+
+Euchi:
+That is the question for every age, Thalion. 
+Let us write it in the stones of this square, that we may never forget.
+
+
+
+“How do we build a city that does not merely replace old cruelties with new, but learns—forever, and in every heart—to forgive, to renew, to see worth in all?”
+
 
 Open Source
 All procedure is open source from government to enterprise.
@@ -1087,7 +1429,7 @@ ensuring that our quest for cosmic balance and absolute justice remains true.
 
 Kleon & Thalion: So it must be, Euchi. 
 Dialogue is our greatest safeguard. We shall revisit this again.
-
+.
 Global Initiative 
 The world will converge to the Individual World Order thru the propagation of health voluntary adoption. 
 Individual World Order is the only known government in existence to grow healthier which each generation of life.
@@ -1187,28 +1529,3 @@ America merely acts to deliver upon the international decision.
 
 Decades may allow the aggressor to recompense the injured.
 Decades may only delay the inevitable atop a long-standing, real, oppressive dread.
-
-
-
-
-
-
-notes
-reassign all residential
-each family must pay in service:
-keep elderly, guard home, defense, agri, build wildlife habitation, jury
-
-wildlife kept sacred, domain all living things. not all thibgs ubder man
-
-
-axiom nature: look to the universe for ultimate truth
-all fades, all struggles look to moons scars
-without strength exist no domain
-way of life can not exist without ability to maintain domain
-
-uniform axiom basis foundations
-unite diverse tribes via uniform basis 
-
-always exist convergence towards organized monopoly,  need exist protocols to reset
-
-milita monk stillness: anger, anxiety, argue, waste energy in times of scarcity, monk fasting training in stress conditions
