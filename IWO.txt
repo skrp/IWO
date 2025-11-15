@@ -157,6 +157,21 @@ The individual is defined as an accountable adult entity:
 Individuals are the sole holders of power: 
 	{ economic, militia, political, judicial, social, civic, academic }
 ✦
+Head of household is an official title of familiar governance.
+Line of succession is public information.
+
+Community may force choice of heir to court under claims of clanship establishment.
+DNA is public researchable data used to curb clan establishments by wedlock or adoption. 
+
+Adoption never supplants the official bloodline.
+The new bloodline may append to allow continuation of the heritage.
+
+Every 6 months the Head of household is required to vacate the region.
+Family stays at home to vote to reaffirm or replace the Head.
+This resolution is officially submitted to the community.
+Upon return the Head must accept the family choice or face legal expulsion.
+Mismanagement or abuse is checked by family decision.
+✦
 Individual centric society converges to independence, responsibility and honor.
 Individual societies cultivate competition in diversity; well-adapted to season and region.
 ✦
@@ -286,66 +301,82 @@ Africans favor warrior females, with an emphasis on adoption, to nurture strengt
 
 Tribal kingdoms set each citizen as family which appoints the King from the oldest & wisest.
 One Ring Platform
-Medium of interaction of the entire societal super-structure, from global to local. 
-One Ring Platform is the mind of the societal super-structure.
-Union of all generations by unfiltered & immutable data.
-Each individual is set to equality of every other. 
+One Ring Platform [ORP] is the information hub of the society from local to global.
+ORP hosts decentralized, synchronized, immutable data.
 
-This system leverages humanities greatest strength: collective reason.
-Global assessment of rationals upon unique situation.
-Only national adults able to decide.
-A distinct separation of influence from authority to enact.
+Humanities greatest strength is collective reasoning. 
+Unaltered history gives the future freedom to learn from the past.
 
-One Ring is an open source framework with public data: verified, then synchronized and lastly archived globally. 
-Each node of interaction contains the whole of the synchronized data.
-Data is deposited into immutable form: stone, satellite, ancestral temple, historic crypts.
-Global culture centers upon data as a safeguard.
-Each is able to archive the whole for all eternity.
+Information flows freely symmetrical.
+Equality of access is established between citizen and official.
+If one has public data, then all should have access to the public data.
+✦
+Every adult individual is required to be processed onto ORP.
+Freedom of movement is enabled by public information of identity & position.
 
-Each individual in existence, citizen and non-citizen, is required to be processed onto the platform.
-Further action by them is optional, but others may act onto their profile.
+All individuals exist on ORP. 
+Identity is verified by biometrics; exist no fake accounts.
+This establishes community safety and stranger-witnesses to confirm voter authenticity.
+✦
+Immutable favors honesty. 
+Public history of the Individual is public information.
 
-The society is composed only of identified individuals. There exist no bots, or false information.
-Dishonesty in any facet will be a historical scar that is non-erasable.
+Individuals may post on their own profile.
+Society may comment unrestricted onto profiles of others.
+✦
+Official lines of information flow:
+Household -> Community -> County -> State -> Region -> Nation -> Continent -> Globe
 
-The immutable nature of the data will show the transformative nature of man.
-Every person has faults and those public faults will press them to repent.
+Information stored data is the medium of the security of society. 
+All data is Opensource and freely transferrable.
+This allows any one to maintain a decentralized node to contribute to the platform.
+True decentralization is established by efforts of individuals and their capacity to run data servers for historic & current information.
 
-Society will be composed of imperfect individuals where there will be clear distinction between the divergent and those improving. 
+Data is stored for each generation in compression. 
+Not all data can be stored, but the most vital data is retained in compressed forms.
 
-One Ring Platform is decentralized.
-No one location contains central power over the whole framework.
-The system operates with equal nodes and predefined protocols.
+Main information exists on 8 server nodes:
+	{ DNA, Vote, Jury, Citizenry, Militia, Business, Social, Legislation }
 
-All the sectors of IWO which rely upon One Ring have a interest in maintaining & upgrading the systems both private & community.
+One of each type of server node connects to a reconciliation node, whose job it is to synchronize versions with other reconciliation nodes.
+Reconciliation nodes reach agreement with all updates to current-used cache data.
+Next, these updates are pushed onto the server nodes.
+Octagon of eight faces secure up-to-date global stability by their group reconciliation node which exists as the main line communication.
 
-Information on the One Ring is available to one as to the other. There is no secret data, only full symmetry of exposure.
-
-Data will be massive. The central heart of society will be a major focus for innovation in massive data storage, encoding & parsing.
+Archived data is sent to archival nodes.
+Data is compressed, packaged and stable, versioned across many octagons across the network.
+Main lines of information flow are by offline drive transfers.
+This stage adds a layer of verification that reconciliation nodes legitimately handled data. 
+✦
+Many sectors of IWO rely directly upon ORP.
+Many strong facets of society have a critical interest in maintaining & upgrading the network.
+Strong sectors build powerful nodes which benefit the entire network.
+Individual enthusiasts supplement the network authenticity with an independent isolation of power.
+
 Sections of the One Ring Platform
 
 Representation
 Biometric identification and current location will be incorporated into civilization.
-	{ face, voice, thumbprint, password }
+	{ face, voice, thumbprint, ...}
 
 DNA
-DNA & Lineage, are public information to keep harmony in a multicultural society.
+DNA & Lineage, are public information vital to keep harmony in a multicultural society.
+
 DNA is confirmed by 10 sources with 5 being international agencies.
-DNA is verified periodically every 10 years.
-Technological advances, boosted by globally local significance, will foster open-source on-site testing to prove validity of results as superior to black-box submissions.
+DNA is verified periodically at the minimum of once every 10 years.
 
 Witness
 Witness is an independent verification between two individuals. 
 An interaction chosen by a non-involved system.
-The quick meeting uses proximity-based protocols to confirm mutual identity. 
+The quick interaction uses proximity-based protocols to confirm mutual identity. 
 
 Serious actions require several witnesses. 
 This provides verification of the individual and the stance. 
 	{ vote, juror deciding, veto, amendment … }
 
 Wealth
-Land, Assets, Distributed-Assets are all public. Resources are of national interest.
-Public wealth implementation will converge all hidden wealth to be uncovered.
+Land, Assets, Distributed-Assets are all public. 
+Resources are of national interest.
 
 Land is the most stable form of wealth
 
@@ -364,46 +395,36 @@ Violation to divulge is a contradiction of the foundation of society.
 Citizenry
 Civic Duty is required by every adult member of the society.
 From child to elderly, each has ability to improve the community.
-Actions are given weight, verified by witness protocols, and thus these are summed into a numerical value.
+Actions are recorded by witness protocols and given weight.
 
 Militia
-Militia roles & achievements keep public honors. 
+Militia roles & achievements are public honors. 
 Militia & Viking engagements are listed by time. 
-Merits are listed and are upheld by comments.
-
-Every residential parcel of land must have a representative Defender which is publicly declared.
-In the event of death of the Defender, excluding death from viking excursions, the family is allowed a 10 year reprieve. 
-Police duty acts as a militia term. A Defender of the home.
-Militia terms being served alleviate two complete cycles after termination.
+Merits, good or evil, are listed and are upheld by witnesses.
 
 Vote
-Vote will all be public and permanent. 
-Demand to compel a public way of life is a public action.
-Protection of the axiom guard against forces which persecute citizens for belief.
+All votes are public and permanent. 
+Action to compel a public way of life is a public action.
+Persecution for vote is a serious crime against the foundation of society.
 
 Court
-Judge acts as the supreme referee to legal proceedings. 
-There exist no moderation or filtering of juror-deciding nor globally public comments.
+Judge acts as the head of the court, being elected by the jury.
 
-Jurors, publicly proven in the specific industry, are placed by by independent allocation. 
-All deciding are permanent, public and commented.
-All aspects of the profile, and local inspection are used to discover any non-documented bias.
-The most intelligent & applicable insights gain weight which is independent of the societal position, being sourced from juror or public comment.
-Juror deciding allow the quick rise of merit where no foundation exists. 
-Juror is a civic duty and counts against service expected, being regarded as a civil action only second to militia. 
+Juror is service to which any adult may volunteer.
+Actions are measurable and ranked based on the Individual's ability to research, conduct on-scene investigations, understand the situation, and finally reach a judicious judgement. 
 
 Business
-Work ranking, reviews, contracts and major deals must be public.
-To foster decentralization there are no centralized certification. 
+Work|product comment-based reviews.
+Community & State nodes hold all contracts which are accessible to the public.
 
-Merits and testimonials only enhance, but never barricade entry into an industry.
-The client is responsible for preliminary investigation and also testimonials which bear legal weight of truth.
+Client is responsible for preliminary investigation into testimonials & comments which bear legal weight of truth.
 
 Truth
-Truths are posted on own profile or comments upon Truths of others.
-Exist no restrictions upon Truths posted or commented.
+Truths are posted statements on own profile.
+Comments are posts on statements on other profiles.
+Exist no restrictions nor moderation of posts or comments.
 
-The voice of each individual reach the globe and the future.
+The voice of each individual able reach the globe and the future.
 This is the greatest check upon society. 
 	{ news, witness, origination, perspective, testimony, merit }
 
@@ -684,6 +705,13 @@ Let us write it in the stones of this square, that we may never forget.
 Militia & Viking
 , no army only militia, all land owners required one soul to defend invasion, all foreign engagements are by voluntary viking agreement, citizens arrest when accompanied by camera or unrelated individuals.
 
+
+Every residential parcel of land must have a representative Defender which is publicly declared.
+In the event of death of the Defender, excluding death from viking excursions, the family is allowed a 10 year reprieve. 
+Police duty acts as a militia term. A Defender of the home.
+Militia terms being served alleviate two complete cycles after termination.
+
+
 Local Militia is the only means to which man may attain any degree of liberty.
 Command is never passed to a non-local entity, in order to retain independence.
 ✦
@@ -873,6 +901,15 @@ Orac Scit: Thus may the nation thrive, aware of its limitations, nurturing virtu
 Judge & Jury
 
 appeals increase severity of punishment, jury centric deciding, convicted criminals are tributes to the animal kingdom.
+
+
+All deciding are permanent, public and commented.
+All aspects of the profile, and local inspection are used to discover any non-documented bias.
+The most intelligent & applicable insights gain weight which is independent of the societal position, being sourced from juror or public comment.
+Juror deciding allow the quick rise of merit where no foundation exists. 
+Juror is a civic duty and counts against service expected, being regarded as a civil action only second to militia.
+
+
 
 Judge aggregates Juror decisions then commits sentence within bounds of explicit laws.
 
