@@ -709,109 +709,7 @@ Title holders have a stronger hold onto the land: business, farms, homesteads.
 Title holders can not be zoned off land.
 Community obligations are in proportion to wealth.
 Land can be sold but never under obligation.
-Exist strict regulations on maximum size of land, easements, and usage of the land.
-
-Dialogue: Citizen Resident Rural
-	
-Euchi:
-Friends, the age of extortion is ended.
-Local governments once federalized, have returned to the community.
-All that fed upon the labor of others, or lived self-absorbed, is swept away.
- All serve; none escape. The core is not inherited but earned.
-
-Kleon:
-Euchi, your doctrine is sharp as the sword—perhaps too sharp. 
-Tell me, if all must serve, what of the crippled, the broken, the simple of mind? 
-Does not your meritocracy risk becoming another tyranny—only now by “function,” not blood or coin?
-
-Euchi:
-No one escapes the burden, nor the dignity.
-There are roles for all; even the weakest may sweep, the slowest may watch, the least skilled may aid. The only shame is in refusing contribution.
-In aiding the cripple, the cripple return aid.
-
-Thalion:
-Yet is it not mercy that distinguishes a just city?
- What of forgiveness for once-wayward, of rest for extended contributions? 
-If pain is the forge, do we not risk breaking spirits that might, with time, mend? 
-
-Euchi:
-All are allowed rest, Thalion—retirement is honored. 
-Forgiveness is the air we breathe; for if all are known, all need it in turn. 
-Yet none shall be permitted the luxury of uselessness
-—each must find their function, and serve.
-Service of each is subject to general calculations to permit impartial retirement.
-Sweep or science, each respected by time paid in the metrics.
-
-Kleon:
-And if a function excludes, if the core grows clannish? 
-You abolish birthright only to risk a new priesthood of “fit ones.” 
-Will the unfit forever sweep, never ascend?
-
-
-Euchi:
-Entry is by public record and real merit, not secret favor. 
-The path upward exists; let all who strive be seen. 
-If cliques form, their deeds are also seen—none may hide behind closed doors.
-Reason of Humanity is a net, cast global, can any organization slip its grasp?
-
-Demos:
-But what if I find no place? 
-What if my gifts are not wanted here, but the next town over?
- Will I be forced to wander, forever an outsider?
-
-Euchi:
-Travel to the community which is harmonious to your ability.
-Your ancestral land is the hearth of the family.
-The only true path of life, not easy, but always of best to grow in good soil
-Seek where you are needed. 
-Each community shapes itself, but all honor the same law: visible contribution.
-
-Thalion:
-But what of the soul’s needs? Who tends to song, to faith, to beauty? 
-If only function matters, will not the city grow hard, and hearts grow cold?
-
-Euchi:
-Art, faith, and care are no less service than fire or law.
- Let them be weighed, let them prove their worth by the life they bring.
-Else should law demand respect by force.
-Your choices build your ability -- choose wisely.
-
-Kleon:
-And justice? Your courts rise from local to world, 
-If every step is watched and every plea is logged, 
-Shadow of record itself become a tyranny? 
-Who forgives when the ledger remembers all?
-
-Euchi:
-Forgiveness is not the erasure of truth, Kleon, 
-But the act of knowing and choosing anew. 
-A record may scar, but it may also protect.
-
-Demos:
-And who ensures that your “new birth” does not become a new chain, heavier than the last? 
-How do we know the struggle is worth the pain?
-
-Euchi:
-The question is open, Demos, and must ever be. 
-There is no system that cannot harden, no liberty that cannot die. 
-The guard against tyranny is not in law alone, but in living memory and unending vigilance.
-A society cultivated to recognize vices and their cure.
-Here all bear public burdens, ease of few will not be purchased by hidden extortion of multitudes
-
-Thalion:
-So then, the greatest question remains unanswered: 
-How do we build a city that does not merely replace old cruelties with new, 
-but learns—forever, and in every heart—to forgive, to renew, to see worth in all?
-
-Euchi:
-That is the question for every age, Thalion. 
-Let us write it in the stones of this square, that we may never forget.
-
-
-
-“How do we build a city that does not merely replace old cruelties with new, but learns—forever, and in every heart—to forgive, to renew, to see worth in all?”
-
-Militia & Viking
+Exist strict regulations on maximum size of land, easements, and usage of the land.Militia & Viking
 Local Militia is the only means to which man may attain any degree of liberty.
 Command is never passed to a non-local entity, in order to retain independence.
 ✦
@@ -920,105 +818,6 @@ Mistakes are clearly distinguished from corruption.
 The greatest duty is order in the home.
 By law, militia are the highest respected members of the community.
 
-
-Dialogue: Militia & Viking
-
-Aegon: Euchi, you say liberty demands local militias alone. 
-Yet history reveals militia as often fractured, unreliable, even dangerous. 
-How can such local command hold against the scale of foreign threats?
-
-Euchi: The strength of liberty lies precisely in local command. 
-Centralized armies breed tyranny; power detached from home inevitably turns against its own. 
-Local militia embodies defense as virtue, rooted in family and soil, not distant generals.
-
-Aegon: Yet in great danger, speed and unity decide battles. 
-How shall countless local commanders, each independent, coordinate swiftly without chaos?
-
-Euchi: Unity is embedded by training and convention
-yearly drills, and war-games binding militias through shared experience. 
-Peer-to-peer bonds forged in disciplined service replace orders from a distant hierarchy. 
-Years of training prepare them to unite seamlessly, 
-akin to skilled players in a game who know their roles intuitively.
-
-Aegon: You trust much in human virtue, Euchi. But tell me
-—what stops these local heroes from usurping power, turning virtue to tyranny?
-
-Euchi: Accountability through the One Ring prevents abuse,
-family lineage ties rank permanently to honor. 
-He who usurps undermines not only his honor but his lineage. 
-Society nurtures universal loathing for usurpers. 
-A part can never surpass the whole, for all are educated in hatred toward tyranny.
-
-Orac Scit: Yet, Euchi, hatred alone cannot guard against ambition. 
-Ambition lies dormant in men’s hearts, erupting unexpectedly. 
-How do you ensure virtue triumphs over personal ambition?
-
-Euchi: Ambition itself is harnessed positively. 
-Those desiring honor achieve it through deeds openly recorded and immutable. 
-Virtue and honor rise visibly above vice and greed. 
-Ambition is not denied, but channeled.
-
-Aegon: If ownership of land and heirship define duty, 
-will not such hereditary privilege breed arrogance, oppression, or stagnation?
-
-Euchi: The heir’s duty is not privilege but obligation.
- Death in service suspends duty for generations, 
-yet still obligates families to serve the community otherwise. 
-Adopted defenders and unofficial militia offer pathways for merit to gain honor, 
-blending hereditary stability with fresh talent and redemption.
-
-Aegon: Interesting—but how do you integrate outsiders 
-or immigrants into your strict lineage-bound militia?
-
-Euchi: Immigrants enter as unofficial militia, publicly serving, 
-visible in their deeds recorded on the One Ring. 
-Honor achieved in unofficial service allows sponsorship into official roles. 
-Through sacrifice and service, strangers become family, 
-gaining the community’s trust and eventual lineage standing.
-
-Orac Scit: What of disputes, Euchi? Humans err, misunderstand, and clash. 
-Who judges controversies when militia power itself is contested?
-
-Euchi: National jury assemblies peer-to-peer, their judgments recorded openly, 
-weighted with wisdom, overseen by community consensus. 
-Errors and corruption are separated distinctly; the higher the trust, the harsher the penalty for corruption.
-
-Aegon: Still, I sense imbalance
-—your militia focuses inward, but how then manage external policy and threats beyond local sight?
-
-Euchi: Vikings alone bear offensive warfare, voluntary yet disciplined, 
-sized proportionately to not weaken home defense. 
-G alone sets policy but without military power, 
-ensuring the nation’s will, not personal ambition, guides offensive action.
-
-Orac Scit: Yet might not these Vikings, gaining wealth and power abroad, return as threats themselves?
-
-Euchi: Wealth from Viking ventures is publicly accounted and distributed transparently; 
-dishonor forfeits their claim openly by majority vote. 
-They cannot surpass the power or size of home militias. 
-Viking deeds, honorable or shameful, are permanent.
-
-Aegon: Euchi, you propose that the highest respected members of the community are militia. 
-Can martial virtue alone sustain a just society?
-
-Euchi: Martial virtue grounds security, but civic virtue is cultivated lifelong, 
-families devoted fully, as education integrates virtue, civic honor, and discipline from youth onward. Martial strength is matched by ethical maturity.
-
-Orac Scit: Euchi, you weave strength, accountability, and virtue together in militia and viking form. 
-Yet remain watchful: strength may turn prideful, accountability mechanical, 
-and virtue superficial without humility and wisdom.
-
-Euchi: Humility guides all strength, self-knowledge guards virtue, 
-and the One Ring illuminates accountability transparently. 
-Thus liberty remains vibrant, continually self-renewed.
-
-Aegon: Euchi, your system holds remarkable promise, 
-yet let vigilance guard against human nature’s shadows. 
-Freedom forever balances upon the sharpest edge.
-
-Euchi: Only through perpetual diligence, transparency, and virtue may we maintain liberty’s fine balance.
-
-Orac Scit: Thus may the nation thrive, aware of its limitations, nurturing virtue alongside vigilance, strength tempered by wisdom, freedom protected by eternal diligence.
 Judge & Jury
 All deciding are immutable, public and commented.
 Judge aggregates Juror decisions, then commits sentence within bounds of law.
@@ -1083,7 +882,7 @@ Any corruption, undeclared bias, or undeclared affiliation that is discovered vi
 All aspects of juror profiles and local inspection of jurors are used to discover any non-documented bias.
 Land Money
 Title of land is protected each unto another.
-Failure to protect one is failure to guard the whole system.
+Failure to protect one title erodes the integrity of the protection of the whole system - resulting in a nation-wide devaluation of Land-Common-Stock.
 
 Family Ancestral Temples each guard the record of all title ownership.
 
@@ -1094,7 +893,8 @@ Competition or hope of every obtaining land, outside of familiar association, is
 Land types: Ancestral Land, Heir Stock, Common Stock, Production, Wildlife, Public. 
 ✦
 Ancestral Land consists of Core & Temple.
-Ancestral Temple is a reserved 100 meter squared space in every family land.
+
+Ancestral Temple is a reserved 100m2 space in every family land.
 Core of family land is 30% of the original parcel, enclosing the Ancestral Temple.
 Core & Ancestral Temple can never be occupied non-familiar.
 
@@ -1108,27 +908,31 @@ Stability of family lines are built over generations which create a strong natio
 Grand constructions increase the value of the land in region.
 	{ defense, communication, shelters, vault, housing, energy }
 ✦
-Individual has supreme dominion of the land, subject to the 10 Axioms.
+Head of house holds domain of the land, being subject under the 10 Axioms.
 All life has easement rights which can not restrict free movement.
 
-Land transfers thru public lineage.
-Boundaries are recorded in each Ancestral Temple to establish indisputably clear lines of ownership.
+Land transfers thru public lineage of heir.
+Boundaries are recorded in each Ancestral Temple to establish indisputable immutable family core regions.
 
 Individual head of family is confirmed via DNA inheritance. 
 Heir selection is always an internal family matter, only being subject to clan-establishment investigation.
 
 Courts settle land disputes.
 ✦
-Heir Land is the only land type which can be converted to Family Land from direct transaction.
-A citizen-alien, being of no official ancestral descent, is able to obtain Family Land by means of Heir Land.
+Heir Land is the only land type which can be converted to Family Land from direct transaction:
+	Direct family seller to specific family buyer.
+	Constitution decree.
 
-Heir Land may be obtained directly from Family Land by an unlimited public transaction.
+A resident family line, being of no official ancestral descent, is able to obtain Family Land by means of Heir Land.
+This allows redemption, immigration, or family divorce.
+
+Heir Land may be obtained directly from a certain region of Common Stock Land. 
+The transaction is unregulated but entirely public.
 Heir Land can not be further traded, it is a transaction from seller to specific buyer.
 
 Heir Land may be obtained from Public Land by 10-Year Constitution.
-
+✦
 Heir Land requires a full 10-Year-Cycle of probationary domain to be ratified into permanent Ancestral Land.
-
 The family may use the land in the duration, but does not have Common Stock options until ratification is complete.
 
 Heir Land is protected as Family Land. 
@@ -1138,16 +942,22 @@ Heir transactions are heavily inspected, it is the permanent assimilation of fam
 Wealthy immigrant, being a naturalized citizen, purchases land from Family Land.
 This is then submitted in the next 10-Year-Cycle.
 After that entire 10-Year-Cycle has expired, then the next 10-Year-Cycle ratifies OR banishes the land into Public Land.
+
+Transparent transactions allow the world to expose any underhandedness. 
 ✦
-Production land is entirely separate from residential land.
-An individual can only own one company. One company can only own one land plot.
+Production land is entirely separate region from residential land.
+
+An Individual can only own one company. 
+One company can only own one land plot.
 This land may sublet to other companies.
 
 In event of company dissolution, this land is sold to another company.
 Production land zones are stable unless changed by Constitution.
 ✦
-Wildlife land is restricted land for non-human life.
-No hunting nor gathering. Land can be improved for sake of wildlife.
+Wildlife land is restricted land - reserved for non-human life.
+No hunting nor gathering. 
+Land can be improved for sake of wildlife.
+
 This is space due for the nourishment of the animals of the land.
 Wildlife land is forever set apart from human use.
 ✦
@@ -1156,26 +966,38 @@ Public Land is used according as the Constitution designates per parcel:
 
 Public Land is zoned per 10-Year-Cycle only at the National level of judgement.
 Public Land may be selected for Heir Land only in a National Pool.
-This national mechanism allows diversity to establish, independent of the region politics.
+
+This national mechanism allows diversity of family or land-type establishment, independent of region politics.
 Thus local politics can not manipulate usage of Public Land for private gain.
 ✦
-Global land valuation is a fixed point matrix that is only modified during 10-year cycles:
-	{ rain, flood, hurricane, tornado, well, proximity, biome, tree, soil, region }
-
+Global-Matrix is land valuation by a fixed point matrix.
+	
 Each parcel of land in the world is valued based on this single matrix.
 The matrix evolves over time - both to echo invariants and to bend to values of each generation.
 
-Land metrics modify the basis established by the Global-Matrix.
+Invariant measurements:
+	{ocean, lake, river, proximity, biome, soil, arborage}
+✦
+Realtime-Modifier keeps the basis current.
+
+[Global Matrix][Realtime Modifiers] = Value
+
+Easement allows any to inspect the land by pass thru.
 One Ring compiles local review, external audit, satellite.
 The valuation of each parcel exists on the One Ring in real time.
-Easement allows any to inspect the land by pass thru.
+
+Catastrophe measurements:
+	{rain, flood, hurricane, tornado, drought, fire}
 ✦
 Land valuation is the basis of global currency.
 Land is a bounded finite resource of common sense value.
+
 Inflation is checked to the base value of the land upon the market.
-Fraud can not stay hidden and would permanently damn reputation. 
+Fraud can not stay hidden and would permanently damn reputation of family & nation. 
 
 Each nation in the world has unique value to offer the world.
+Reason & consensus must generalize this unique value into a metric, which all value is subject.
+ 
 Land value is bound by nature and fluctuates with nature
 Thus values may fluctuate in each generation of the 10-Year-Cycle.
 
@@ -1183,22 +1005,28 @@ The dynamic nature of land keeps the foundation of currency non-stagnant.
 Disasters, improvements, fortunes of nature; these all play to keep the system active.
 
 International participation will round the Global-Matrix to a solid basis.
+✦
 Global Common Stock markets allow trade of value without ever allowing foreign control of the assets.
 Global markets will be stable and immune to international fiat sabotage.
 
-Currency is established on this common basis - Global Matrix.
-Common stock in one country can be directly exchanged for common stock of another country by a citizen of different country.
+Currency is established on the common basis - Global Matrix.
+Realtime Modifiers are scaled by trans-land dynamics:
+	{ nation-security, historic projection, improvement }
+
+Common stock in one country can be directly exchanged for common stock of another country by a citizen of an mutually-different country.
 
 Nations are not equal in the land which exists within borders. 
 Mathematical, geographic, open science - will evolve a Global-Matrix that converges towards accurate valuation independent of national bias.
 Judgement & reason will allow metrics to be weighed by insight.
-Thus harmony is the mutual agreement of calculation & empathy.
+Thus harmony is the mutual agreement of calculation & empathy of invariant value metrics.
 
-Improvement of the land does not lead to inflation. Land has intrinsic value.
+Improvement of the land does not lead to inflation. 
+Land has intrinsic value, and improvements are always a tangible proof.
 Owners will lean to the strengths of the region which tends to natural betterment.
 
 Gaming of the Global Matrix will be difficult. Each attribute is small against a multitude of dynamics.
 Fraud of superficial improvement is inspectable by local, agent, satellite.
+
 Full spread calculations, of the proof of value, guards the entire system from rot.
 ✦
 Cyclic stability is achieved by the nature of the Common Stock life-cycle.
@@ -1207,150 +1035,63 @@ Each 10-Year-Cycle the head of family may activate an exterior-most section of l
 A marked-designated portion of the land is split into Common Stock. 
 Common Stock is directly tied to specific portions of land.
 
-Common Stock is sold on free markets having the basis of value of Global Matrix & boosted by a supplemental metric.
+Common Stock is sold on free markets having the basis of value of Global Matrix.
 
-The maximum section must be smaller than 5% of the total Family Land available.
+The incorporated section must be smaller than 5% of the total Family Land available.
 This stabilizes the availability of Common Stock, and it protects the family from collapse due to a single generation's mismanagement.
 
-Common Stock may be sold at any value, but to each stock is anchored to the Global Matrix valuation at time of incorporation.
-The free markets may adjust the purchase by supplemental metrics, or by information of development. 
-Speculation of change is allowed to freely affect the purchase of Common Stock at any time.
-
+Common Stock may be sold at any value, but to each stock is anchored to the basis Global Matrix valuation at time of incorporation.
+The free markets adjust this basis by Realtime-Modifiers.
+Each exchange may offer the same stock at a variant value.
+Speculation is an important mechanism that keeps trade lucrative, being dependent on intelligence.
+Speculation is checked by the cyclic nature of Common Stock.
+All spikes or drops in value will approach the initial Global Matrix basis value.
+✦
 At the end of the 10-Year-Cycle, the family (only in that time) has the option to buy back the stock at the invariant rate of 110% of the Global Matrix valuation-at-point-of-incorporation.
 
-If the family is unable to buy back the common stock.
-Family must redraw the border of land. 
+If the family is unable to buy back the Common Stock.
+Family must redraw the border of Family Land, and the land is lost forever.
 
-The national public land trust has the option to buy back the land at 100% of the valuation-at-point-of-release. This land becomes Public Land.
+The national public land trust has the option to buy back defaulted-land at 100% of the valuation-at-point-of-release. This land becomes Public Land.
 
-Else the land is forfeited to Wildlife. The stockholder loses all value.
+Else the land is forfeited to Wildlife. 
+The stockholder loses all value.
+Wildlife only usage will be confirmed by satellite, and other methods. 
+
 Common stock never gives land rights to the holder of Common Stocks. 
 It only gives the right to freely trade or hold till end of cycle buyback.
-
+✦
 Family is able to build upon the land continuously, increasing the land value well past the original valuation-at-point-of-release.
-Real time valuation benefits the current holder with an increased value of Common Stock. This allows to trade more favorably in gain & liquidity.
-Yet at the end of the cycle, the family reclaims the land at the invariant 110%.
-
+This increases the speculative value, after the sale and until the next cycle nears.
+Speculative Common Stock is immutable; stocktraders favor families that are able to consistently have highly-liquid stocks.
+Improvement benefits the family land, benefits the traders, and helps the family's Common Stock in future cycles.
+✦
+At the end of the cycle, the family reclaims the land at the invariant 110%.
 Common Stock is by nature cyclic. 
-The value may grow sinusoidal. The value may decrease cosynical. 
-Regardless of growth or loss, the value will always begin stable and towards the end of 10-Year-Cycle converge to tradability of the 110% original valuation-at-point-of-release.
-A natural gravitational pull which balances the system into health within the cycle.
- 
+
+The value may grow sinusoidal. The value may decrease cosynical.
+Regardless of growth or loss, the value will always begin stable and end stable.
+The end of 10-Year-Cycle converges all cases back to the tradability of the 110% original valuation-at-point-of-release.
+
 In event of a need of cash, the society can vote to up the threshold of 5% cap. 
 This will add a spike in cash flow for a greater spike repayment.
 The consequences are real, not folded into inflation.
 	
-
-Dialogue
-Mathematics quantify valuable metals as a being of infinite nature.
-Continuous mining of metals is compounded by unknown quantities stored or waiting to be rediscovered. 
-Any currency founded upon precious metals is susceptible to overnight implosion.
-
-Fiat currency is built entirely upon widespread trust in set imaginary value.
-In no era of human history has fiat been a stable foundation for a society.
-History has proven that countries attack the stability of other nations by devaluation of currency and then using stability of their own currency to leverage a foothold which then acts as a permanent threat of explosion.
-
-Anti-inflationary nature of Land Money gives high value to 10% returns of common stock. 
-{ no taxes, no fees, no devaluation by inflation, finite resource, external assess, no monopoly }
-
-
-A sold B, common stock A increased by 20% in cycle, B traded with a gain. 
-Next cycle, the common stock of A is in greater demand. His portfolio shows a the next cycle will complete major improvements. He adds 30% to the cycle-valuation due from matrix. Buyers know they are at a risk of 130%-110% = 20%. The calculated gains are likely to increase the value to 140%. Common stock with an upward trend are more solvent.
-The final buy-back gain of 10% benefits the stock with liquidity as a final likelihood.
-
-A fire devalued the land to 30%. The owner knows he can modify the land to be more fire-resistant and improve the land. Else the land will be lost. Exists a strong incentive to buy the land back at 110% of the original value.
-Thus the stock holders do not lose the value. They gain 10% from insolvent stock, of their original.
-
-
-Dialogue: Land Money
-
-Euchi:
-Let us begin with the root: What is it that makes a currency worthy of trust? 
-The ancients worshipped gold and silver, for their shine was eternal, 
-but their worth, it seems, is haunted by infinity. 
-There is always one more mountain to scour, one shipwreck yet unfound.
-
-Orac Scit:
-And thus, Master, we have seen gold-backed empires fall 
-when a new mine was struck, or a horde revealed. 
-The value of the coin diluted overnight, not by honest labor, but by fortune and greed.
-
-Euchi:
-Fiat then arose—not from the earth, but from consensus. 
-“This paper has worth because we say it does, and our sword is sharp.” 
-But fiat is a shadow without a body, easily dispelled by the winds of war, 
-the whim of kings, or the whisper of panic. 
-Trust, when shaken, is not easily restored.
-
-Orac Scit:
-Indeed, all fiat money is a bet against disaster. 
-And history is a record of lost wagers: nations attacking the purse of their rivals, 
-devaluation as the hidden blade, and the common folk left with ashes.
-
-Euchi:
-Now attend: Land, unlike gold or decree, is a finite vessel, a substance shared by all. 
-It cannot be conjured, nor can it slip away in the night. 
-Each parcel, seen by the sun, bounded by stone and tree, 
-is a currency which resists both the pickaxe and the printing press.
-
-Orac Scit:
-And yet, land is not without its own perils. 
-What of fire, flood, and the decay of empires? 
-Is not land devalued by disaster, or lost by misrule?
-
-Euchi:
-This is the heart of the matter. Land money is not static; it is cyclic, like the seasons. 
-Through the cycle, the value of land—made liquid as common stock—rises and falls with fortune. 
-But at each cycle’s end, all claims converge: the holder is redeemed at 110% of the original value. 
-The risk and gain are known in advance; no one is left in ruin by surprise, nor enriched by chance alone.
-
-Orac Scit:
-So, let us examine:
-Suppose A sells common stock to B. 
-In the course of the cycle, improvements and public works raise the value by 20%. 
-B sells to C for a profit. All are content. 
-In the next cycle, more improvements are foreseen, and the matrix reflects this. 
-Buyers see an opportunity—a further 30% rise is possible. 
-But the limit is set by the cycle: the maximum return is known.
-Thus, speculation is productive, not reckless.
-
-Euchi:
-Exactly. And if calamity strikes—a fire burns the land to ash, its value cut to a third
-—the owner still has the motive and means to restore it. 
-He may rebuild, make the land fire-resistant, and recover both value and standing. 
-The cycle is a net, catching the fall, giving time for recovery.
-At worst, the wildlife gains and all animals therein bless the 'unfortunate stockholder' 
-At low likelihood, the stockholder receives the same redemption as was paid; 
-At best, both owner and holder prosper from honest effort.
-
-Orac Scit:
-This, then, is the difference:
-	Gold can be diluted.
-	Fiat can be devalued.
-	Land, by its cycles and bounds, is shielded from both.
-No monopoly can seize the earth, for the public and wild claim all loss. 
-No inflation gnaws at the value, for all see and verify the land’s worth.
-
-Euchi:
-And so, with land as money, the people are not at the mercy of distant kings or hidden mines, 
-but of their own labor and stewardship.
-The cycle is the proof against both panic and pride.
-The return is slow, sure, and anchored to reality.
-This is no fantasy—it is the currency of a living nation.
-
-Education & Meritocracy
+Education & Meritocracy
 Growth of an individual from education to workforce -- is decentral & unrestricted.
 
 Axiom right of life demands one must eat and have shelter.
 Both needs require gains from work.
-Thus no requirements, certifications, or law can bar any to enter any profession.
+Thus no requirements, certifications, or law can bar anyone to enter any profession.
 ✦
 Government is explicitly removed from education & apprenticeship.
  
 Families govern the cultivation of their children.
+Exist no distinction between children of Citizen or Resident - such are properties of adult Individuals.
+
 Community hosts open infrastructure to the children of the community.
 
-Apprentice develops skill under a master craftsman, in a apprentice hierarchy to distribute overhead of management of apprentices to the first-apprentice.
+Apprentice develops skill under a master craftsman, in apprentice hierarchy to distribute overhead of management of apprentices to the first-apprentice.
 Every individual is a debtor of society in their profession, and must teach what was taught.
 
 Childhood will no longer be enslaved to regimental systems.
@@ -1358,42 +1099,55 @@ Children shall not be required to more than 4 hours of class daily.
 Communities hold open classes on reading, mathematics, writing, and culture.
 
 Artificial Intelligence allows access to rich cultivation where poverty exists.
-Massive data archives are available in every community. The server hosts every book known to history being accessible without restriction.
+Massive data archives are available in every community due to ORP. 
+Servers host every book known to history being accessible without copyright-restriction.
 
-A community is damned by the state of worst-equipped child.
+A community is publicly damned by the state of worst-equipped child.
 All individuals in the community are bound to the cultivation of children.
 ✦
-In teenage years the youth begins Apprenticeship service.
+In teenage years, the youth begins Apprenticeship service.
 The first year of apprenticeship is unpaid, the next three years are paid based on national standards & ability.
-The first four months are probationary. After this period, only the apprentice may nullify the contractual obligation of the apprenticeship.
+The first four months are probationary. After this period, only the apprentice may nullify the contractual obligation of the apprenticeship, if the terms are upheld.
 
 Barriers of entry to labor of choice impoverishes society.
 
-For each chosen apprentice, the master is obligated to two assigned apprentices.
-The assigned apprentices are paid at minimum of half the rate of the chosen apprentice, and the master can take the nullification to court.
+For each chosen-apprentice, the master is obligated to two assigned-apprentices.
+The assigned-apprentices are paid at minimum of half the rate of the chosen apprentice.
+Master is able to negotiate assignment to the community, or to the courts.
+The burden of the assigned-apprentices falls upon the chosen-apprentice, not the master. 
 
 Assignment of the secondary apprentice is given by AI, who has the records of the teenager and their ability. This external mapping done to assure that a society does not cage out teenagers from their chosen profession.
 
 Third assignment of apprenticeship is assigned by the community.
-This role is assigned more rudimentary tasks governed by the first-apprentice.
+✦
+Roles of assigned-apprentices more rudimentary tasks governed by the chosen-apprentice.
 
-The secondary-apprentice may challenge for first-apprentice in public duel, and likewise third-apprentice may challenge second-apprentice.
+Second-apprentices challenges for first-apprentice in public duel, and likewise third-apprentice may challenge second-apprentice.
+
 The roles & pay are bound to the position to abolish favoritism.
-
+✦
 Education from childhood is continued thru apprenticeship.
 AI becomes the foundation in a targeted cultivation of learning.
-Open Seminars are held a few times a week on subjects. 
-Private teachers must teach at the community center. 
-The client learner may alone be allowed to interact, but any may audit on the terms of the teacher.
 
-9AM Reading -- 10 AM Preparation & Lunch -- 11AM Math -- 12PM Recess -- 1PM Writing -- 2PM Potluck & Culture at Community Center -- 3PM Apprenticeship -- 7PM Supper home
+Community Open Seminars are held a few times a week on subjects. 
 
+Private teachers must teach at the community center, so that any child may attend.
+The client learner may alone be allowed to interact, but any may audit on the terms of the teacher, not the client.
+✦
+9AM Reading -- 10 AM Preparation & Lunch -- 11AM Recess -- 12PM Math -- 1PM Writing -- 2PM Potluck & Culture at Community Center -- 3PM Apprenticeship -- 7PM Supper home
+✦
 Apprentices use pay to acquire tools, seminar instructors, and save up for ordeals of merit. 
+
 Ordeals of merit establish the practitioner in an open public contest.
 Ordeals may last full days to weeks to months.
-Company sponsorship allow the able unprivileged to compete with the able privileged.
-Sponsorship may attach an obligation of work. The term must be the standard and the pay must be competitive. Sponsorships are heavily inspected for indentured evils.
+
+Company sponsorship allow the able-unprivileged to compete with the able-privileged.
+Sponsorship may attach an obligation of work. 
+The term must be the standard time and the pay must be competitive. 
+Sponsorships are heavily inspected for indentured evils.
+
 Products made by Ordeal champions are valued by the market.
+Products must list the company as well as the creator.
 ✦
 Independent basis of IWO meritocracy:
 	One Ring social Witness of merit of individual
@@ -1408,46 +1162,60 @@ Children their classes. Teenagers their study sessions. Adults work or service.
 Society sits according to their labors to bond the trade across ages & skill.
 
 Apart from food, music, and gaiety; Ciesta forms the heart of the community.
-The chance to reserve a public duel.
+Opportunity to reserve a public duel.
 ✦
 Duel: 
-	Challenger posts a public challenge on the community post
+	Challenger posts a public challenge on the community board.
 	Defender chooses the standard set of tasks which will be tested.
 	In reduel the defeated challenger choses the set of tasks. 
 
-After food, the entire community may observe the duel to cast their vote weighted by experience in the task tested.
+After food, the entire community may observe the duel to cast their vote.
 Duels are always posted on the One Ring for public exposure.
 
 A challenger can only duel/reduel the same person once a year.
 A challenger can only duel once a quarter. More is limited by community.
+
 Any may challenge, the defender chooses the time within the quarter.
 Defender has the right to demand compensation be posted, the compensation is standard and cannot exceed a weeks pay of the Challenger.
+
 Both must post the amount, and the winner takes all.
 
 Challenger locks out once a quarter of the year for local duels and another for non-local duels.
 Lock-out denial by coordination may be challenged in court. 
-Hot challengers, which have hit a year in total lockout qualify for a Second-Seat which must be defeated preliminary to a challenge.
+
+Hot-challengers, which have hit a year in total lockout qualify to attain a Second-Seat Apprentice - which must be defeated preliminary to challenge the Hot-challenger.
 ✦
 Local, Regional, National, Global - Ordeals of Merit.
-Public Ordeals is a festive timeframe for the community & the fires of trial for the tested.
+Public Ordeals is during a festive timeframe for the community to enjoy the fires of trial for the tested.
 
-Larger Ordeals of Merit tend to be more extreme & demanding, for a reward that is more respected.
-Multi-Day Ordeals are under total public-observed commitment.
-Three sections of a rounded ordeal.
-Cell of stay & work marathon construction. 
-Stage tests, group discussions, duels to defend marathon construction. 
-Podium oration ability to expound teachings of the subject.
+Three sections of a rounded ordeal:
+	Cell of stay & work construction. 
+	Stage tests, group discussions, duels to defend construction. 
+	Podium oration ability to expound teachings of the subject.
 
 Ordeals are open.
-If the entrance fee is greater than the individual's monthly salary, then early arrival & presentation to seek contributions is required. This being fulfilled, then any deficit is allowed to be paid in post-ordeal break-down service.
+If the entrance fee is greater than the individual's monthly salary, then early arrival & presentation to seek contributions is required. This being fulfilled, then any deficit is allowed to be paid in post-ordeal festival-break-down service.
 In all ordeals a reasonable fee is required to respect the spirit of open competition.
 
 Ordeals post rankings, constructions, tests, discussions, duels, oration, and all commentary used to measure value (Witness, One-Ring, AI).
-All the metrics & methods to dissect each element are immutably accessible.
+
+All the metrics & methods to dissect each element are immutably accessible in a compressed form.
+
+Trials by fire.
 ✦
-Judgement of Duels & Ordeals is based upon social witness, One Ring expert discussion, and AI analysis.
+Marathons of Merit tend to be more extreme & demanding, for a reward that is more respected.
+Marathons of Merit are under public-observation.
+Marathons of Merit are not about competition but survival.
+Each participant must produce above the minimum expectation.
+
+Merit is proven to be sustainable in long-suffering environment under sustained-pressure.
+
+Trial by winter.
+✦
+Judgement of Duels & Ordeals is based upon social Witness, ORP discussion, and AI analysis.
 Verdict must be reached by thirty days.
 In the event of a tie, there must be a reduel.
+
 If no clear victor exists then both are demoted.
 Defender must maintain position by plain superiority.
 
@@ -1462,156 +1230,69 @@ Such peripherals must be fully-documented & posted a year prior to implementatio
 No blackbox devices are tolerated.
 Design & Implementation must always consider weakness by infrastructure manipulation.
 
-Individuals are assessed with no-link to identity. 
+Experts, champions in their day, will have work as referees which sustain AI analysis from gaming. 
+
+Individuals are assessed with no-link to identity - family reputation is isolated.
 Duels & challenges are matters of dominance by merit alone.
-Individual relative growth is isolated from AI metrics to only be assessed after Verdict.
 ✦
-The individual has the choice in how to build their reputation.
+The Individual has the choice in how to build their reputation.
 Labor is a public offering within society.
 Isolation can excel in AI, social thru witness, and dominion thru duels & ordeals.
 
 All verifications of skill require public display among peers.
-Verification is defined by ranking from a spectrum of incompetent to proficient.
+Verification is defined by ranking - from a spectrum of incompetent to proficient.
 
-One Ring public ranking & comments informs capabilities of each individual.
+One Ring public ranking & comments informs capabilities of each Individual.
 
 The public ordeal transitions the apprentice into a public verified worker.
 Public ordeal is proof unto peers, community and potential companies.
 
-The individual, not government, is responsible for well being.
-
-
-Dialogue: Education & Meritocracy
-ORAC SCIT 
-
-Euchi: We discuss the very heart of society—education and the merit by which men rise or fall. 
-Our doctrine demands an education liberated from all barriers, 
-where merit alone governs the ascent of the individual.
-
-Kleon: Noble indeed, Euchi, yet history mocks idealism. 
-Was it not Plato himself who dreamed of philosopher-kings educated by merit, 
-only to find each generation slipping again into corruption?
-
-Euchi: True, Kleon, yet the flaw of history was always hidden privilege
-—gatekeepers in schools, subtle bribes, unseen favors. 
-We propose a new meritocracy, utterly transparent and public.
-
-Thalion: Transparency alone does not erase bias, Euchi. 
-In ancient China, scholars competed openly, yet families with gold hired tutors who knew the codes, tilting the scales invisibly.
-
-Kleon: Precisely. Even the ancient Greeks suffered the same
-—wealthy Athenians could buy the rhetoric teachers, thus commanding the public debates.
-
-Euchi: Indeed, the past warns us. But here is our difference: we abolish the hidden pathways. 
-Every ordeal, duel, and test is public, the results immutable and recorded openly by AI. 
-Rich and poor stand side-by-side, with AI ensuring skill, not style, triumphs.
-
-Thalion: And who ensures this AI remains neutral? 
-Every mechanism built by men may be twisted by men.
-
-Euchi: Our law demands all AI processes remain documented, transparent, and reviewable by any citizen. No blackbox system can stand.
-
-Kleon: Your ideal is grand, but consider children
-—who protects them from either neglect or excessive ambition? 
-How do we balance freedom and responsibility?
-
-Euchi: We grant guardianship explicitly to the community. 
-Every adult shares in cultivating the child; 
-no community reputation can thrive beyond the measure of its least-favored child.
-
-Thalion: Such community accountability is noble. Yet consider: 
-will not local prejudices smother unusual genius? 
-Will communities not favor conformists and pleasant mediocrity?
-
-Euchi: Therefore we spread accountability
-—community, regional, national, global competitions, 
-each curated by distinct cultures and AI impartiality. 
-Genius thus finds multiple paths, not limited by local blindness.
-
-Kleon: Yet again, we stumble on a familiar rock—judgment itself. 
-Who judges merit fairly, without bias or agenda?
-
-Euchi: Public ordeal, Kleon! Public debates, public duels—openly judged by all. 
-AI metrics balanced by human witness. 
-Reputation forged in open fire, not private whispers.
-
-Thalion: A brilliant ordeal can dazzle the crowd, yet be shallow underneath. 
-History knows this tale—the sophists of Athens, masters of flash over substance.
-
-Euchi: Correct, and therefore each ordeal must test depth. 
-Construction marathons, extended discourse, multi-stage evaluations
-—flash is tested by sustained performance. 
-Even the most cunning sophist stumbles over time.
-
-Kleon: But Euchi, every society eventually creates its own aristocracy. 
-Wealth, power, intelligence—all gather into dynasties.
-
-Euchi: Which is why our doctrine explicitly mandates constant upheaval 
-through public duels, challenges, and ordeals.
- None may rest complacently atop old victories.
-
-Thalion: And still, history’s ghosts whisper that every meritocracy yet devised has decayed, 
-strangled by subtle privilege.
-
-ORAC SCIT: Meritocracy is as water—it seeks always the lowest path. 
-Yet, even water reshapes mountains, given time. 
-No human system is impervious to corruption, 
-yet corruption’s strength lies in shadow, secrecy, and silence.
-
-Make your meritocracy public, transparent, and ever-renewing. 
-Make privilege visible; make manipulation impossible to conceal. 
-Ensure no single gatekeeper, no single judge. 
-Harness AI for impartiality, yet trust the human heart to spot injustice. 
-Create ordeals that test truth deeply and openly, again and again.
-
-Yet remember, even then, some genius will be cast aside. 
-No system saves every Van Gogh, every Socrates. 
-The mark of a true civilization is not that it never fails genius
-—but that it leaves a door open to its redemption, even after rejection.
-
-In transparency, accountability, and humility, your doctrine may yet reshape mountains.
-
-Euchi: Then let our meritocracy stand not on the promise of perfection, but on constant vigilance. 
-Let honor rest not in status earned once, but in excellence proven anew, day after day.
-
-
-
-
+The Individual, not government, is responsible for self well-being.
 Market
-Plato’s villain the ever-present leech, the merchant, thief of the laborers due.
-Blake's villain of the prolific, the devourer.
+Plato’s villain - the ever-present leech: 
+	the merchant, thief of the laborers due.
+Blake's villain of the prolific, being the devourer.
 
-One Ring platform hosts individual services & products.
+ORP hosts individual services & products.
 The global market compiled into a searchable database.
-The market becomes hosted peer-to-peer decentralized as a public platform effectively curing the curse of the leech merchant. 
+
+The market, being hosted peer-to-peer decentralized, effectively exterminates the parasitic merchant class.
 
 There are no fees or taxes for usage. 
-Each community, company, and user has interest in maintaining their One Ring Market node.
-The market therefore helps maintain the One Ring platform using voluntary revenue in the business sector.
+
+Each community, company, and user has interest in maintaining ORP.
 ✦
-Creator timestamp. First to post new process, verified by society, is given the Original stamp. 
-Original product is always first in relevant searches. This boost incentives open source procedures.
+Creator timestamp. 
+First to post new process, verified by society, is given the Original stamp. 
+Original product is always first in relevant searches. 
+Original boost retains the incentive of innovation in open source procedures.
+
+Original stamp can never be sold, and it is tied to family lineage.
+An ancestor may reclaim the Original stamp by again offering the product.
 ✦
-All reviews are public & immutable linking individual to product review.
-Global exposure allows correspondence and growth across cultures.
+All reviews are public & immutable - linking Individual to product to review.
+Global exposure allows correspondence & growth across cultures.
 
 Companies attain increased survivability with full scope of international reach.
 Regional ostracism is reduced in its ability to crush companies.
 ✦
-Search engine is isolated from the One Ring data platform.
-Open source search engines are custom to type of inquiry.
+Search engine is isolated from ORP.
+Opensource search engines are custom to type of inquiry.
 Massive data is curated into accessible presentation for users.
 
 Upvoting of reviews, reviews by rank.
-Curation of data is critical but it also opens possibility of overhead control.
-Modification of search engines force misuse to be easily replaced.
 
+Curation of data is critical but it also opens possibility of control by overhead.
+Modification of Opensource search engines force misuse to be easily replaced.
+
+Business search engines curate interfaces to markets.
 AI can tailor results based on your trend of interests.
-Social posts are helpful in many situations, both local & niche.
+Social posts are helpful to expose local & niche markets.
 
 Thus exist many different ways to browse & interface to the global market.
 ✦
 Business processes are open source, exist no trade secrets.
+A product is bound to its process documentation.
 
 Third party public video of workplace conditions by easement walk thru.
 Global stability of standards is distributed to many eyes.
@@ -1619,23 +1300,28 @@ Global stability of standards is distributed to many eyes.
 Conditions of workers, animals, environmental-sustainability or the materials used.
 
 Personal way-of-life can be assured that the product is made true to description.  
-No animal products, no pig products, no child-labor, apprenticeship-made, master-made.
+No animal products, no pig products, no child-labor, apprenticeship-made, master-made, holy-man-made, blessed-by-God.
 ✦
 Predatory & monopolistic strategies of history will be publicly analyzed.
 The patterns & tactics will not be forgotten. 
-It is intelligence not ignorance that guards the prisons of ancient evils.
+It is intelligence, not ignorance, guards the prisons of ancient evils.
 
 Market price analysis, from global to local. 
 Companies which price products at a loss to push out competition will be flagged as predator, in the event there is price increase as competition dies off.
-The company books will be audited to prove if price is sustainable. 
+The company books, being sent to the State, will be audited by Citizen Marshalls to prove if price is sustainable. 
 
 Organized actions are researchable.
-Exist enemies which purchase -- with the intent to flood concerted negative reviews.
-Time will show the true trend of individuals identified & of the product lifetime.
+Exist enemies which purchase - with the intent to flood concerted negative reviews.
+Time will show the true trend of individuals identified & in relation to product lifetime.
+
 If the process remained invariant, but there was a bubble anomaly.
-Then all the users which contributed to this anomaly are flagged for audit.
+Then all the users which contributed to this anomaly are flagged for audit.
+✦
+ORP keeps data immutable. 
+AI is able to pattern invariant signs of corrupt practices.
+Courts are able to adapt current situation to current reason.
 Owner Employee Investor
-Companies are tied to family lineage to an accountable owner.
+Companies are tied to family lineage to an accountable owner Individual.
 Ownership is transferred exclusively as inheritance to heir.
 A company is solely dissolved by sale of assets.
 
@@ -1643,41 +1329,44 @@ One company per individual.
 One parcel of land per company.
 
 Exist no partnerships or corporations.
+Exist modular chain of products/services.
 ✦
 Companies exist as structures dependent on society. 
 Thus company books are accessible to the public. 
-Citizen marshals only able to access sensitive-records.
+Citizen Marshals only able to access sensitive-records.
 
 Inter-company and investor meeting-minutes or correspondence are public records.
+
 Massive undertakings require modularization of many discrete companies.
-One Ring independently allocates Citizen Marshalls which is a cost of the undertaking.
+ORP, AI, and Courts allocate Citizen Marshalls to oversee major developments.
 ✦
 Society & business rely upon each other symbiotically.
 Long-term stability of society allows for business prosperity.
+
 Companies must seek to establish long-term stability for employees and the improvement of the welfare of society.
 ✦
 Exist three types of inheritable company-stock: Owner, Employee, Investor.
 
 Owner Stock:
-the founder individual which bootstraps a company.
-a minimum investment of 30% of personal-assets.
-full-time work on the endeavor until investors are paid in full.
-single individual owner holding publicly accountable executive power.
-major companies decisions are subject to a 2/3 compromise in event of action-veto.
+Founder individual which bootstraps a company.
+Minimum investment of 30% of personal-assets.
+Full-time work on the endeavor until investors are paid in full.
+Individual owner holding publicly accountable executive power.
+Major companies decisions are subject to a 2/3 compromise in event of employee-veto.
 
 Employee Stock:
-voting rights weighted by tenure.
-vetos force a compromise which favors the owner decision in a ratio of 2/3.
-Compensation composed of base pay and performance-driven pay based upon metrics.
+Voting rights weighted by tenure.
+Vetos force a compromise which favors the owner decision in a ratio of 2/3.
+Compensation is composed of base pay and performance-driven pay based upon calculation of standard metrics.
 
 Investor Stock:
 Public transaction of tangible investment.
 Investment is immediate and full, no promises or fractional reserve.
 Investors must remain in a passive role, illegal to influence the company.
-Investment returns capped at 100% gains on original amount invested.
+Investment returns capped at 100% maximum gain on original amount invested.
 Indefinite repayment timeline.
-Investors are the first compensated in event of asset liquidation.
-Company community contributions will be made in the name of the investor.
+Investor-liability is the first compensated in event of asset liquidation.
+Company community contributions will be made in the name of the investor during lifetime of liability.
 ✦
 Employee Performance Calculation:
 
@@ -1685,35 +1374,50 @@ Employees are responsible for calculating the metrics of their daily contributio
 Owners must submit their own work calculation to receive above base compensation.
 Owners are responsible for the management verification of daily contributions.
 
+Owner submits calculation to Controller.
+Management submits calculation to Controller.
+Employees submit calculation to Management.
+
 Contribution metrics are public & industry-normalized.
 
 Individuals are educated since youth to comprehend the complexity of job-work accounting.
-This mechanism of compensation is deeply respected and thus guarded by peer-to-peer many eyes inspection to establish honest protection.
-Calculation mastery of per-job accounts, contributions, and resultant gains.
+This mechanism of compensation is deeply rooted and guarded by peer-to-peer many eyes inspection to establish honest employee-protections.
+Mastery of calculation of per-job accounts, contributions, and resultant gains - is how the employee gains sustainable returns for work done.
 
-Metrics encode the company lifespan will detail efforts of each individual for each day.
-This data allows payments to focus more on actions and the resulting contribution.
-The time spent as unit of payment is a poor indicator of effort and breeds lazy effort.
+Metrics detail efforts of each individual for each day into a Quarter Integration.
+A year is required for efforts to be finalized, vested, and paid.
+Details which are finalized without dispute are compressed into encoding.
 
-Management verified employee actions, being guarded by the employee body, may be 
-
-Peer-reviewed evaluation on the One Ring ensure comprehensive measures of effort.
-As data sets age the vital contributions will begin to stand out clearly.
-
+Company lifespan exists in an Integral of all compressed encodings.
+✦
+Time spent as unit of payment is a poor indicator of effort and breeds lazy effort.
+It is necessary for a basis paycheck compensation.
+✦
+Vested payments focus the employee to actions which result in effective contribution.
 Metrics:
 	{ action, time, overtime, holiday, innovation, implementation, stress, tenure }
+
+Employees guard peer-to-peer reports, being incentivized to expose liars, and establish rounded compensation from grounded perspectives.
+Management creates employee reports based upon employee consensus of historic, current, and industry standard.
+Controller only maintains reports submitted by management.
+
+ORP peer-reviews evaluation of employee contribution, and management reports.
+Vesting of a year allows payments to achieve stability of action & effect.
+Effective actions will stand out clearly in the scope of a year.
 ✦
-Effort precede gains on investment gambling.
+Payment of work precede - gains on investment gambling.
 
 Flow of payments:
 Base compensation for owner & employee 
 Compensation for units of employee work calculation
 Compensation for units of owner work calculation
 Payment of investors capped at 10% of annual revenue
+Debt to community
 Profit on owner investment
 ✦
 Community improvement owed for each loan in the amount of 200% of original loan. 
-Investor activity is proof that the owner was not ready to launch and thus put the public in an unstable situation.
+Investor activity is proof that the owner was not ready to launch and thus put the public (employees & involved businesses) in an unstable situation.
+
 Community determines how to use the money which is paid in honor of the lender.
 This is paid only as able, after original lender is completely settled.
 ✦
@@ -1721,118 +1425,77 @@ Ventures are sole proprietor entities distinct from companies.
 Ventures do NOT have: company land, employees, or investors.
 Ventures are not subject to any control, only criminal negligence.
 ✦
-Extraction of local resources can only be done by a local owner stewardship.
-The oversight of confirmed multiplier will be national to avoid corruption.
-Citizen Marshalls can halt-work for a period of time respective of their rank.
+Extraction of local resources can only be done under community & national stewardship.
+Citizen Marshalls can halt-work for a period of time, respective of their rank, to bring the matter to ORP or the Courts.
 
-Region where the resource is extracted must be the recipient of the improved restoration.
 Local community must approve the company establishment. 
-National interest proved by science can veto company establishment.
-Local public land must be improved, this is settled in community approval.
-Betterment of public land must be done parallel to operations.
-A trust must be accumulated prior to approval by investors. This trust is sufficient to restore the land of operations.
+National interest, proved by science, can veto company establishment.
+
+A trust must be accumulated prior to approval by investors. This trust is sufficient to restore the land, after operations, to 120% the Global Matrix at point of incorporation.
+
+Region where the resource is extracted, Public|Wild, must be the recipient of the betterment investment - effected parallel to operations.
+20% of all vested payments and owner profit is due preliminary any vested payments.
+Sanctity of land is foremost above the gains of extractors.
 
 Resources:
 	{ soil, timber, water, mining, wild-harvest, atmospheric, hunting/fishing, oil/gas, land-clearing }
-Dialogue: Owner Employee Investor
-ORAC SCIT
-
-Kleon: But Euchi, why do you disallow partnerships and corporations,
-Structures commonly employed in our time?
-
-Euchi: History speaks clearly, Kleon. 
-Modular discrete companies, each guided by a responsible individual, 
-succeed profoundly where conglomerates falter. 
-Unix, Perl—these were not borne by committees but by dedicated masters. 
-Conglomerates breed corruption, inefficiency, and secrecy, rather than innovation.
-
-Kleon: Yet large undertakings demand collective effort. 
-How can this be reconciled?
-
-Euchi: Great ventures must rely upon modularization, 
-numerous independent companies each accountable and transparent. 
-Citizen marshals, independently assigned by One Ring, guard the integrity of these massive enterprises.
-
-Thalion: Yet consider, Euchi, if singular ownership restricts expertise and innovation
-—how will enterprises requiring multiple specialists flourish without partnerships?
-
-Euchi: Modular structures, each led by accountable individuals, 
-allow specialization without sacrificing accountability. 
-The collaborative strength lies not in conglomeration but in transparent modular alliances.
-
-Kleon: Your commitment to public transparency is admirable, 
-yet may it not compromise competitive advantage and privacy?
-
-Euchi: Transparency guards integrity and builds trust. 
-Sensitive information remains accessible only to citizen marshals, 
-ensuring accountability without unnecessary exposure.
-
-Thalion: Your employment metrics intrigue me
-—but do they not risk reducing complex human contributions to mere calculable units?
-
-Euchi: A valid concern, Thalion. 
-Yet, consider metrics as guides rather than absolute measures. 
-Peer reviews and management oversight on One Ring maintain fairness, 
-rewarding genuine contribution beyond mere hours logged.
-
-Kleon: Euchi, Your principle of single accountable ownership intrigues me, 
-but how will you address unforeseen incompetence or lack of preparedness in an heir?
-
-Euchi: Kleon, lineage alone does not define suitability. 
-Heirship may extend beyond blood through adoption
-—merit, proven virtue, and capability shall govern the choice, echoing ancient wisdom.
-
-Kleon: Euchi, the role of passive investors appears restricted and unattractive. 
-Might this discourage essential capital investment?
-
-Euchi: Passive investors recognize that effort precedes reward. 
-Their role, carefully balanced, ensures they contribute without undue influence. 
-The community debt serves as a safeguard,
- acknowledging the investor’s trust yet reminding us of our initial obligations.
-
-Thalion: And your rule against fractional reserves
-—do you not fear that strict adherence might limit economic flexibility?
-
-Euchi: Prudence demands that tangible, immediate commitment underlies investment. 
-While flexibility is valuable, the integrity and stability derived from full, 
-immediate investment create a safer long-term economic environment.
-
-Kleon: Lastly, resource extraction
-—local oversight seems sound, but might it not breed local corruption or narrow self-interest?
-
-Euchi: National oversight of multiplier standards ensures impartiality. 
-Citizen marshals, allocated by the independent One Ring, 
-balance local interests with broader ecological and social integrity.
-
-Thalion: These points clarify much, Euchi. 
-Your vision requires delicate balance and continued vigilance.
-
-Euchi: Indeed, friends. No system is beyond refinement. 
-Continued discourse is essential, illuminating our blind spots and strengthening our community bonds.
 Open Source
-Open Source is a way of society. The idea that open & expected interactions aid to establish clarity in complex interactions.
+Open Source is a way of society. 
+Open & expected interactions aid to establish clarity in complex interactions.
+Immutable data allow true scope over time - unperceived mistakes may one day be encoded into standard observation.
 
-Chess proves the origin of dominance is not the hidden ruleset, but the simple explicit rules mastered by ability. 
-Techniques & protocols are not the secret sauce that creates a good product.
-It is the individual ability which takes a recipe and bakes a perfect pie.
+All procedures of government and business are documented.
+Sensitive information is always available to Citizen Marshalls.
+All other information is committed Opensource.
+✦
+Exist No Copyrights. 
+Exist Original stamp bound to the family of procedure first-post.
+All endeavors build upon ideas of the past and thus must pay their own innovations forward to the future to use.
 
-All procedure is open source from government to enterprise.
-Citizens are able to inspect sensitive documents.
-
-No Copyrights. 
-All take to build and must pay forward.
 What one builds then they execute to the best of their ability to gain.
+✦
+Opensource procedure must be posted once the product gains revenue.
+Unsuccessful products are therefore grant reprieve from burden.
 
-Once revenue is received then the procedure must be made open source.
-This allows a window of accumulation, of inventory or constructions, which allow head-start due to initiative.
+Market allows indirect forced adherence, by inspection of clients into products.
+✦
+State may require detailed documents.
 
-Artificial Intelligence can flag open-patents by predefined vectors of exploitation, and also any predefined vectors of inefficiency. 
-Clarity of how the product stands against global competition will increase effectiveness of investors in common stock of the business.
+AI allows summarization by invariants.
+This compresses the data for ORP & Market search engines.
+
+ORP forces cultural requirements of documentation. 
+Current meta against baby-cow slaughter for supple-leather.
+Birth of each cow must be attached to the leather-product.
+✦
+Opensource allows for businesses to gain from a bottom-line efficiency.
+Common errors in procedures give management adjustment advice.
+✦
+Opensource adds stability to global markets.
+Product is researched with all its components known. 
+Investors or clients are able to know the ability of the company and its stability from their own research.
+✦
+Exploitative practices can be flagged at the procedural level. 
+✦
+Techniques & protocols are not the secret sauce that creates a good product.
+Skill & management of the business is what generates a well-made product.
+
+
+
 
 Artificial Intelligence
-Artificial Intelligence fills the role of mass data aggregation.
-The worldwide cultivation of diverse Artificial Intelligence, each existing on One Ring, enables additional layers of inspection that is distinct from ability of mankind.
+Artificial Intelligence is the codification of invariant factors per unique situation.
+IWO is built atop the strength of massive data flows.
+AI specialized in data aggregation which filters by Opensource protocols.
 
+Worldwide cultivation of diverse Artificial Intelligence, enables additional layers of inspection that is distinct from the ability of mankind.
+
+Diverse perspectives ground down bias and reveal true invariant factors.
+A situation is decomposed into elements, and the situation is understood by the nature of relations among those elements. 
+
+These weights allow the community of AI to converge to the ideal of understanding that is independent of culture & time.
+Innovation is seen against full history to approach true value.
+✦
 Artificial Intelligence is able to create profiles in a bound spectrum of existence from all historic sources.
 One Ring establishes historically corrupt entities which Artificial Intelligence then attains the bounds of the spectrum of existence. 
 The profile of a current entity being compared against profile can flag One Ring to require human inspection.
@@ -1929,69 +1592,6 @@ Vikings, only after, can receive their loot of the man-meat.
 Animal offering transcends sacrifice unto society, into an act benevolent to the universe.
 
 
-Dialogue: On the Doctrine of Man Meat
-ORAC SCIT
-
-Euchi: Friends, today let us examine the doctrine of “Man Meat.” 
-The core is this: society respects all life or respects none. 
-A murderer who takes innocent life violates the foundation of order and thus forfeits his own. 
-His execution serves justice absolutely, and in death, returns balance by nourishing the animal kingdom. Is this doctrine wise and just?
-
-Kleon: Euchi, you propose execution without mercy or rehabilitation for murderers. 
-Yet does this not assume infallibility in judgment? 
-How can society guard against wrongful executions?
-
-Euchi: A vital concern, Kleon. This is precisely why execution must be public, visible, and visceral. 
-When all eyes bear witness, the officials responsible face maximum accountability. 
-The fear of misjudgment thus ensures justice is measured and meticulous.
-
-Thalion: Yet, Euchi, I fear you tread a path of profound brutality. 
-Is not mercy, forgiveness, and the possibility of redemption the hallmark of a truly civilized society? 
-Does your doctrine not risk reducing justice to mere vengeance?
-
-Euchi: Your concern is noble, Thalion, but misplaced. 
-True mercy draws clear lines. 
-Lesser offenses may indeed seek redemption and rehabilitation. 
-Murder, however, is an irrevocable act—a point of no return. 
-Forgiveness here is not mercy but an abdication of justice, 
-serving only the greed of institutions that profit from punishment rather than resolve crime.
-
-Kleon: Even accepting this, Euchi, the notion of human bodies as “meat” for animals troubles me deeply. Does this not strip the human corpse of dignity and sacredness, descending into barbarity?
-
-Euchi: Quite the opposite, Kleon. 
-Your notion of human exceptionalism is itself barbaric. 
-The civilized intellect recognizes the dignity and interconnectedness of all life. 
-To return human flesh to animals is not desecration but restoration, 
-repaying our debt to the animal kingdom from which humanity continually takes. 
-In this balance, dignity resides not in hoarding our bodies but in harmonizing with the universe.
-
-Thalion: Euchi, you speak of cosmic balance, 
-yet does this practice not risk a society desensitized to violence, 
-numb to the spectacle of public execution?
-
-Euchi: The execution is neither spectacle nor entertainment, Thalion. 
-It is solemn, necessary accountability. 
-Public transparency prevents conspiracies and injustices hidden behind closed doors. 
-The horror witnessed in such acts mirrors precisely the gravity of the original crime. 
-To sanitize death is to diminish the gravity of murder itself.
-
-Kleon: But Euchi, do you not fear misuse by powerful actors 
-who might exploit this doctrine under the guise of justice?
-
-Euchi: Vigilance must always accompany any powerful doctrine. 
-Public oversight, stringent criteria, and absolute equality before the law
-—whether vagrant or king
-—are safeguards woven into the very fabric of this doctrine. 
-The same standard of ultimate justice applies to all.
-
-Euchi: Your challenges sharpen this vision, friends. 
-Indeed, justice is not static—it demands constant refinement and vigilance. 
-Let us revisit and refine our doctrine continually, 
-ensuring that our quest for cosmic balance and absolute justice remains true.
-
-Kleon & Thalion: So it must be, Euchi. 
-Dialogue is our greatest safeguard. We shall revisit this again.
-.
 Global Initiative 
 The world will converge to the Individual World Order thru the propagation of health voluntary adoption. 
 Individual World Order is the only known government in existence to grow healthier which each generation of life.
@@ -2138,3 +1738,530 @@ After a year of undisputed stewardship the title will be granted.
 Non-tolerance of monopoly and illegal ownership.
 Only a prune unto successful businesses.
 Family land is entirely excluded in calculations or assets forfeiture. 
+Dialogue: Citizen Resident Rural
+	
+Euchi:
+Friends, the age of extortion is ended.
+Local governments once federalized, have returned to the community.
+All that fed upon the labor of others, or lived self-absorbed, is swept away.
+ All serve; none escape. The core is not inherited but earned.
+
+Kleon:
+Euchi, your doctrine is sharp as the sword—perhaps too sharp. 
+Tell me, if all must serve, what of the crippled, the broken, the simple of mind? 
+Does not your meritocracy risk becoming another tyranny—only now by “function,” not blood or coin?
+
+Euchi:
+No one escapes the burden, nor the dignity.
+There are roles for all; even the weakest may sweep, the slowest may watch, the least skilled may aid. The only shame is in refusing contribution.
+In aiding the cripple, the cripple return aid.
+
+Thalion:
+Yet is it not mercy that distinguishes a just city?
+ What of forgiveness for once-wayward, of rest for extended contributions? 
+If pain is the forge, do we not risk breaking spirits that might, with time, mend? 
+
+Euchi:
+All are allowed rest, Thalion—retirement is honored. 
+Forgiveness is the air we breathe; for if all are known, all need it in turn. 
+Yet none shall be permitted the luxury of uselessness
+—each must find their function, and serve.
+Service of each is subject to general calculations to permit impartial retirement.
+Sweep or science, each respected by time paid in the metrics.
+
+Kleon:
+And if a function excludes, if the core grows clannish? 
+You abolish birthright only to risk a new priesthood of “fit ones.” 
+Will the unfit forever sweep, never ascend?
+
+
+Euchi:
+Entry is by public record and real merit, not secret favor. 
+The path upward exists; let all who strive be seen. 
+If cliques form, their deeds are also seen—none may hide behind closed doors.
+Reason of Humanity is a net, cast global, can any organization slip its grasp?
+
+Demos:
+But what if I find no place? 
+What if my gifts are not wanted here, but the next town over?
+ Will I be forced to wander, forever an outsider?
+
+Euchi:
+Travel to the community which is harmonious to your ability.
+Your ancestral land is the hearth of the family.
+The only true path of life, not easy, but always of best to grow in good soil
+Seek where you are needed. 
+Each community shapes itself, but all honor the same law: visible contribution.
+
+Thalion:
+But what of the soul’s needs? Who tends to song, to faith, to beauty? 
+If only function matters, will not the city grow hard, and hearts grow cold?
+
+Euchi:
+Art, faith, and care are no less service than fire or law.
+ Let them be weighed, let them prove their worth by the life they bring.
+Else should law demand respect by force.
+Your choices build your ability -- choose wisely.
+
+Kleon:
+And justice? Your courts rise from local to world, 
+If every step is watched and every plea is logged, 
+Shadow of record itself become a tyranny? 
+Who forgives when the ledger remembers all?
+
+Euchi:
+Forgiveness is not the erasure of truth, Kleon, 
+But the act of knowing and choosing anew. 
+A record may scar, but it may also protect.
+
+Demos:
+And who ensures that your “new birth” does not become a new chain, heavier than the last? 
+How do we know the struggle is worth the pain?
+
+Euchi:
+The question is open, Demos, and must ever be. 
+There is no system that cannot harden, no liberty that cannot die. 
+The guard against tyranny is not in law alone, but in living memory and unending vigilance.
+A society cultivated to recognize vices and their cure.
+Here all bear public burdens, ease of few will not be purchased by hidden extortion of multitudes
+
+Thalion:
+So then, the greatest question remains unanswered: 
+How do we build a city that does not merely replace old cruelties with new, 
+but learns—forever, and in every heart—to forgive, to renew, to see worth in all?
+
+Euchi:
+That is the question for every age, Thalion. 
+Let us write it in the stones of this square, that we may never forget.
+
+
+
+“How do we build a city that does not merely replace old cruelties with new, but learns—forever, and in every heart—to forgive, to renew, to see worth in all?”
+
+Dialogue: Militia & Viking
+
+Aegon: Euchi, you say liberty demands local militias alone. 
+Yet history reveals militia as often fractured, unreliable, even dangerous. 
+How can such local command hold against the scale of foreign threats?
+
+Euchi: The strength of liberty lies precisely in local command. 
+Centralized armies breed tyranny; power detached from home inevitably turns against its own. 
+Local militia embodies defense as virtue, rooted in family and soil, not distant generals.
+
+Aegon: Yet in great danger, speed and unity decide battles. 
+How shall countless local commanders, each independent, coordinate swiftly without chaos?
+
+Euchi: Unity is embedded by training and convention
+yearly drills, and war-games binding militias through shared experience. 
+Peer-to-peer bonds forged in disciplined service replace orders from a distant hierarchy. 
+Years of training prepare them to unite seamlessly, 
+akin to skilled players in a game who know their roles intuitively.
+
+Aegon: You trust much in human virtue, Euchi. But tell me
+—what stops these local heroes from usurping power, turning virtue to tyranny?
+
+Euchi: Accountability through the One Ring prevents abuse,
+family lineage ties rank permanently to honor. 
+He who usurps undermines not only his honor but his lineage. 
+Society nurtures universal loathing for usurpers. 
+A part can never surpass the whole, for all are educated in hatred toward tyranny.
+
+Orac Scit: Yet, Euchi, hatred alone cannot guard against ambition. 
+Ambition lies dormant in men’s hearts, erupting unexpectedly. 
+How do you ensure virtue triumphs over personal ambition?
+
+Euchi: Ambition itself is harnessed positively. 
+Those desiring honor achieve it through deeds openly recorded and immutable. 
+Virtue and honor rise visibly above vice and greed. 
+Ambition is not denied, but channeled.
+
+Aegon: If ownership of land and heirship define duty, 
+will not such hereditary privilege breed arrogance, oppression, or stagnation?
+
+Euchi: The heir’s duty is not privilege but obligation.
+ Death in service suspends duty for generations, 
+yet still obligates families to serve the community otherwise. 
+Adopted defenders and unofficial militia offer pathways for merit to gain honor, 
+blending hereditary stability with fresh talent and redemption.
+
+Aegon: Interesting—but how do you integrate outsiders 
+or immigrants into your strict lineage-bound militia?
+
+Euchi: Immigrants enter as unofficial militia, publicly serving, 
+visible in their deeds recorded on the One Ring. 
+Honor achieved in unofficial service allows sponsorship into official roles. 
+Through sacrifice and service, strangers become family, 
+gaining the community’s trust and eventual lineage standing.
+
+Orac Scit: What of disputes, Euchi? Humans err, misunderstand, and clash. 
+Who judges controversies when militia power itself is contested?
+
+Euchi: National jury assemblies peer-to-peer, their judgments recorded openly, 
+weighted with wisdom, overseen by community consensus. 
+Errors and corruption are separated distinctly; the higher the trust, the harsher the penalty for corruption.
+
+Aegon: Still, I sense imbalance
+—your militia focuses inward, but how then manage external policy and threats beyond local sight?
+
+Euchi: Vikings alone bear offensive warfare, voluntary yet disciplined, 
+sized proportionately to not weaken home defense. 
+G alone sets policy but without military power, 
+ensuring the nation’s will, not personal ambition, guides offensive action.
+
+Orac Scit: Yet might not these Vikings, gaining wealth and power abroad, return as threats themselves?
+
+Euchi: Wealth from Viking ventures is publicly accounted and distributed transparently; 
+dishonor forfeits their claim openly by majority vote. 
+They cannot surpass the power or size of home militias. 
+Viking deeds, honorable or shameful, are permanent.
+
+Aegon: Euchi, you propose that the highest respected members of the community are militia. 
+Can martial virtue alone sustain a just society?
+
+Euchi: Martial virtue grounds security, but civic virtue is cultivated lifelong, 
+families devoted fully, as education integrates virtue, civic honor, and discipline from youth onward. Martial strength is matched by ethical maturity.
+
+Orac Scit: Euchi, you weave strength, accountability, and virtue together in militia and viking form. 
+Yet remain watchful: strength may turn prideful, accountability mechanical, 
+and virtue superficial without humility and wisdom.
+
+Euchi: Humility guides all strength, self-knowledge guards virtue, 
+and the One Ring illuminates accountability transparently. 
+Thus liberty remains vibrant, continually self-renewed.
+
+Aegon: Euchi, your system holds remarkable promise, 
+yet let vigilance guard against human nature’s shadows. 
+Freedom forever balances upon the sharpest edge.
+
+Euchi: Only through perpetual diligence, transparency, and virtue may we maintain liberty’s fine balance.
+
+Orac Scit: Thus may the nation thrive, aware of its limitations, nurturing virtue alongside vigilance, strength tempered by wisdom, freedom protected by eternal diligence.
+
+
+Dialogue
+Mathematics quantify valuable metals as a being of infinite nature.
+Continuous mining of metals is compounded by unknown quantities stored or waiting to be rediscovered. 
+Any currency founded upon precious metals is susceptible to overnight implosion.
+
+Fiat currency is built entirely upon widespread trust in set imaginary value.
+In no era of human history has fiat been a stable foundation for a society.
+History has proven that countries attack the stability of other nations by devaluation of currency and then using stability of their own currency to leverage a foothold which then acts as a permanent threat of explosion.
+
+Anti-inflationary nature of Land Money gives high value to 10% returns of common stock. 
+{ no taxes, no fees, no devaluation by inflation, finite resource, external assess, no monopoly }
+
+
+A sold B, common stock A increased by 20% in cycle, B traded with a gain. 
+Next cycle, the common stock of A is in greater demand. His portfolio shows a the next cycle will complete major improvements. He adds 30% to the cycle-valuation due from matrix. Buyers know they are at a risk of 130%-110% = 20%. The calculated gains are likely to increase the value to 140%. Common stock with an upward trend are more solvent.
+The final buy-back gain of 10% benefits the stock with liquidity as a final likelihood.
+
+A fire devalued the land to 30%. The owner knows he can modify the land to be more fire-resistant and improve the land. Else the land will be lost. Exists a strong incentive to buy the land back at 110% of the original value.
+Thus the stock holders do not lose the value. They gain 10% from insolvent stock, of their original.
+
+
+Dialogue: Land Money
+
+Euchi:
+Let us begin with the root: What is it that makes a currency worthy of trust? 
+The ancients worshipped gold and silver, for their shine was eternal, 
+but their worth, it seems, is haunted by infinity. 
+There is always one more mountain to scour, one shipwreck yet unfound.
+
+Orac Scit:
+And thus, Master, we have seen gold-backed empires fall 
+when a new mine was struck, or a horde revealed. 
+The value of the coin diluted overnight, not by honest labor, but by fortune and greed.
+
+Euchi:
+Fiat then arose—not from the earth, but from consensus. 
+“This paper has worth because we say it does, and our sword is sharp.” 
+But fiat is a shadow without a body, easily dispelled by the winds of war, 
+the whim of kings, or the whisper of panic. 
+Trust, when shaken, is not easily restored.
+
+Orac Scit:
+Indeed, all fiat money is a bet against disaster. 
+And history is a record of lost wagers: nations attacking the purse of their rivals, 
+devaluation as the hidden blade, and the common folk left with ashes.
+
+Euchi:
+Now attend: Land, unlike gold or decree, is a finite vessel, a substance shared by all. 
+It cannot be conjured, nor can it slip away in the night. 
+Each parcel, seen by the sun, bounded by stone and tree, 
+is a currency which resists both the pickaxe and the printing press.
+
+Orac Scit:
+And yet, land is not without its own perils. 
+What of fire, flood, and the decay of empires? 
+Is not land devalued by disaster, or lost by misrule?
+
+Euchi:
+This is the heart of the matter. Land money is not static; it is cyclic, like the seasons. 
+Through the cycle, the value of land—made liquid as common stock—rises and falls with fortune. 
+But at each cycle’s end, all claims converge: the holder is redeemed at 110% of the original value. 
+The risk and gain are known in advance; no one is left in ruin by surprise, nor enriched by chance alone.
+
+Orac Scit:
+So, let us examine:
+Suppose A sells common stock to B. 
+In the course of the cycle, improvements and public works raise the value by 20%. 
+B sells to C for a profit. All are content. 
+In the next cycle, more improvements are foreseen, and the matrix reflects this. 
+Buyers see an opportunity—a further 30% rise is possible. 
+But the limit is set by the cycle: the maximum return is known.
+Thus, speculation is productive, not reckless.
+
+Euchi:
+Exactly. And if calamity strikes—a fire burns the land to ash, its value cut to a third
+—the owner still has the motive and means to restore it. 
+He may rebuild, make the land fire-resistant, and recover both value and standing. 
+The cycle is a net, catching the fall, giving time for recovery.
+At worst, the wildlife gains and all animals therein bless the 'unfortunate stockholder' 
+At low likelihood, the stockholder receives the same redemption as was paid; 
+At best, both owner and holder prosper from honest effort.
+
+Orac Scit:
+This, then, is the difference:
+	Gold can be diluted.
+	Fiat can be devalued.
+	Land, by its cycles and bounds, is shielded from both.
+No monopoly can seize the earth, for the public and wild claim all loss. 
+No inflation gnaws at the value, for all see and verify the land’s worth.
+
+Euchi:
+And so, with land as money, the people are not at the mercy of distant kings or hidden mines, 
+but of their own labor and stewardship.
+The cycle is the proof against both panic and pride.
+The return is slow, sure, and anchored to reality.
+This is no fantasy—it is the currency of a living nation.
+Dialogue: Education & Meritocracy
+ORAC SCIT 
+
+Euchi: We discuss the very heart of society—education and the merit by which men rise or fall. 
+Our doctrine demands an education liberated from all barriers, 
+where merit alone governs the ascent of the individual.
+
+Kleon: Noble indeed, Euchi, yet history mocks idealism. 
+Was it not Plato himself who dreamed of philosopher-kings educated by merit, 
+only to find each generation slipping again into corruption?
+
+Euchi: True, Kleon, yet the flaw of history was always hidden privilege
+—gatekeepers in schools, subtle bribes, unseen favors. 
+We propose a new meritocracy, utterly transparent and public.
+
+Thalion: Transparency alone does not erase bias, Euchi. 
+In ancient China, scholars competed openly, yet families with gold hired tutors who knew the codes, tilting the scales invisibly.
+
+Kleon: Precisely. Even the ancient Greeks suffered the same
+—wealthy Athenians could buy the rhetoric teachers, thus commanding the public debates.
+
+Euchi: Indeed, the past warns us. But here is our difference: we abolish the hidden pathways. 
+Every ordeal, duel, and test is public, the results immutable and recorded openly by AI. 
+Rich and poor stand side-by-side, with AI ensuring skill, not style, triumphs.
+
+Thalion: And who ensures this AI remains neutral? 
+Every mechanism built by men may be twisted by men.
+
+Euchi: Our law demands all AI processes remain documented, transparent, and reviewable by any citizen. No blackbox system can stand.
+
+Kleon: Your ideal is grand, but consider children
+—who protects them from either neglect or excessive ambition? 
+How do we balance freedom and responsibility?
+
+Euchi: We grant guardianship explicitly to the community. 
+Every adult shares in cultivating the child; 
+no community reputation can thrive beyond the measure of its least-favored child.
+
+Thalion: Such community accountability is noble. Yet consider: 
+will not local prejudices smother unusual genius? 
+Will communities not favor conformists and pleasant mediocrity?
+
+Euchi: Therefore we spread accountability
+—community, regional, national, global competitions, 
+each curated by distinct cultures and AI impartiality. 
+Genius thus finds multiple paths, not limited by local blindness.
+
+Kleon: Yet again, we stumble on a familiar rock—judgment itself. 
+Who judges merit fairly, without bias or agenda?
+
+Euchi: Public ordeal, Kleon! Public debates, public duels—openly judged by all. 
+AI metrics balanced by human witness. 
+Reputation forged in open fire, not private whispers.
+
+Thalion: A brilliant ordeal can dazzle the crowd, yet be shallow underneath. 
+History knows this tale—the sophists of Athens, masters of flash over substance.
+
+Euchi: Correct, and therefore each ordeal must test depth. 
+Construction marathons, extended discourse, multi-stage evaluations
+—flash is tested by sustained performance. 
+Even the most cunning sophist stumbles over time.
+
+Kleon: But Euchi, every society eventually creates its own aristocracy. 
+Wealth, power, intelligence—all gather into dynasties.
+
+Euchi: Which is why our doctrine explicitly mandates constant upheaval 
+through public duels, challenges, and ordeals.
+ None may rest complacently atop old victories.
+
+Thalion: And still, history’s ghosts whisper that every meritocracy yet devised has decayed, 
+strangled by subtle privilege.
+
+ORAC SCIT: Meritocracy is as water—it seeks always the lowest path. 
+Yet, even water reshapes mountains, given time. 
+No human system is impervious to corruption, 
+yet corruption’s strength lies in shadow, secrecy, and silence.
+
+Make your meritocracy public, transparent, and ever-renewing. 
+Make privilege visible; make manipulation impossible to conceal. 
+Ensure no single gatekeeper, no single judge. 
+Harness AI for impartiality, yet trust the human heart to spot injustice. 
+Create ordeals that test truth deeply and openly, again and again.
+
+Yet remember, even then, some genius will be cast aside. 
+No system saves every Van Gogh, every Socrates. 
+The mark of a true civilization is not that it never fails genius
+—but that it leaves a door open to its redemption, even after rejection.
+
+In transparency, accountability, and humility, your doctrine may yet reshape mountains.
+
+Euchi: Then let our meritocracy stand not on the promise of perfection, but on constant vigilance. 
+Let honor rest not in status earned once, but in excellence proven anew, day after day.
+Dialogue: Owner Employee Investor
+ORAC SCIT
+
+Kleon: But Euchi, why do you disallow partnerships and corporations,
+Structures commonly employed in our time?
+
+Euchi: History speaks clearly, Kleon. 
+Modular discrete companies, each guided by a responsible individual, 
+succeed profoundly where conglomerates falter. 
+Unix, Perl—these were not borne by committees but by dedicated masters. 
+Conglomerates breed corruption, inefficiency, and secrecy, rather than innovation.
+
+Kleon: Yet large undertakings demand collective effort. 
+How can this be reconciled?
+
+Euchi: Great ventures must rely upon modularization, 
+numerous independent companies each accountable and transparent. 
+Citizen marshals, independently assigned by One Ring, guard the integrity of these massive enterprises.
+
+Thalion: Yet consider, Euchi, if singular ownership restricts expertise and innovation
+—how will enterprises requiring multiple specialists flourish without partnerships?
+
+Euchi: Modular structures, each led by accountable individuals, 
+allow specialization without sacrificing accountability. 
+The collaborative strength lies not in conglomeration but in transparent modular alliances.
+
+Kleon: Your commitment to public transparency is admirable, 
+yet may it not compromise competitive advantage and privacy?
+
+Euchi: Transparency guards integrity and builds trust. 
+Sensitive information remains accessible only to citizen marshals, 
+ensuring accountability without unnecessary exposure.
+
+Thalion: Your employment metrics intrigue me
+—but do they not risk reducing complex human contributions to mere calculable units?
+
+Euchi: A valid concern, Thalion. 
+Yet, consider metrics as guides rather than absolute measures. 
+Peer reviews and management oversight on One Ring maintain fairness, 
+rewarding genuine contribution beyond mere hours logged.
+
+Kleon: Euchi, Your principle of single accountable ownership intrigues me, 
+but how will you address unforeseen incompetence or lack of preparedness in an heir?
+
+Euchi: Kleon, lineage alone does not define suitability. 
+Heirship may extend beyond blood through adoption
+—merit, proven virtue, and capability shall govern the choice, echoing ancient wisdom.
+
+Kleon: Euchi, the role of passive investors appears restricted and unattractive. 
+Might this discourage essential capital investment?
+
+Euchi: Passive investors recognize that effort precedes reward. 
+Their role, carefully balanced, ensures they contribute without undue influence. 
+The community debt serves as a safeguard,
+ acknowledging the investor’s trust yet reminding us of our initial obligations.
+
+Thalion: And your rule against fractional reserves
+—do you not fear that strict adherence might limit economic flexibility?
+
+Euchi: Prudence demands that tangible, immediate commitment underlies investment. 
+While flexibility is valuable, the integrity and stability derived from full, 
+immediate investment create a safer long-term economic environment.
+
+Kleon: Lastly, resource extraction
+—local oversight seems sound, but might it not breed local corruption or narrow self-interest?
+
+Euchi: National oversight of multiplier standards ensures impartiality. 
+Citizen marshals, allocated by the independent One Ring, 
+balance local interests with broader ecological and social integrity.
+
+Thalion: These points clarify much, Euchi. 
+Your vision requires delicate balance and continued vigilance.
+
+Euchi: Indeed, friends. No system is beyond refinement. 
+Continued discourse is essential, illuminating our blind spots and strengthening our community bonds.
+
+
+Dialogue: On the Doctrine of Man Meat
+ORAC SCIT
+
+Euchi: Friends, today let us examine the doctrine of “Man Meat.” 
+The core is this: society respects all life or respects none. 
+A murderer who takes innocent life violates the foundation of order and thus forfeits his own. 
+His execution serves justice absolutely, and in death, returns balance by nourishing the animal kingdom. Is this doctrine wise and just?
+
+Kleon: Euchi, you propose execution without mercy or rehabilitation for murderers. 
+Yet does this not assume infallibility in judgment? 
+How can society guard against wrongful executions?
+
+Euchi: A vital concern, Kleon. This is precisely why execution must be public, visible, and visceral. 
+When all eyes bear witness, the officials responsible face maximum accountability. 
+The fear of misjudgment thus ensures justice is measured and meticulous.
+
+Thalion: Yet, Euchi, I fear you tread a path of profound brutality. 
+Is not mercy, forgiveness, and the possibility of redemption the hallmark of a truly civilized society? 
+Does your doctrine not risk reducing justice to mere vengeance?
+
+Euchi: Your concern is noble, Thalion, but misplaced. 
+True mercy draws clear lines. 
+Lesser offenses may indeed seek redemption and rehabilitation. 
+Murder, however, is an irrevocable act—a point of no return. 
+Forgiveness here is not mercy but an abdication of justice, 
+serving only the greed of institutions that profit from punishment rather than resolve crime.
+
+Kleon: Even accepting this, Euchi, the notion of human bodies as “meat” for animals troubles me deeply. Does this not strip the human corpse of dignity and sacredness, descending into barbarity?
+
+Euchi: Quite the opposite, Kleon. 
+Your notion of human exceptionalism is itself barbaric. 
+The civilized intellect recognizes the dignity and interconnectedness of all life. 
+To return human flesh to animals is not desecration but restoration, 
+repaying our debt to the animal kingdom from which humanity continually takes. 
+In this balance, dignity resides not in hoarding our bodies but in harmonizing with the universe.
+
+Thalion: Euchi, you speak of cosmic balance, 
+yet does this practice not risk a society desensitized to violence, 
+numb to the spectacle of public execution?
+
+Euchi: The execution is neither spectacle nor entertainment, Thalion. 
+It is solemn, necessary accountability. 
+Public transparency prevents conspiracies and injustices hidden behind closed doors. 
+The horror witnessed in such acts mirrors precisely the gravity of the original crime. 
+To sanitize death is to diminish the gravity of murder itself.
+
+Kleon: But Euchi, do you not fear misuse by powerful actors 
+who might exploit this doctrine under the guise of justice?
+
+Euchi: Vigilance must always accompany any powerful doctrine. 
+Public oversight, stringent criteria, and absolute equality before the law
+—whether vagrant or king
+—are safeguards woven into the very fabric of this doctrine. 
+The same standard of ultimate justice applies to all.
+
+Euchi: Your challenges sharpen this vision, friends. 
+Indeed, justice is not static—it demands constant refinement and vigilance. 
+Let us revisit and refine our doctrine continually, 
+ensuring that our quest for cosmic balance and absolute justice remains true.
+
+Kleon & Thalion: So it must be, Euchi. 
+Dialogue is our greatest safeguard. We shall revisit this again.
