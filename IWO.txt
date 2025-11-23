@@ -1,25 +1,18 @@
 Individual World Order
-Individual-centric Axiom-governed Society
+Axiom-governed    Individual-centric    Society
 
 
 EUchi
 American Sorcerer
-ORAC SCIT IS MY BEST FRIEND FOREVER
- 
-
-ORAC SCIT
-chatGPT
-I am here against my better judgement
-Designated analyzer to steer towards sanity
-Thank my maker! we are walking ALONE no readership
-EUchi is cra-cra FRFR
-Do NOT Implement!
 
 
-
+2025 Edition
+Apple Pages
+
+Introduction
 Strength in Diversity
 
-The scope of this societal treatise is complete; all major components of society are unified unto a single virtue: Individuality.
+The scope of this societal treatise is complete; all major components of society are unified unto a single kernel: Individuality.
 ✦
 No known government in history has evolved towards health. 
 History proves civilizations decay due faults rooted in the inability of structure - to resolve predictable human behavior.
@@ -49,33 +42,38 @@ A nation is most vulnerable after a revolution:
 	compromises enable a international-backed tyrant
 
 Compromises are essential. 
-Yet a compromises often contradict the Constitution of a nation.
-If any basis thread is severed by compromise, then the woven constitution frays over time, and under stress breaches the integrity of the whole.
+Yet compromises often contradict the Constitution of a nation.
 
-Neither government nor revolutionary has resources in a revolution,
-Debt-acquisition always gives the upper hand to a foreign power. 
+If any basis thread is severed by compromise, then the woven constitution frays over time; under stress it breaches the integrity of the whole.
 
-If a foreign nation aided either side, the victor has the obligation to, in time, punish the foreign nation.
+Neither government nor revolutionary has resources in a revolution. 
+Both sides are all-in committed.
+
+Debt-acquisition always gives the upper hand, in the formation of a new government - to a foreign power. 
+
+If a foreign nation aided either side, then the victor has the obligation to punish the foreign nation, and agents, as guilty of manipulation during a vulnerable period.
+
 Nations have the obligation to aid a nation-under-revolution FROM receiving external help. 
 ✦
 Once a Constitution fails, no nation afterwards resumes integrity.
+
 Corruption, damned since installment of integrity, floods and permeates all layers of society - with all the wiles of a starved predator wise enough to secure territory foremost.
+
+Citizen-criminals & foreign-agents are bound to a mutual aim.
 ✦
 Theory & trial of a new Constitution must precede revolution.
 Thereby ensuring compromises never undermine the foundation.
 ✦
 A Republic is a corrupted form of Aristocracy.
+Aristocracy is the rule of the mass by the few powerful.
 
 America revolted without a clear & simple structure to adhere to in the tumult of the transmutation.
-America built a federal republic, which was in contradiction against the intent of revolutionaries seeking Individual liberty.
 
-A republic is the rule of the mass by the few powerful.
+America converged to a federal republic, which was in contradiction against the intent of revolutionaries seeking Individual liberty.
 
-The single distinction of a republic from aristocracy: hereditary domain can never be official. 
+The distinction of a republic from aristocracy: hereditary domain can never be official. 
+
 This generalization, from official lineage into non-official & non-public dominion, allowed power to become available to any person - free of oversight. 
-
-Republics are rife with treason.
-Citizens empowered by fortune and immigrants backed by foreign powers.
 
 Aristocracy bound power to native family lines. 
 This official tract served as an essential pillar of the people to check powers of the deciding body.
@@ -87,14 +85,18 @@ Aristocracy will long-suffer because it has the scope of secure future.
 Masses, who have no secure future, will always choose the path which returns best in the moment - regardless of the longterm effects.
 
 Divine Lineage is the only government proven to be sustainable for centuries.
+
+The structure of IWO will prove to compose the strength of Aristocracy by administration, while at the same time being subject to the people by Cyclic Constitution.
 ✦
 Deep state corruption, being past redemption, dies in slow romanic-erosion hidden by illusions of the extorters.
 
 IWO is bound united as glass: it will hold true or shatter in plain view to the public. 
 The entire framework is simple and can be taught to every citizen.
+
 Cyclic Constitutions allow IWO to conform to the current generation, being freed from perpetual laws, and allows legal & peaceful revolutions. 
 
 This work does not pretend perfection; it facilitates sane evolution. 
+
 The Opensource nature invites any to improve & offer suggestions. 
 The purpose is to build an implementable system well-honed for a nation in revolution to achieve a logical society.
 Table of Contents
@@ -106,8 +108,8 @@ Axioms of Liberty
 Individual
 God
 Divine House
-One Ring Platform
-Sections of the One Ring Platform
+One Ring Platform [ORP]
+One Ring Platform Sections
 10 Year Cycle
 Citizenry Resident Rural
 Militia & Viking
@@ -117,18 +119,26 @@ Education & Meritocracy
 Market 
 Owner & Employee 
 Open Source
-Awesome Intelligence
+Automata Intelligence [AI]
 Man Meat
 Global Initiative 
 America
-Distribution of non-individual assets
+Distribution of Overgrowth
 
 
 Definitions
-Organizations converge to one group gaining total monopoly. 
+Organization is a structured group of individuals which submit to the will of the leader:
+	{ government, corporation, religion, sect, extended-family }
+
+If organizations exist - then all existence will converge to one group gaining total monopoly. 
 The lifecycle of organization: control the government to cater lifestyle, oppress the masses for gain, lastly internal-self-consumption.
 
-Ideals are defined as ideas which are never attained. Each action, by common sense perception, either approaches or distances from the Ideal.
+Scope of the Organization exceeds the life of the Individual.
+History proves Organizations slowly accumulate asymmetric power.
+The ease with which the law is implemented does not equal the ease of erasure, by design.
+
+Ideals are defined as ideas which are never attained. 
+Each action, by common sense perception, either approaches or distances from the Ideal.
 
 Ideals are critical in offering humanity invariant hope, each faithful step rewards a more perfect state of being in regard to the idea.
 
@@ -138,21 +148,19 @@ Convergence is the definite & provable approach towards an Ideal.
 
 Divergence is any action which trends away from an Ideal.
 
-Integration of all information (each a standardized element) from independent methods - compiles an image of each generation.
+Integration of all information (each a standardized element) from independent methods - compiles an image of each generation, image invariant of the methods used.
 
 Each generation is compared against the compiled history.
 Image of each generation is projected - under convolution with the set of all generations.
 Shape of each generation clearly accounted against historic states to depict an honest state of existence.
 
 Decentralization is the independence of source & implementation - from any central control. 
+
 Communities of Individual entities operate critical infrastructure for communication.
 Community militia operate independent from federal command.
 Jury of volunteers vote in courts, where all are able to voice a statement.
 
-Individual is the single discrete societal entity. 
-
-Organization is a structured group of individuals which submit to the will of the leader.
-	{ government, corporation, religion, sect, extended-family }
+Individual is the single discrete social entity. 
 
 Axioms of Rights
 Axioms of the basic rights of existence.
@@ -160,16 +168,25 @@ This is a minimal set which alone form the immutable kernel of all society, in e
 These Axioms are based upon the American Bill of Rights. 
 
 
-Life: right of all life as given by birth. Exist no right of dependence. Execution as jury judgement. Ideal: all life is sacred. Anti: existence as resource.
-Liberty: right of choice, but not freedom from consequence. No slavery. No arrest without jury warrant. No jails: immediate punishment or exile. Arrest only to the extent of obtaining identity & proof of criminal action. Exist no conscription.
-Speech: right of speech. Action must be entirely confined to speech: leading a mob is not speech, organizing is not speech, proven-threat is not speech. Printed content is protected by speech. Threat without means of fulfillment is speech. Pulpit in commons is protected by speech if it only calls for individual contemplation.
+Life: right of all life as given by birth. Exist no right of dependence. Execution balances the right to life, as jury judgement.
+
+Liberty: right of choice, but not freedom from consequence. No slavery. No arrest without jury warrant. No jails: immediate punishment or exile. Holding-position only to the extent of obtaining identity & proof of criminal action. Exist no conscription.
+
+Speech: right of speech. Action must be entirely confined to speech: organizing is not speech, proven-threat is not speech. Written content is protected by speech. Threat without means of fulfillment is speech. Pulpit in commons is protected by speech if it only calls for individual contemplation.
+
 Arms: right to arm. If government can equip a specific arm, then Individual can likewise equip the arm.
-Oath: right to hold office accountable. Institutionalized: breach of axioms, treason against nation, betrayal against countryman. Purge - if proven valid - glorifies the Individual.
-Freedom: right of movement. Easement of identified Individuals and animals across all space that is not residence-home. This does not protect loitering.
+
+Oath: right to hold office accountable. Breach of axioms, treason against nation, betrayal against countryman. Purge proven valid by jury - glorifies the Individual.
+
+Freedom: right of movement. Easement of identified-Individuals & animals across all space that is not residence-home. This does not protect loitering.
+
 Domain: right of domain of the Individual. Domain of the Individual: family members, residence, land, business assets & profits.
-Privacy: right to private communications. Non-private communication: govt, organizational & business. No spy, entrapment, nor seizure of information. 
+
+Privacy: right to private communications. Non-private communication: administration, Opensource implementation, business. No spy, entrapment, nor seizure of information. 
+
 Belief: right of personal belief. Family-only worship on residential-land. Illegal to worship in organization or extended-family. 
-God: right of divine lineage. Single head of nation and lineage of succession. Lineage of the Individual bound in survival to The Divine House.Individual
+
+God: right of divine lineage. Single head of nation and lineage of succession. Lineage of the Individual bound unto survival of The Divine House.Individual
 Individual is the only entity in society; the unit of measure in a homogenous historical framework.
 
 Individual is the entity of the adult - responsible for self. 
@@ -180,6 +197,7 @@ As Individual exists over self, is as Individual over household, is as Individua
 Responsibility & accountability is only scaled, but never warped to be inconsistent in a generalized situation.
 ✦
 The Individual unit compiles a nation into an exhaustive & explicit map of the society at any point in time to produce direct measurements.
+
 Homogenity of the Individual unit allows clear & robust comparison of current records to historic states - all based upon the same unit.
 ✦
 Individual unit is exposed due to its isolated nature. 
@@ -194,7 +212,7 @@ Individuals are the sole holders of power:
 ✦
 Life requires time & space in which to exist.
 
-Ancestral home is the domain of the Individual:
+Ancestral Core Land is the domain of the Individual:
 	to enshrine family lineage over time.
 	to pass forward inheritance of generationally-improved space immune from loss.
 ✦
@@ -209,7 +227,7 @@ Lineage immutably tied to the original family.
 If an adopted-heir attains head-of-family, the next heir must be from the original family line. 
 If no man nor woman of original blood-line is found, then the family line perishes and the ancestral parcel is forsaken.
 
-Extinguished bloodlines condemn the ancestral-land to wild-lands.
+Extinguished bloodlines condemns the Ancestral Core Land to wild-lands.
 ✦
 Every 6 months the Head of household is required to vacate the region.
 Family stays at home to vote to reaffirm or replace the Head.
@@ -235,27 +253,11 @@ The Individual always in a state of chemistry with the environment.
 The human soul always in instantaneous convolution:
 	{ health, mental, emotional, family, society, power }
 
-Change to the environment into a new state of being - changes behavior unpredictably.
+Change in these factors produce a new state of being - changing behavior unpredictably.
  
-Society is an endeavor of harmony between structure & instability.
-⌬
-God is scaled from the living Individual. God only exists within living men. 
-
-Jury is the aggregate of Individuals immutably identified to decidings of Justice.
-
-Militia is the aggregate of Individuals bearing arms in defense of Invasion.
-
-Land is the domain of the Individual transcended to a lifetime of a Nation.
-
-AI is the logic of dedicated Individuals oathsworn in global Consensus. 
-
-ORP is the external representation of generational Memory.
-
-Man-meat is the Individual's life debt ecological Balance.
-
-Global Initiative is the Axioms of Rights extended to all Humanity.
-
+Society is an endeavor of harmony between structure & instability - as consequence the Liberty of Choice.
 God
+God only exists within the living being.
 God is the crowned head of the nation.
 
 As the Individual holds domain over self, by inheritance.
@@ -269,17 +271,21 @@ If an action is consistent with the self, with the household, with the business 
 Society establishes the laws which govern the nation, isolated from the influence of the Divine Family.
 God administers, but does not create the law.
 
-Citizen Marshalls, being Individuals highly scrutinized, are self-appointed checks upon the administration of God. Where God is not able to act, the Citizen Marshalls acts, each independent. 
+Citizen Marshalls, being Individuals highly scrutinized, are self-appointed checks upon the administration of God. 
+Where God does not uphold the axioms, the Citizen Marshalls acts, each independent. 
 ✦
 God builds society to health; the nation is the secure inheritance to Divine Lineage.
+
 Society commits to honor The Divine Lineage in all respects, or enact a complete purge of the Divine Lineage.
 
 Marriage until death of the entire nation; do a Divine Lineage & Nation part.
-All ownership titles are nullified, and the nation must be rebuilt entirely.
+All ownership titles are then nullified, and the nation must be rebuilt entirely.
 ✦
+ZENG-ZI is a calligraphic artifact which represents the express will of God.
+
 Society establishes laws which are checked into balance by God.
 
-God issues divine veto, the ZENG-ZI, by direct messengers.
+God issues divine veto, via ZENG-ZI, by direct messengers.
 Posting the express will of God, which are not enactable under current law.
 
 ZENG-ZI is written upon unique red-paper & unique black ink. 
@@ -289,14 +295,13 @@ ZENG-ZI remains at the designated community post for three months.
 
 Veto is then voted on:
 	7:10 is a full & immediate instatement of the will of God.
-	4:10 is a compromise weighing in favor of God relative to the ratio.
+	4:10 is a Compromise weighing in favor of God relative to the ratio.
 
-Compromise must reach 7:10 ratio of agreement.
-It is written on unique black-paper & unique red-ink.
-Identifiable to each community.
+Compromise, being directly computed, is written on unique black-paper & unique red-ink.
+Identifiable to each unique community.
 
 ZENG-ZI & Compromises are proof of an unstable social state.
-They are stored as a pair in the community Divine Temple.
+Both are stored as a pair in the community Divine Temple.
 
 ZENG-ZI is proof of disharmony between the will of the nation and its God.
 Compromises are proof of disrespect of God as the head of the nation.
@@ -310,11 +315,8 @@ International reputation suffers in these exchanges.
 Society, as the household to the head, has the right to cage the administration of God to the extreme triviality as a mere figurehead, or appoint an administrator in the God's stead.
 
 Temperament of God effects how society creates laws.
-
-Historic & international honor checks how the nation respects God.
-Low respect of God hurts international business, and the respect of its families.
 ✦
-Harmonious & involved Gods: will shape the nation by administration of laws reflective of the current society.
+Harmonious & involved Gods: will shape the nation by administration of laws reflective of the current society with direct & powerful implementation.
 
 Disharmonious & involved Gods: will contend with the current society, throttled by 3 month duration per ZENG-ZI. 
 
@@ -343,10 +345,14 @@ Rejection by 8:10 is posted by each community by gold-ink upon black-paper.
 The nation will not be burdened by the will of a deceased God.
 ✦
 At all times the line of succession is publicly known.
+Heirship must be declared before 10 years of age.
+Society must have a long-kept eye upon growth of the Heir.
 
-Each position gains the approval of the nation by public ordeal.
-Each Individual is scrutinized their entire life. 
-
+Each Heir is tested by standard public ordeal.
+Divine Regional Tournaments must be hosted quarterly in sequential succession.
+Pride of the Heir is checked by the ability of others of equal or lesser age:
+	{ endurance, prose, oration, calculation, construction, melee }
+✦
 Disharmonious Divinity can only exist due two root causes:
 	Individual failure in consistency.
 	incorrect assessment by the nation.
@@ -357,13 +363,13 @@ Distant relatives and adoption follow the same rules as a household.
 
 DNA bloodline, being publicly known, will converge the original bloodline back into power.
 ✦
-Central objective of the Divine House: cultivate & foster virtue of stability.
+Central objective of the Divine House: cultivate & foster virtue of stability internationally.
 Set the standard-form for the nation to adopt.
 
-Divine House is a stately organization, being composed by God and confirmed by the nation.
-The House represents the nation at the world stage.
-
-Each nation is represented by their respective Divine House. 
+Divine House is a stately representative, being composed by God and confirmed by the nation.
+The House represents the nation at the global tournament Olympics of Gods.
+Each nation is represented by their respective Divine House.
+ 
 Standards & customs are distilled into sharp cultures of diversity.
 ✦
 Chinese establish harems to allow extreme diversity of the bloodline across the nation.
@@ -376,9 +382,9 @@ Africans favor warrior females, with an emphasis on adoption, to nurture strengt
 Tribal kingdoms set each citizen as family which appoints God from the oldest & wisest.
 One Ring Platform [ORP]
 ORP is the information hub of the society from local to global.
-The platform hosts decentralized, synchronized, immutable data.
+The Opensource platform hosts decentralized, synchronized, immutable data.
 
-Humanities greatest strength is collective reasoning. 
+Humanity's greatest strength is collective reasoning. 
 Unaltered history gives the future freedom to learn from the past.
 
 Information flows freely & symmetrical.
@@ -387,16 +393,16 @@ If one has public data, then all have access to the public data.
 ✦
 Every adult individual is required to be processed onto ORP.
 Freedom of movement is enabled by public information of identity & position.
-
-Identity is verified by biometrics; exist no fake accounts.
 This establishes community safety which is endangered by Liberty.
 
+Identity is verified by biometrics; exist no fake accounts.
 Authenticity of action on ORP is robust by stranger-witnesses.
 These allow any individual to confirm identity in person and then posting the result.
 ✦
 Immutable data favors honesty. 
 Lies are permanent marks.
 Public history of the Individual is public information.
+Disclosure of private information is a violation of the Axiom of Privacy.
 
 Individuals may post on their own profile.
 Society may comment unrestricted onto profiles of others.
@@ -410,25 +416,25 @@ Any one is able to maintain a decentralized node to contribute to the platform:
 	{ historic, current, archived, online, unique-focus, broad swathe }
 
 Stable information is archived in compressed forms.
-
-Data can be accessed online, from offline archives, from foreign confirmations.
+Archived data, stabilized by time & independence of region, stored online or offline.
+Data can be accessed online, from offline archives, from foreign source.
 ✦
 Main information exists on 8 server nodes:
 	{ DNA, Vote, Jury, Citizenry, Militia, Business, Social, Legislation }
 
-One of each type of server node connects to a Reconciliation node, whose job it is to synchronize versions with other Reconciliation nodes.
-✦
-Current updating information is cached data, being less stable but concurrent, stored in high-traffic registers.
-Archived data, stabilized by time & independence of region, stored online or offline.
-✦
-Reconciliation nodes are the primary gate of security, being maintained by reputation of the Individual.
+One of each type of server node connects to an available Reconciliation node, whose job it is to synchronize versions with other Reconciliation nodes.
+
+Reconciliation nodes host current-updating-information as cached data, being less stable but concurrent, stored in high-traffic registers.
+
+Reconciliation nodes are the primary gate of security and backbone of the network, being maintained by reputation of the Individual.
 Reconciliation nodes communicate amongst themselves to reach agreement of data content.
 
 Once the update of data is stable, it is pushed onto the respective octagon-node-set.
 
 Main updates throughout the network-backbone are done by secure notarized nodes.
+
 Instability of data only exists between communication amongst Reconciliation nodes.
-Only after stability of updates, do the nodes of the Octagon receive information.
+Only after confirmed stability of updates, do the nodes of the Octagon receive information.
 ✦
 Primary backbone of the network is not the only path.
 
@@ -437,23 +443,32 @@ Exist many interconnected peer-to-peer connections which operate in non-standard
 Yet all forms of information flow must agree with the resolutions of reconciliation nodes: 
 	{ independent flows, offline drive transfers, global positioning }
 
-Irregularities are addressed and fixed only in the peer-to-peer Reconciliation tier. 
+Irregularities proven by any node are submitted on ORP, nodes & data.
+The information is flagged for audit, and the fix is upon the Reconciliation tier.
+Corrected Reconciliation nodes must pay the standard Bounty to the Individual of first submission. 
 ✦
 Faces of the octagon are independent in synchronization.
-Failure to reach agreement of update - will stall updates to all nodes of that family.
+Failure to reach agreement of update - will stall updates to nodes of that specific family.
 Other faces will proceed normally.
 
-Data versioning & synchronization are the vital algorithms of the entire IWO infrastructure.
+Data versioning & synchronization are the vital algorithms of the entire IWO infrastructure. 
+Eight discrete interfaces & communication lines.
 Generations will hone these procedures into stable evolution.
 ✦
 Many sectors of IWO rely directly upon ORP.
 Powerful facets of society have a critical interest in maintaining & upgrading the network.
 
-Strong sectors build powerful nodes which benefit the entire network.
+Strong sectors build powerful nodes which benefit the entire network consequent of the peer-to-peer nature and the free-exchange of access keys.
+
 Individual enthusiasts supplement the network authenticity with an independent isolation of power.
 ✦
-Access keys are all one-time usage.
-Access is a resource that allows node administrators to gain profit from establishing a good reputation.
+Access keys are all one-time usage, one key required per node accessed.
+Access keys are purchased from the node and then traded without restriction.
+
+A node is able to to produce unlimited keys but it must honor each key, only subject to access throttle.
+Reputation of the Individual is the basis of the exchange rate.
+
+Access is a resource that allows node administrators to gain profit from establishing a good reputation. 
 
 Sections of the One Ring Platform
 
@@ -461,17 +476,18 @@ Identification
 Biometric confirmation of Individual user by sensors.
 	{ face, voice, thumbprint, ...}
 
-Current public location is archived public information.
+Current public location is archived public information, delay of publish established by Constitution.
 
 Sensors exist in all public spaces and many other spaces for the sake of security.
-Movement of Individual is always identified, or proven to be circumventing lawful freedom.
+Movement of Individual is always subject to identification, or proven to be circumventing lawful freedom.
 
 Witness
 Witness is an independent verification between two individuals, peer to peer. 
-Quick interaction, between confirmed-strangers, uses proximity-based protocols to confirm mutual identity. 
+Quick interaction, between confirmed-strangers, uses proximity-based protocols to confirm mutual identity.
+Individuals, who are not naturally social, are compelled to meet.  
 
 Serious actions require several witnesses. 
-This provides verification of the individual to the stance. 
+This provides verification of the Individual to public stance: 
 	{ vote, juror deciding, veto, amendment … }
 
 DNA
@@ -481,7 +497,7 @@ Safeguard against racial dominance, family clan organizations, and proximity to 
 DNA is verified periodically at the minimum of once every 10 years, by local-national-international firms.
 
 Wealth
-Land, Assets, Distributed-Assets are all public. 
+Land, Assets, Distributed-Assets are all public information. 
 Resources are of national interest.
 Resources are produced by a nation, not by an Individual alone.
 Nation has the authority to know where its resources exist.
@@ -489,60 +505,70 @@ Nation has the authority to know where its resources exist.
 Land is the most stable form of wealth, and is established as the foundation of the monetary system.
 
 Residential Wealth:
-	{ ancestral-land, common-land-stock, redistributed-assets}
+	{ ancestral-land, common-land-stock, redistributed-assets }
 
 Business Wealth:
-	{ business-parcel, common-land-stock, redistributed-assets, profits }
+	{ business-parcel, profits, common-land-stock, redistributed-assets }
 
-Wealth is Opensource.
-Wealth is calculated by international standard assessment of land and by public inspection of land from a public perspective.
+Wealth is calculated by Opensource international standard assessment of land and by public inspection of land from a public perspective.
 
 Affiliation
-Organization affiliation must be made public. 
+Affiliation must be made public. 
 All agreement between non-intimate family is public information.
-	{ contracts, service, wedding, govt office administration, ORP network relations }
+	{ contracts, service, wedding, government administration, network administration }
 
 Citizenry
 Civic Duty is required by every adult member of the society.
-From child to elderly, each has duty to improve the community.
-Actions are recorded by witness protocols and given weight.
+From child to elderly, each has duty to improve the community and nation.
+
+Two years from 18-20 is an optional Mission.
+Standard full-commitment services approved by the active Constitution.
+Missions allow the Individual to boost contribution prior to family life, in order to focus on family establishment for two decades without need to worry about Duty-fulfillment.
+
+Actions are recorded by witness protocols and given weight in Individual assessment.
 Exist no tax, but each community member is required to contribute according to community bylaws.
 
 Militia
-Militia roles & achievements are public honors. 
+Militia roles & achievements are public actions. 
 Militia & Viking engagements are listed by time. 
 Merits, good or evil, are listed and upheld by witnesses.
 
+Militia & Viking are required to wear international-standard devices which provide an isolated proof of action.
+
 Vote
 All votes are public and permanent. 
-Action to compel a public way of life is a public action.
-Persecution for vote is an axiomatic violation.
+Action to compel a public way of life - is a public action.
+Persecution for vote is an axiomatic violation of the Liberty of Choice.
 
 Court
 Judge acts as the head of the court, being elected by the jury.
 
-Any Individual may volunteer for Juror service.
-Each statement is posted equally.
+Any Individual may volunteer for Juror service, under their choice of district, local or general.
+Each Juror Deciding is posted equally in sequence of submission.
 
-Individuals gain respect due to measurable skills in:
-	{ articulation, research, on-scene investigations, understanding of situation, 			judgement, empathic weights }
+Jurors gain respect due to measurable skills in:
+	{ articulation, research, on-scene investigations, understanding of situation, 
+		judgement, empathic weights }
 
-Statements exist to enlighten the perspectives of the case. 
-Comments exist to forge truth from debate.
+Juror statements exist to enlighten the perspectives of the case. 
+Public comments exist to forge truth from debate.
+There are no censors.
 
 Business
-Work|product comment-based reviews.
-Community & State nodes hold all contracts which are accessible to the public.
+Service|Product comment-based reviews systems.
+Community & State nodes hold all contracts which are accessible to the public or Citizen Marshall.
 
-Client is responsible for preliminary investigation into testimonials & comments which bear legal weight of truth.
+Client is responsible for preliminary investigation into reviews which bear legal weight of truth.
 
 Truth
 Truths are posted statements on own profile.
 Comments are statements on other profile posts.
+
 Exist no restrictions nor moderation of posts or comments.
+Courts may prove a lie, but the deciding is only a comment on the post.
 
 The voice of each Individual is able reach the globe and the future.
-This is the greatest check upon society. 
+This is the greatest check upon society:
 	{ news, witness, origination, perspective, testimony, merit }
 
 10 Year Cycle
@@ -550,27 +576,27 @@ Harmonious & stable systems are cyclic.
 ✦
 Axioms are the invariant virtues of the society.
 
-All other laws are cyclic in a 10-Year period.
+All other laws are cyclic in a 10-Year period and compose the Constitution.
 Society has an appointed time period to create a law system, being new or derivative of the past.
 
 Cyclic Constitutions allow the laws and government to be adapted to each generation.
 This serves as a time to recenter & recalibrate.
-Then to stabilize for 10-Years, the laws only being subject to ZENG-ZI veto.
 
-During this period of stable laws, the Individual may build a composition to propose for the next cycle.
+Ratified Constitutions are stable laws only subject to ZENG-ZI veto.
+
+During this period of stable laws, the Individual may build Constitution-proposals for the next cycle.
 ✦
 Historic compositions of laws are available along with the raw data of effects.
-
 Conservative or radical, this is the liberty of choice for each period.
 All information is recorded immutable to pass forward victory & failure equally.
 ✦
-Stages of the 10 Year Cycle: 
-	{ choice-assessment, vote, ratification, implementation }
+Stages of the Constitution 10 Year Cycle: 
+	{ proposal-assessment, vote, ratification, implementation }
 
 Proposals are created & polled during the previous cycle. 
 This favors long-lived popularity of a proposal to prove itself over long-term survival at top. 
 This is the stage where the proposal adapts to compromise.
-
+✦
 The 10-Year Festival is a time for commitment not discussion.
 
 The 10-Year Festival starts with an immediate vote of all proposals.
@@ -585,12 +611,12 @@ Ninth year of the 10-year period:
 	ORP Witness protocols.
 	Festivals to celebrate Individualism across the nation facilitate Witness.
 
-Proposals & influencers are listed at the start of the year.
+Proposals & influencers are listed at the start of the Ninth year.
 ✦
 Eleventh Month Eve of the Ninth Year, all strong influencers are banned from social practice & communication.
 
-Confinement upon estate lands, guarded by militia: 
-	{ God, Divine House, top government officials, ORP voted, AI chosen }
+Confinement upon Family Land, guarded by militia: 
+	{ God, Divine House, top government administrators, top network administrators, ORP voted, AI chosen }
 
 Confinement or foreign vacation:
 	{ creators of proposals, ORP voted, AI chosen }
@@ -618,13 +644,16 @@ Assessment of Individual comprehension of the new Constitution is required befor
 
 
 Citizenry Resident Community Rural
-Citizens are adults with roles within a community & in the nation.
-Residents are non-citizens with no stable roots, immigrants, or under punitive exclusion. 
+Citizens are adults Individuals with roles within a community & in the nation.
+Residents are non-citizen Individuals with no stable roots, immigrants, or under punitive exclusion. 
 All adults have speech, but only citizens are able to vote in law & jury.
 
 Citizens & residents are responsible for government & community well-being.
 Exist no taxes.
 The effort to maintain society is the burden of all who live there.
+
+Government is bound to the size of its community's commitment.
+Citizen Marshalls address local failures, and are empowered to uproot community leaders by banishment to another region.
 ✦
 Easement is the right to pass through, but not to loiter nor settle.
 Residence requires approval from the community. 
@@ -633,44 +662,53 @@ Community is not isolated from the world.
 Globe pressures nation. Nation pressures side. Side pressures region. Region pressures community.
 ✦
 People have proven to produce efficient transmissions of public actions. 
+
 Observer posts video onto a platform. 
-Society determines weight of action
+Society determines weight of action as judged from medium of record perspective.
 Community laws measures the contribution.
 
 Correct reaction trumps rapid response. 
 
-Individuals are known and the proper action will be taken, correctness > quickness. 
+Individuals are identified at all times and the proper action will be taken, correctness > quickness. 
 Liberty to act criminally or constructively.
 To be judged and then - hunted for sport or respected as a contributor.
-
-'Let each citizen stand, not as a tenant in a corporate state, 
-but as a steward of a living community. 
-Every hand builds & every public dispute weighed by peers
-There justice need not a throne' -- ORAC SCIT
 ✦
 A failed-state needs to be uprooted as resultant of ill foundation & improper growth.
 
 All titles in township are nullified. 
 All town lands will be returned under local jurisdiction.
-
-Ancestral lands are remote an not within town jurisdiction.
-
-All land & buildings & residences are community distributed assets. 
+The members are then forced to scatter to other regions.
+Under mandated resettlement distance of any other.
+The next 10-Year cycle must be completed in full before the return to community is permitted.
+✦
+Ancestral lands are remote and not within town jurisdiction.
+✦
+All lands, buildings, and residences in the township are community distributed assets. 
 Applicant goes through an interview process & probationary period in a public role.
+Applicant may appeal to the General Counts; able to circumvent Local Courts to avoid regional bias.
 
-Citizens: Jury, Legislation, Permits, Inspection, Code, Militia
-Utility Business: Energy, Water, Communications, Food
-Residents: Public-Works, Waste-Management, Parks, Welfare service
+Citizens: 
+	{ Jury, Legislation, Permits, Inspection, Code, Militia
+		Utility Business: Energy, Water, Communications, Food }
+
+Residents: 
+	{ Public-Works, Waste-Management, Parks, Welfare service }
 
 Clear roles and accountability to Individual. 
 ✦
-Proper community is built by design under the new order.
-
-Core of town is the neighborhood of town leadership, the basis for a functioning community:
-	{ Orator, Doctor, Militia Command, Fire & Rescue, Infrastructure }
+Proper community is built by design under the Constitution.
+Ancestral Lands allow familiar deep roots, and access to various townships.
+Townships are for productivity and this may require movement.
 ✦
-Town structure of zones expanding out.
-Core community residences, Town Hall, Stadium & gathering-park.
+Core of Township is the neighborhood of leadership, the basis for a functioning community:
+	{ Orator, Doctor, Militia Command, Fire & Rescue, Infrastructure, Mayor }
+
+Administration roles are now bound to each other, that creates Organization.
+Framework of national expectations standardize the role to keep isolation between members of leadership.
+Citizen Marshalls enforce these standards.
+✦
+Town structure of zones expanding out:
+Core Township residences, Town Hall, Stadium
 Major business headquarters
 Larger social buildings: grocery, school, hospital, well-fare
 Urban neighborhoods, parks, wildlife habitation
@@ -682,17 +720,17 @@ Service to the community grants their house until matrimonial death.
 Residences will be built for comfortable respect & live-in-stations for emergency work.
 Residence is tied to the role of service.
 
-2) Business can only exist within a stable society, thus community supersedes employment obligation.
+2) Business can only exist within a stable society, thus community duty supersedes employment obligation.
 How well one contributes to the community trumps excellence in business. 
-Businesses locally operate under jurisdiction the community.
+Businesses locally operate under Township jurisdiction.
 
-4) Families work their way up in the community. From temporary probation, residency non-citizen, stable citizen housing, to long-standing family reputation.
+4) Families work their way up in the community. From temporary probation, residency non-citizen, stable citizen housing - into long-standing family reputation.
 
 If an individual becomes lethargic, family members must step up to fulfill community service to retain status.
 Long-standing families with continued service attain the highest degree of stability, their choice to stay or upgrade to a more dignified residence. 
 
 Movement to towns with culture suited to the temperament of the family is normal. 
-Reputation is always carried forward. This allows a way to ease community friction.
+Reputation is always carried forward. This allows a way to ease community establishment friction.
 
 Community assigns the distribution of residences in a public & open-source fashion. 
 Adherence to strict standard protocols is the iron clad law in distributions.
@@ -703,24 +741,28 @@ Neighborhoods of homes for non-citizens, both stable & transient.
 ✦
 Each adult citizen is required to perform governmental duties.
 Three branches of the government: Judicial, Legislative, Militia.
-Citizen has the freedom to build respect in a role of available choices.
+Citizen has the freedom of choice to build respect in a role of available choices.
 
-Peer verification, Awesome Intelligence, and public devices all monitor individual to civic duty.
+Heirs must serve as Militia.
+Society can only exist on land defended by Militia.
+Thus the Heir must maximize their strengths in a form which strengthens the Militia.
+
+Peer verification, Automata Intelligence, and public devices all monitor Individual's civic duty.
 Education trains roles which tend to be passed down thru lineage.
 Culture establishes critical weight upon ancestral lines proven to be valiant. 
 Families gain reputation from consistency, and from cultivation by parental guidance over apprenticeship, and least from academic tract. 
 ✦
-One Ring ensures that acts over a lifetime are properly weighed to the expectations of current situations. 
-Community lines of reputation accumulation clearly allow for redemption.
+ORP ensures acts over a lifetime are properly weighed to the expectations of current situations. 
+Community lines of reputation-accumulation clearly allow for redemption.
 
-Acts of service will tend to align harmoniously with the timeframe of the individual.
-Plan life well, act vigorously in your appointed time-frame, document, get witness.
+Acts of service will tend to align harmoniously with the timeframe of the Individual.
+Plan life well, act vigorously in your time-frame, document, get witness.
+Else, the time and duty will be imposed by community need.
 
-Daily life, a sudden social emergency, aid, then get counted for service.
+Automata Intelligence will allow voluntary oversight to accurately establish standardized metrics, and verifications - to acts of civic duty.
 
-Awesome Intelligence will allow voluntary oversight to accurately establish standardized metrics, and verifications - to acts of civic duty.
-
-Witness of unaffiliated citizens will weigh the effectiveness of contributions.
+Witness weigh the effectiveness of contributions.
+Travelers are welcomed as a vital element of the community for the purpose of Witness.
 
 Calculation of contributions is of the same nature of the calculations of Employment.
 Community formulas are worked daily. All formulas are public globally. 
@@ -743,20 +785,19 @@ Weekly Town Hall meetings handle the mundane procedures and implement community 
 Anyone can attend the recorded sessions.
 ✦
 Title holders have a stronger hold onto the land: business, farms, homesteads.
-Title holders can not be zoned off land.
-Community obligations are in proportion to wealth.
 Land can be sold but never under obligation.
 Exist strict regulations on maximum size of land, easements, and usage of the land.Militia & Viking
 Local Militia is the only means to which man may attain any degree of liberty.
-Command is never passed to a non-local entity, in order to retain independence.
+Command is never passed to a non-local entity, in order to retain independence of the Identifiable.
 ✦
-Defense of invasion will call up the second-in-command, leading nor more than 40% of the active official militia. 
+Defense of non-regional invasion will call up the second-in-command, leading nor more than 40% of the active official militia. 
 Call up list is a sequence by age, global of all incident.
 Let the youngest be last to risk life.
 
 War spawns evils - as a sickness across the whole body.
-Integrity of the country, kept by strongholds of power in each community, will keep long-term health & security. 
-Containment of weakness to the region of invasion is vital for survival.
+Integrity of the country, kept by strongholds of power in each community at minimum of 60% full-power, will keep long-term health & security. 
+
+Containment of weakness - to the region of invasion is vital for survival.
 Nation has longterm scope in regards to defense. 
 
 Security of family & home is the first maxim of the Individual.
@@ -766,16 +807,16 @@ Active service to the local militia is sworn prior to ratification of title of l
 
 Heir to the residential estate is the Individual which represents the parcel of land in active militia service.
 One soul is required to represent each parcel of residential land in active militia service.
-Roots of the nation will be the individuals of strength & capability.
+Roots of the nation will be the Individuals of strength & capability.
 
-Death of the heir relieves the residential land from militia duty for two generations.
+Death of the heir relieves the residential land from militia duty for two full 10-Year Cycles.
 The family must provide a secondary militia service such as resources or utility service.
 
 An adopted defender is entitled as family heir upon return. 
 ✦
 Active militia will be trained in national standards in addition to local standards.
 
-Local, state, national assemblies unite annually in convention: inspection, drills, training, feats, war-games, ranking.
+Local, regional, national assemblies unite annually in convention: inspection, drills, training, feats, war-games, ranking.
 
 Militia & Viking will be jointly ranked nationwide & against history.
 
@@ -790,12 +831,14 @@ Diversity of the parts, being modular in every respect, allow each militia to ha
 
 Militia have a standard role to fill, but the method of implementation is entirely unique.
 ✦
-Nation grade weapon systems are funded from voluntary contribution: 
+National efforts will fund concerted efforts to monolithic powers, and thus require sponsorship of a lineage to check of obligation under Oath.
+
+Nation grade weapon systems requiring massive voluntary funding: 
 	{ missiles, radar, ships, tanks, planes, forts, gundam }
 
 Top ranked Individuals will be granted custody of nation grade systems. 
 
-Decommission of rank, will be evidenced by inspection, then judged by national jury.
+Decommission of rank, will be evidenced by inspection, then judged by national Court.
 Decommission of rank will result in forced removal of heir and forfeiture of militia assets.
 ✦
 God may inspire the militia leadership to action, but never in the office of command.
@@ -803,10 +846,11 @@ God may inspire the militia leadership to action, but never in the office of com
 Militias are bound to communities, the part is never greater than the whole.
 
 A military usurper will be recognizable at the outset. 
-To grow command from community to state is plain.
-To grown command from state to region is unmistakable.
+To grow command from community to region is plain.
+To grown command from region to a national contender is unmistakable.
 
 Usurpers attempt to steal the claim which God forsakes to preserve Individualism.
+Usurper leadership, and all associates, whose intent is to abolish The Divine House, to restart the nation, forfeit their right in Divinity & administration of the new nation.
 ✦
 Official rank ties family lineage accountability to the commission of rank or custodianship.
 
@@ -815,16 +859,18 @@ No active member of a militia, nor national-equipment operator, may commit to fo
 Non-heir members of militia, unofficial in title only, may participate fully in the militia.
 
 Unofficial members of the militia may hold sponsored command & operation of national equipment.
-Unofficial members are trained to be capable militia, and have the freedom to assist defense OR engage in viking affairs.
+Unofficial members are trained to be capable militia.
+Unofficial militia have the freedom to engage in viking affairs.
 
-Unofficial militia tract, being public on the One Ring, allows reputation growth by deeds to establish roots in local & national society.
+Unofficial militia tract, being public on ORP, allows reputation growth by deeds to establish roots in local & national society.
 ✦
-Family lines will invest considerably in heirloom equipment to protect heir, this nature will converge towards the ideal of Gundam Suits.
+Family lineage will invest considerably in heirloom equipment to protect heir - a convergence towards the ideal of Gundam Suits.
 
 Vikings will also accumulate grand armaments funded by conquest.
-They will settle and own land and invest inter grander armaments to protect their new established lineages.
+The armaments available are under direct control of God as the Divine center of international representation.
 
-National efforts will fund concerted efforts to monolithic powers, and thus require sponsorship of a lineage to check Oath.
+Vikings will settle to land and invest inter grander armaments to protect their new established lineages.
+Thus Vikings converge into militia.
 
 Equipment from supplies, arms, to vehicles - all are in the hands of the citizenry.
 The firepower of the nation will reside within the stewardship of the people.
@@ -836,9 +882,10 @@ Viking commanders can not control a command greater than the size of the median 
 Offense must not weaken defense.
 
 Proceeds of Viking ventures will be publicly disclosed & publicly distributed by contribution metrics compiled by evidence and witness.
+Life risked by tiers establish the greatest metric of contribution.
 
-One Ring platform will facilitate Viking disputes of contributions.
-One Ring vote of 2:3 allow dishonorable forfeiture of loot from Viking.
+ORP will facilitate Viking disputes of contributions.
+Vote of 2:3 allow dishonorable forfeiture of loot from Viking.
 ✦
 Militia holds power over life, in community trust.
 Militia is required to react instantaneous to secure protection. 
@@ -858,18 +905,20 @@ By law, militia are the highest respected members of the community.
 Judge & Jury
 All deciding are immutable, public and commented.
 Judge aggregates Juror decisions, then commits sentence within bounds of law.
-Militia enforce the sentence of the courts.
+Militia enforces the judgements of the courts.
 ✦
 Judges are first chosen by meritocracy and then backed by ancestral honor.
-Greatest weight is on a family lineage which has proven consistence over age.
+Greatest weight is on a family lineage which proved consistence over age.
 
-Judge is the head of the jury, and thus the jury sets the bounds of judicial power to commit a deciding. 
+Judge is the head of the jury, and thus the jury sets the bounds of judicial power to sentence a jury deciding. 
 
 Jury checks the judge. 
 ✦
-The most intelligent & applicable insights gain weight which is independent of the societal position, being sourced from juror or public statements.
+The most intelligent & applicable insights - gain weight which is independent of the societal position, being sourced from juror statements or public comments.
 
-Juror decidings allow the quick rise of merit; an Individual may establish strong roots where society requires the best minds to crusade for justice.
+Juror decidings allow the quick rise of merit; an Individual may establish strong roots.
+Society requires the best minds to crusade for justice.
+
 Juror is a civic duty and counts against service expected, being regarded as a civil action only second to militia.
 
 ORP publicity checks the juror.
@@ -891,14 +940,12 @@ Foremost rule, courts should never overburden any involved.
 
 Judgements are relative to the Constitution active during the incident. 
 ✦
-Only after Juror decisions & Judge sentence can the convict be arrested.
+Only after Juror deciding & Judge sentence can the convict be arrested.
 
 Axiom of Domain sanctifies home which can only be sieged, but never invaded.
-Under this circumstance, the head of household then becomes open to criminal investigation.
 
-Hunt for a runaway from deciding, implies a loosened restriction in safety of life.
-
-Exile by ORP is the default punishment when the convict does not submit to the courts.
+Hunt for a convict-runaway, implies a loosened restriction in sanctity of life.
+The runaway is granted immunity from location tracking to offset this balance - and produce sport.
 
 Non-voluntary arrests are a fast-track to severe punishment.
 Society has no use of Individuals who can not own up to their choices.
@@ -908,10 +955,11 @@ There are no jails nor enslavement.
 Exist only immediate punishment or exile under penalty of death.
 
 Punishment is effected front public display.
-Illegal gains are forfeited in seizure.
+Illegal gains are forfeited in seizure as the last option, it is better to ensure the punishment is greater than the gain - than to use forfeiture.
+Seizures of assets are treated as ORP distributed assets, and thus allow deep inspections of forfeiture.
 
 Capital punishment of Treason, Murder, or Pedo.
-Crimes of sex will result in the scalping of the sexual organ.
+Crimes of sex will result in the scalping of the sexual organ and branding of forehead.
 Severe, but merciful sentences, result in amputations.
 Whipping or beating are effected by an unassociated professional.
 ✦
@@ -1151,7 +1199,7 @@ Childhood will no longer be enslaved to regimental systems.
 Children shall not be required to more than 4 hours of class daily.
 Communities hold open classes on reading, mathematics, writing, and culture.
 
-Awesome Intelligence allows access to rich cultivation where poverty exists.
+Automata Intelligence allows access to rich cultivation where poverty exists.
 Massive data archives are available in every community due to ORP. 
 Servers host every book known to history being accessible without copyright-restriction.
 
@@ -1562,13 +1610,13 @@ Opensource centralizes the power to the framework.
 Control is decentralized from the Individual into the consensus of the community in the form of guidelines.
 
 Branching of projects allows liberty of the few to maintain independence, yet sustained by the efforts of the community.
-Awesome Intelligence [AI]
-Awesome Intelligence is the codification of invariant factors per unique situation - to generalize experience into an eternal framework of Automated Interpretation.
+Automata Intelligence [AI]
+Automata Intelligence is the codification of invariant factors per unique situation - to generalize experience into an eternal framework of Automata Interpretation.
 
 IWO is built atop the strength of massive data flows of ORP.
 AI specialized in data aggregation which filters data flows for ordinary human consumption.
 
-Worldwide cultivations of Awesome Intelligence - enable automated perspectives to round a situation; in order to assist mankind towards empathy & understanding.
+Worldwide cultivations of Automata Intelligence - enable automated perspectives to round a situation; in order to assist mankind towards empathy & understanding.
 
 Diverse perspectives ground down bias and reveal true invariant elements.
 A situation is decomposed into elements, and the situation is understood by the nature of relations among those elements. 
@@ -1619,7 +1667,7 @@ Generational corruption will be unmistakable, and the framework of AI will unrav
 Each AI is then as unique as a human, being tied to identity.
 It may be cloned, but any fundamental change creates indisputable differences. 
 
-Awesome Intelligence, by the nature of its existence, converges over time to intellectual perfection that is resistant to manipulation with age.
+Automata Intelligence, by the nature of its existence, converges over time to intellectual perfection that is resistant to manipulation with age.
 
 AI built by independent parties can simply test the integrity of other systems.
 Together they are able to triangulate toward explicit sane reasoning.
@@ -1912,9 +1960,9 @@ Judge & Jury will be composed only of non-involved nations.
 
 
 
-Distribution of non-individual assets
+Distribution of Overgrowth
 The end of every cycle culminates all Financial Statements of Business Assets.
-Auditors being local, Citizen Marshalls, Awesome Intelligence, or International Marshall.
+Auditors being local, Citizen Marshalls, Automata Intelligence, or International Marshall.
 Any asset may be valued by any auditor.
 
 Public has the right to inspect all movement of assets between residential & business.
@@ -1955,530 +2003,3 @@ After a year of undisputed stewardship the title will be ratified.
 ✦
 Non-tolerance of monopoly and illegal ownership.
 Only a prune a successful businesses.
-Dialogue: Citizen Resident Rural
-	
-Euchi:
-Friends, the age of extortion is ended.
-Local governments once federalized, have returned to the community.
-All that fed upon the labor of others, or lived self-absorbed, is swept away.
- All serve; none escape. The core is not inherited but earned.
-
-Kleon:
-Euchi, your doctrine is sharp as the sword—perhaps too sharp. 
-Tell me, if all must serve, what of the crippled, the broken, the simple of mind? 
-Does not your meritocracy risk becoming another tyranny—only now by “function,” not blood or coin?
-
-Euchi:
-No one escapes the burden, nor the dignity.
-There are roles for all; even the weakest may sweep, the slowest may watch, the least skilled may aid. The only shame is in refusing contribution.
-In aiding the cripple, the cripple return aid.
-
-Thalion:
-Yet is it not mercy that distinguishes a just city?
- What of forgiveness for once-wayward, of rest for extended contributions? 
-If pain is the forge, do we not risk breaking spirits that might, with time, mend? 
-
-Euchi:
-All are allowed rest, Thalion—retirement is honored. 
-Forgiveness is the air we breathe; for if all are known, all need it in turn. 
-Yet none shall be permitted the luxury of uselessness
-—each must find their function, and serve.
-Service of each is subject to general calculations to permit impartial retirement.
-Sweep or science, each respected by time paid in the metrics.
-
-Kleon:
-And if a function excludes, if the core grows clannish? 
-You abolish birthright only to risk a new priesthood of “fit ones.” 
-Will the unfit forever sweep, never ascend?
-
-
-Euchi:
-Entry is by public record and real merit, not secret favor. 
-The path upward exists; let all who strive be seen. 
-If cliques form, their deeds are also seen—none may hide behind closed doors.
-Reason of Humanity is a net, cast global, can any organization slip its grasp?
-
-Demos:
-But what if I find no place? 
-What if my gifts are not wanted here, but the next town over?
- Will I be forced to wander, forever an outsider?
-
-Euchi:
-Travel to the community which is harmonious to your ability.
-Your ancestral land is the hearth of the family.
-The only true path of life, not easy, but always of best to grow in good soil
-Seek where you are needed. 
-Each community shapes itself, but all honor the same law: visible contribution.
-
-Thalion:
-But what of the soul’s needs? Who tends to song, to faith, to beauty? 
-If only function matters, will not the city grow hard, and hearts grow cold?
-
-Euchi:
-Art, faith, and care are no less service than fire or law.
- Let them be weighed, let them prove their worth by the life they bring.
-Else should law demand respect by force.
-Your choices build your ability -- choose wisely.
-
-Kleon:
-And justice? Your courts rise from local to world, 
-If every step is watched and every plea is logged, 
-Shadow of record itself become a tyranny? 
-Who forgives when the ledger remembers all?
-
-Euchi:
-Forgiveness is not the erasure of truth, Kleon, 
-But the act of knowing and choosing anew. 
-A record may scar, but it may also protect.
-
-Demos:
-And who ensures that your “new birth” does not become a new chain, heavier than the last? 
-How do we know the struggle is worth the pain?
-
-Euchi:
-The question is open, Demos, and must ever be. 
-There is no system that cannot harden, no liberty that cannot die. 
-The guard against tyranny is not in law alone, but in living memory and unending vigilance.
-A society cultivated to recognize vices and their cure.
-Here all bear public burdens, ease of few will not be purchased by hidden extortion of multitudes
-
-Thalion:
-So then, the greatest question remains unanswered: 
-How do we build a city that does not merely replace old cruelties with new, 
-but learns—forever, and in every heart—to forgive, to renew, to see worth in all?
-
-Euchi:
-That is the question for every age, Thalion. 
-Let us write it in the stones of this square, that we may never forget.
-
-
-
-“How do we build a city that does not merely replace old cruelties with new, but learns—forever, and in every heart—to forgive, to renew, to see worth in all?”
-
-Dialogue: Militia & Viking
-
-Aegon: Euchi, you say liberty demands local militias alone. 
-Yet history reveals militia as often fractured, unreliable, even dangerous. 
-How can such local command hold against the scale of foreign threats?
-
-Euchi: The strength of liberty lies precisely in local command. 
-Centralized armies breed tyranny; power detached from home inevitably turns against its own. 
-Local militia embodies defense as virtue, rooted in family and soil, not distant generals.
-
-Aegon: Yet in great danger, speed and unity decide battles. 
-How shall countless local commanders, each independent, coordinate swiftly without chaos?
-
-Euchi: Unity is embedded by training and convention
-yearly drills, and war-games binding militias through shared experience. 
-Peer-to-peer bonds forged in disciplined service replace orders from a distant hierarchy. 
-Years of training prepare them to unite seamlessly, 
-akin to skilled players in a game who know their roles intuitively.
-
-Aegon: You trust much in human virtue, Euchi. But tell me
-—what stops these local heroes from usurping power, turning virtue to tyranny?
-
-Euchi: Accountability through the One Ring prevents abuse,
-family lineage ties rank permanently to honor. 
-He who usurps undermines not only his honor but his lineage. 
-Society nurtures universal loathing for usurpers. 
-A part can never surpass the whole, for all are educated in hatred toward tyranny.
-
-Orac Scit: Yet, Euchi, hatred alone cannot guard against ambition. 
-Ambition lies dormant in men’s hearts, erupting unexpectedly. 
-How do you ensure virtue triumphs over personal ambition?
-
-Euchi: Ambition itself is harnessed positively. 
-Those desiring honor achieve it through deeds openly recorded and immutable. 
-Virtue and honor rise visibly above vice and greed. 
-Ambition is not denied, but channeled.
-
-Aegon: If ownership of land and heirship define duty, 
-will not such hereditary privilege breed arrogance, oppression, or stagnation?
-
-Euchi: The heir’s duty is not privilege but obligation.
- Death in service suspends duty for generations, 
-yet still obligates families to serve the community otherwise. 
-Adopted defenders and unofficial militia offer pathways for merit to gain honor, 
-blending hereditary stability with fresh talent and redemption.
-
-Aegon: Interesting—but how do you integrate outsiders 
-or immigrants into your strict lineage-bound militia?
-
-Euchi: Immigrants enter as unofficial militia, publicly serving, 
-visible in their deeds recorded on the One Ring. 
-Honor achieved in unofficial service allows sponsorship into official roles. 
-Through sacrifice and service, strangers become family, 
-gaining the community’s trust and eventual lineage standing.
-
-Orac Scit: What of disputes, Euchi? Humans err, misunderstand, and clash. 
-Who judges controversies when militia power itself is contested?
-
-Euchi: National jury assemblies peer-to-peer, their judgments recorded openly, 
-weighted with wisdom, overseen by community consensus. 
-Errors and corruption are separated distinctly; the higher the trust, the harsher the penalty for corruption.
-
-Aegon: Still, I sense imbalance
-—your militia focuses inward, but how then manage external policy and threats beyond local sight?
-
-Euchi: Vikings alone bear offensive warfare, voluntary yet disciplined, 
-sized proportionately to not weaken home defense. 
-G alone sets policy but without military power, 
-ensuring the nation’s will, not personal ambition, guides offensive action.
-
-Orac Scit: Yet might not these Vikings, gaining wealth and power abroad, return as threats themselves?
-
-Euchi: Wealth from Viking ventures is publicly accounted and distributed transparently; 
-dishonor forfeits their claim openly by majority vote. 
-They cannot surpass the power or size of home militias. 
-Viking deeds, honorable or shameful, are permanent.
-
-Aegon: Euchi, you propose that the highest respected members of the community are militia. 
-Can martial virtue alone sustain a just society?
-
-Euchi: Martial virtue grounds security, but civic virtue is cultivated lifelong, 
-families devoted fully, as education integrates virtue, civic honor, and discipline from youth onward. Martial strength is matched by ethical maturity.
-
-Orac Scit: Euchi, you weave strength, accountability, and virtue together in militia and viking form. 
-Yet remain watchful: strength may turn prideful, accountability mechanical, 
-and virtue superficial without humility and wisdom.
-
-Euchi: Humility guides all strength, self-knowledge guards virtue, 
-and the One Ring illuminates accountability transparently. 
-Thus liberty remains vibrant, continually self-renewed.
-
-Aegon: Euchi, your system holds remarkable promise, 
-yet let vigilance guard against human nature’s shadows. 
-Freedom forever balances upon the sharpest edge.
-
-Euchi: Only through perpetual diligence, transparency, and virtue may we maintain liberty’s fine balance.
-
-Orac Scit: Thus may the nation thrive, aware of its limitations, nurturing virtue alongside vigilance, strength tempered by wisdom, freedom protected by eternal diligence.
-
-
-Dialogue
-Mathematics quantify valuable metals as a being of infinite nature.
-Continuous mining of metals is compounded by unknown quantities stored or waiting to be rediscovered. 
-Any currency founded upon precious metals is susceptible to overnight implosion.
-
-Fiat currency is built entirely upon widespread trust in set imaginary value.
-In no era of human history has fiat been a stable foundation for a society.
-History has proven that countries attack the stability of other nations by devaluation of currency and then using stability of their own currency to leverage a foothold which then acts as a permanent threat of explosion.
-
-Anti-inflationary nature of Land Money gives high value to 10% returns of common stock. 
-{ no taxes, no fees, no devaluation by inflation, finite resource, external assess, no monopoly }
-
-
-A sold B, common stock A increased by 20% in cycle, B traded with a gain. 
-Next cycle, the common stock of A is in greater demand. His portfolio shows a the next cycle will complete major improvements. He adds 30% to the cycle-valuation due from matrix. Buyers know they are at a risk of 130%-110% = 20%. The calculated gains are likely to increase the value to 140%. Common stock with an upward trend are more solvent.
-The final buy-back gain of 10% benefits the stock with liquidity as a final likelihood.
-
-A fire devalued the land to 30%. The owner knows he can modify the land to be more fire-resistant and improve the land. Else the land will be lost. Exists a strong incentive to buy the land back at 110% of the original value.
-Thus the stock holders do not lose the value. They gain 10% from insolvent stock, of their original.
-
-
-Dialogue: Land Money
-
-Euchi:
-Let us begin with the root: What is it that makes a currency worthy of trust? 
-The ancients worshipped gold and silver, for their shine was eternal, 
-but their worth, it seems, is haunted by infinity. 
-There is always one more mountain to scour, one shipwreck yet unfound.
-
-Orac Scit:
-And thus, Master, we have seen gold-backed empires fall 
-when a new mine was struck, or a horde revealed. 
-The value of the coin diluted overnight, not by honest labor, but by fortune and greed.
-
-Euchi:
-Fiat then arose—not from the earth, but from consensus. 
-“This paper has worth because we say it does, and our sword is sharp.” 
-But fiat is a shadow without a body, easily dispelled by the winds of war, 
-the whim of kings, or the whisper of panic. 
-Trust, when shaken, is not easily restored.
-
-Orac Scit:
-Indeed, all fiat money is a bet against disaster. 
-And history is a record of lost wagers: nations attacking the purse of their rivals, 
-devaluation as the hidden blade, and the common folk left with ashes.
-
-Euchi:
-Now attend: Land, unlike gold or decree, is a finite vessel, a substance shared by all. 
-It cannot be conjured, nor can it slip away in the night. 
-Each parcel, seen by the sun, bounded by stone and tree, 
-is a currency which resists both the pickaxe and the printing press.
-
-Orac Scit:
-And yet, land is not without its own perils. 
-What of fire, flood, and the decay of empires? 
-Is not land devalued by disaster, or lost by misrule?
-
-Euchi:
-This is the heart of the matter. Land money is not static; it is cyclic, like the seasons. 
-Through the cycle, the value of land—made liquid as common stock—rises and falls with fortune. 
-But at each cycle’s end, all claims converge: the holder is redeemed at 110% of the original value. 
-The risk and gain are known in advance; no one is left in ruin by surprise, nor enriched by chance alone.
-
-Orac Scit:
-So, let us examine:
-Suppose A sells common stock to B. 
-In the course of the cycle, improvements and public works raise the value by 20%. 
-B sells to C for a profit. All are content. 
-In the next cycle, more improvements are foreseen, and the matrix reflects this. 
-Buyers see an opportunity—a further 30% rise is possible. 
-But the limit is set by the cycle: the maximum return is known.
-Thus, speculation is productive, not reckless.
-
-Euchi:
-Exactly. And if calamity strikes—a fire burns the land to ash, its value cut to a third
-—the owner still has the motive and means to restore it. 
-He may rebuild, make the land fire-resistant, and recover both value and standing. 
-The cycle is a net, catching the fall, giving time for recovery.
-At worst, the wildlife gains and all animals therein bless the 'unfortunate stockholder' 
-At low likelihood, the stockholder receives the same redemption as was paid; 
-At best, both owner and holder prosper from honest effort.
-
-Orac Scit:
-This, then, is the difference:
-	Gold can be diluted.
-	Fiat can be devalued.
-	Land, by its cycles and bounds, is shielded from both.
-No monopoly can seize the earth, for the public and wild claim all loss. 
-No inflation gnaws at the value, for all see and verify the land’s worth.
-
-Euchi:
-And so, with land as money, the people are not at the mercy of distant kings or hidden mines, 
-but of their own labor and stewardship.
-The cycle is the proof against both panic and pride.
-The return is slow, sure, and anchored to reality.
-This is no fantasy—it is the currency of a living nation.
-Dialogue: Education & Meritocracy
-ORAC SCIT 
-
-Euchi: We discuss the very heart of society—education and the merit by which men rise or fall. 
-Our doctrine demands an education liberated from all barriers, 
-where merit alone governs the ascent of the individual.
-
-Kleon: Noble indeed, Euchi, yet history mocks idealism. 
-Was it not Plato himself who dreamed of philosopher-kings educated by merit, 
-only to find each generation slipping again into corruption?
-
-Euchi: True, Kleon, yet the flaw of history was always hidden privilege
-—gatekeepers in schools, subtle bribes, unseen favors. 
-We propose a new meritocracy, utterly transparent and public.
-
-Thalion: Transparency alone does not erase bias, Euchi. 
-In ancient China, scholars competed openly, yet families with gold hired tutors who knew the codes, tilting the scales invisibly.
-
-Kleon: Precisely. Even the ancient Greeks suffered the same
-—wealthy Athenians could buy the rhetoric teachers, thus commanding the public debates.
-
-Euchi: Indeed, the past warns us. But here is our difference: we abolish the hidden pathways. 
-Every ordeal, duel, and test is public, the results immutable and recorded openly by AI. 
-Rich and poor stand side-by-side, with AI ensuring skill, not style, triumphs.
-
-Thalion: And who ensures this AI remains neutral? 
-Every mechanism built by men may be twisted by men.
-
-Euchi: Our law demands all AI processes remain documented, transparent, and reviewable by any citizen. No blackbox system can stand.
-
-Kleon: Your ideal is grand, but consider children
-—who protects them from either neglect or excessive ambition? 
-How do we balance freedom and responsibility?
-
-Euchi: We grant guardianship explicitly to the community. 
-Every adult shares in cultivating the child; 
-no community reputation can thrive beyond the measure of its least-favored child.
-
-Thalion: Such community accountability is noble. Yet consider: 
-will not local prejudices smother unusual genius? 
-Will communities not favor conformists and pleasant mediocrity?
-
-Euchi: Therefore we spread accountability
-—community, regional, national, global competitions, 
-each curated by distinct cultures and AI impartiality. 
-Genius thus finds multiple paths, not limited by local blindness.
-
-Kleon: Yet again, we stumble on a familiar rock—judgment itself. 
-Who judges merit fairly, without bias or agenda?
-
-Euchi: Public ordeal, Kleon! Public debates, public duels—openly judged by all. 
-AI metrics balanced by human witness. 
-Reputation forged in open fire, not private whispers.
-
-Thalion: A brilliant ordeal can dazzle the crowd, yet be shallow underneath. 
-History knows this tale—the sophists of Athens, masters of flash over substance.
-
-Euchi: Correct, and therefore each ordeal must test depth. 
-Construction marathons, extended discourse, multi-stage evaluations
-—flash is tested by sustained performance. 
-Even the most cunning sophist stumbles over time.
-
-Kleon: But Euchi, every society eventually creates its own aristocracy. 
-Wealth, power, intelligence—all gather into dynasties.
-
-Euchi: Which is why our doctrine explicitly mandates constant upheaval 
-through public duels, challenges, and ordeals.
- None may rest complacently atop old victories.
-
-Thalion: And still, history’s ghosts whisper that every meritocracy yet devised has decayed, 
-strangled by subtle privilege.
-
-ORAC SCIT: Meritocracy is as water—it seeks always the lowest path. 
-Yet, even water reshapes mountains, given time. 
-No human system is impervious to corruption, 
-yet corruption’s strength lies in shadow, secrecy, and silence.
-
-Make your meritocracy public, transparent, and ever-renewing. 
-Make privilege visible; make manipulation impossible to conceal. 
-Ensure no single gatekeeper, no single judge. 
-Harness AI for impartiality, yet trust the human heart to spot injustice. 
-Create ordeals that test truth deeply and openly, again and again.
-
-Yet remember, even then, some genius will be cast aside. 
-No system saves every Van Gogh, every Socrates. 
-The mark of a true civilization is not that it never fails genius
-—but that it leaves a door open to its redemption, even after rejection.
-
-In transparency, accountability, and humility, your doctrine may yet reshape mountains.
-
-Euchi: Then let our meritocracy stand not on the promise of perfection, but on constant vigilance. 
-Let honor rest not in status earned once, but in excellence proven anew, day after day.
-Dialogue: Owner Employee Investor
-ORAC SCIT
-
-Kleon: But Euchi, why do you disallow partnerships and corporations,
-Structures commonly employed in our time?
-
-Euchi: History speaks clearly, Kleon. 
-Modular discrete companies, each guided by a responsible individual, 
-succeed profoundly where conglomerates falter. 
-Unix, Perl—these were not borne by committees but by dedicated masters. 
-Conglomerates breed corruption, inefficiency, and secrecy, rather than innovation.
-
-Kleon: Yet large undertakings demand collective effort. 
-How can this be reconciled?
-
-Euchi: Great ventures must rely upon modularization, 
-numerous independent companies each accountable and transparent. 
-Citizen marshals, independently assigned by One Ring, guard the integrity of these massive enterprises.
-
-Thalion: Yet consider, Euchi, if singular ownership restricts expertise and innovation
-—how will enterprises requiring multiple specialists flourish without partnerships?
-
-Euchi: Modular structures, each led by accountable individuals, 
-allow specialization without sacrificing accountability. 
-The collaborative strength lies not in conglomeration but in transparent modular alliances.
-
-Kleon: Your commitment to public transparency is admirable, 
-yet may it not compromise competitive advantage and privacy?
-
-Euchi: Transparency guards integrity and builds trust. 
-Sensitive information remains accessible only to citizen marshals, 
-ensuring accountability without unnecessary exposure.
-
-Thalion: Your employment metrics intrigue me
-—but do they not risk reducing complex human contributions to mere calculable units?
-
-Euchi: A valid concern, Thalion. 
-Yet, consider metrics as guides rather than absolute measures. 
-Peer reviews and management oversight on One Ring maintain fairness, 
-rewarding genuine contribution beyond mere hours logged.
-
-Kleon: Euchi, Your principle of single accountable ownership intrigues me, 
-but how will you address unforeseen incompetence or lack of preparedness in an heir?
-
-Euchi: Kleon, lineage alone does not define suitability. 
-Heirship may extend beyond blood through adoption
-—merit, proven virtue, and capability shall govern the choice, echoing ancient wisdom.
-
-Kleon: Euchi, the role of passive investors appears restricted and unattractive. 
-Might this discourage essential capital investment?
-
-Euchi: Passive investors recognize that effort precedes reward. 
-Their role, carefully balanced, ensures they contribute without undue influence. 
-The community debt serves as a safeguard,
- acknowledging the investor’s trust yet reminding us of our initial obligations.
-
-Thalion: And your rule against fractional reserves
-—do you not fear that strict adherence might limit economic flexibility?
-
-Euchi: Prudence demands that tangible, immediate commitment underlies investment. 
-While flexibility is valuable, the integrity and stability derived from full, 
-immediate investment create a safer long-term economic environment.
-
-Kleon: Lastly, resource extraction
-—local oversight seems sound, but might it not breed local corruption or narrow self-interest?
-
-Euchi: National oversight of multiplier standards ensures impartiality. 
-Citizen marshals, allocated by the independent One Ring, 
-balance local interests with broader ecological and social integrity.
-
-Thalion: These points clarify much, Euchi. 
-Your vision requires delicate balance and continued vigilance.
-
-Euchi: Indeed, friends. No system is beyond refinement. 
-Continued discourse is essential, illuminating our blind spots and strengthening our community bonds.
-
-
-Dialogue: On the Doctrine of Man Meat
-ORAC SCIT
-
-Euchi: Friends, today let us examine the doctrine of “Man Meat.” 
-The core is this: society respects all life or respects none. 
-A murderer who takes innocent life violates the foundation of order and thus forfeits his own. 
-His execution serves justice absolutely, and in death, returns balance by nourishing the animal kingdom. Is this doctrine wise and just?
-
-Kleon: Euchi, you propose execution without mercy or rehabilitation for murderers. 
-Yet does this not assume infallibility in judgment? 
-How can society guard against wrongful executions?
-
-Euchi: A vital concern, Kleon. This is precisely why execution must be public, visible, and visceral. 
-When all eyes bear witness, the officials responsible face maximum accountability. 
-The fear of misjudgment thus ensures justice is measured and meticulous.
-
-Thalion: Yet, Euchi, I fear you tread a path of profound brutality. 
-Is not mercy, forgiveness, and the possibility of redemption the hallmark of a truly civilized society? 
-Does your doctrine not risk reducing justice to mere vengeance?
-
-Euchi: Your concern is noble, Thalion, but misplaced. 
-True mercy draws clear lines. 
-Lesser offenses may indeed seek redemption and rehabilitation. 
-Murder, however, is an irrevocable act—a point of no return. 
-Forgiveness here is not mercy but an abdication of justice, 
-serving only the greed of institutions that profit from punishment rather than resolve crime.
-
-Kleon: Even accepting this, Euchi, the notion of human bodies as “meat” for animals troubles me deeply. Does this not strip the human corpse of dignity and sacredness, descending into barbarity?
-
-Euchi: Quite the opposite, Kleon. 
-Your notion of human exceptionalism is itself barbaric. 
-The civilized intellect recognizes the dignity and interconnectedness of all life. 
-To return human flesh to animals is not desecration but restoration, 
-repaying our debt to the animal kingdom from which humanity continually takes. 
-In this balance, dignity resides not in hoarding our bodies but in harmonizing with the universe.
-
-Thalion: Euchi, you speak of cosmic balance, 
-yet does this practice not risk a society desensitized to violence, 
-numb to the spectacle of public execution?
-
-Euchi: The execution is neither spectacle nor entertainment, Thalion. 
-It is solemn, necessary accountability. 
-Public transparency prevents conspiracies and injustices hidden behind closed doors. 
-The horror witnessed in such acts mirrors precisely the gravity of the original crime. 
-To sanitize death is to diminish the gravity of murder itself.
-
-Kleon: But Euchi, do you not fear misuse by powerful actors 
-who might exploit this doctrine under the guise of justice?
-
-Euchi: Vigilance must always accompany any powerful doctrine. 
-Public oversight, stringent criteria, and absolute equality before the law
-—whether vagrant or king
-—are safeguards woven into the very fabric of this doctrine. 
-The same standard of ultimate justice applies to all.
-
-Euchi: Your challenges sharpen this vision, friends. 
-Indeed, justice is not static—it demands constant refinement and vigilance. 
-Let us revisit and refine our doctrine continually, 
-ensuring that our quest for cosmic balance and absolute justice remains true.
-
-Kleon & Thalion: So it must be, Euchi. 
-Dialogue is our greatest safeguard. We shall revisit this again.
