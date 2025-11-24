@@ -967,7 +967,7 @@ Any corruption, undeclared bias, or undeclared affiliation that is discovered vi
 All aspects of juror profiles and local inspection of jurors are used to discover any non-documented bias.
 Land Money
 Title of land is protected each unto another.
-Failure to protect one title erodes the integrity of the protection of the whole system - resulting in a nation-wide devaluation of Land-Common-Stock.
+Failure to protect one title erodes the integrity of the protection of the whole system - resulting in a nationwide devaluation of Land-Common-Stock.
 
 Family Ancestral Temples each guard the record of all title ownership.
 
@@ -975,14 +975,15 @@ No taxation or forced sale of land.
 Society obtains only loss - when a family dies out.
 Competition or hope of every obtaining land, outside of familiar association, is nullified.
 ✦
-Land types: Ancestral Land, Heir Stock, Common Stock, Production, Wildlife, Public. 
+Land types: Ancestral Core, Heir Stock, Common Stock, Production, Wildlife, Public. 
 ✦
-Global Basis Matrix calculates basis stable-value by Opensource functions.
+Global Basis Matrix calculates value of land by Opensource functions.
 
-Tiers of Speculation.
-Realtime Modifiers calculate current local-scope value by Opensource functions.
-Dynamic Modifiers are standard metrics subject to social scaling by Opensource reasoning.
-Free Market attains total liberty of trade without traceable values.
+Tiers of Speculation:
+	Realtime Modifiers calculate current local-scope value by Opensource functions.
+	Dynamic Modifiers are standard metrics subject to social scaling by Opensource reasoning.
+	Free Market attains total liberty of trade without traceable values.
+
 Constitutions may regulate the free market, but regulation is unnatural to the system.
 ✦
 Ancestral Land consists of Core & Temple.
@@ -998,7 +999,7 @@ May wildlife find better fortune than man found.
 Individuals of family always have space to exist that none able take.
 There the family deposits & builds for the welfare of the future lines.
 Stability of family lines are built over generations which create a strong nation.
-Grand constructions increase the value of the land in region.
+Grand constructions increase the value of the land in region:
 	{ defense, communication, shelters, vault, housing, energy }
 ✦
 Head of house holds domain of the land, being subject under the 10 Axioms.
@@ -1014,7 +1015,7 @@ Courts settle land disputes.
 ✦
 Heir Land is the only land type which can be converted to Family Land from direct transaction:
 	Direct family seller to specific family buyer.
-	Constitution decree.
+	Constitution decree of Public Land.
 
 A resident family line, being of no official ancestral descent, is able to obtain Family Land by means of Heir Land.
 This allows redemption, immigration, or family divorce.
@@ -1030,6 +1031,7 @@ The family may use the land in the duration, but does not have Common Stock opti
 
 Heir Land is protected as Family Land. 
 There can be no coercion of sell or forfeiture.
+Once the transaction is ratified the probationary period is a national court matter.
 Heir transactions are heavily inspected, it is the permanent assimilation of family into a nation. 
 
 Wealthy immigrant, being a naturalized citizen, purchases land from Family Land.
@@ -1049,6 +1051,7 @@ Production land zones are stable unless changed by Constitution.
 ✦
 Wildlife land is restricted land - reserved for non-human life.
 No hunting nor gathering. 
+
 Land can be improved for sake of wildlife.
 
 This is space due for the nourishment of the animals of the land.
@@ -1063,7 +1066,7 @@ Public Land may be selected for Heir Land only in a National Pool.
 This national mechanism allows diversity of family or land-type establishment, independent of region politics.
 Thus local politics can not manipulate usage of Public Land for private gain.
 ✦
-Global-Matrix is land valuation by a fixed-point matrix.
+Global-Matrix-Basis is land-valuation by a fixed-point matrix.
 	
 Each parcel of land in the world is valued based on this single matrix.
 The matrix evolves over time - both to echo invariants and to bend to values of each generation.
@@ -1071,18 +1074,20 @@ The matrix evolves over time - both to echo invariants and to bend to values of 
 Invariant measurements:
 	{ocean, lake, river, proximity, biome, soil, arborage}
 
-Global Matrix is the definite numeric basis consequent Opensource invariant functions.
+Global-Matrix-Basis is the definite numeric basis consequent of long-scope Opensource functions.
 Even catastrophes heal, and that timeframe can not be known in a 10-Year cycle.
 
 All metrics which are not results of the Global Metric are a species of Speculation.
 ✦
-Realtime-Modifier, a Speculation based on Opensource funtions, keeps the basis current.
+Realtime-Modifier, a Speculation based on Opensource functions, keeps the basis current.
+Local-scope takes into concern the aspects which are involved a short-term scope.
+A fire will not heal within 2 years, and thus the Local-Scope-Value reflects a lowered magnitude.
 
-[Global Matrix][Realtime Modifiers] = Value
+[Global Matrix][Realtime Modifiers] = Local-Scope-Value
 
 Easement allows any to inspect the land by pass thru.
-One Ring compiles local review, external audit, satellite.
-The valuation of each parcel exists on the One Ring in real time.
+ORP compiles local review, external audit, satellite.
+The valuation of each parcel exists in real time bound to its scope.
 
 Catastrophe measurements:
 	{rain, flood, hurricane, tornado, drought, fire}
@@ -1093,7 +1098,7 @@ Land is a bounded finite resource of common sense value.
 Inflation is checked to the base value of the land upon the market.
 Fraud can not stay hidden and would permanently damn reputation of family & nation. 
 
-Each nation in the world has unique value to offer the world.
+Each nation in the world has unique value which their land offers to the world.
 Reason & consensus must generalize this unique value into a metric, which all value is subject.
  
 Land value is bound by nature and fluctuates with nature
@@ -1102,27 +1107,23 @@ Thus values may fluctuate in each generation of the 10-Year-Cycle.
 The dynamic nature of land keeps the foundation of currency non-stagnant.
 Disasters, improvements, fortunes of nature; these all play to keep the system active.
 
-International participation will round the Global-Matrix to a solid basis.
+International participation will round the Global-Matrix-Basis which converges towards a solid number.
+A solid basis achieved, will be echoed forward by means of historic record.
 ✦
 Global Common Stock markets allow trade of value without ever allowing foreign control of the assets.
-Global markets will be stable and immune to international fiat sabotage.
-
-Currency is established on the common basis - Global Matrix.
-Speculation is broadened to include Realtime Modifiers and standard dynamics which require interpretative judgement:
-	{ nation-security, historic projection, improvement }
+Global markets are immune to international fiat sabotage.
 
 Common stock in one country can be directly exchanged for common stock of another country by a citizen of an mutually-different country.
 
 Nations are not equal in the land which exists within borders. 
-Mathematical, geographic, open science - will evolve a Global-Matrix that converges towards accurate valuation independent of national bias.
 Judgement & reason will allow metrics to be weighed by insight.
-Thus harmony is the mutual agreement of calculation & empathy of invariant value metrics.
 
 Improvement of the land does not lead to inflation. 
 Land has intrinsic value, and improvements are always a tangible proof.
 Owners will lean to the strengths of the region which tends to natural betterment.
 
-Gaming of the Global Matrix will be difficult. Each attribute is small against a multitude of dynamics.
+Gaming of the Global-Matrix-Basis will be difficult. 
+Each attribute is small against a multitude of dynamics.
 Fraud of superficial improvement is inspectable by local, agent, satellite.
 
 Full spread calculations, of the proof of value, guards the entire system from rot.
@@ -1133,12 +1134,13 @@ Each 10-Year-Cycle the head of family may activate an exterior-most section of l
 A marked-designated portion of the land is split into Common Stock. 
 Common Stock is directly tied to specific portions of land.
 
-Common Stock is sold on free markets having the basis of value of Global Matrix.
+Common Stock is sold on free markets.
 
 The incorporated section must be smaller than 5% of the total Family Land available.
-This stabilizes the availability of Common Stock, and it protects the family from collapse due to a single generation's mismanagement.
+This stabilizes the availability of Common Stock possible in each nation.
+This cap protects the family from collapse due to a single generation's mismanagement.
 
-Common Stock may be sold at any value, but to each stock is anchored to the basis Global Matrix valuation at time of incorporation.
+Common Stock may be sold at any value, but to each stock is anchored to the basis Global-Matrix-Basis valuation at time of incorporation.
 
 The free markets adjust this basis by total liberty of Speculation.
 
@@ -1146,9 +1148,9 @@ Each exchange may offer the same stock at a variant value.
 Speculation is an important mechanism that keeps trade lucrative, being dependent on intelligence.
 
 Speculation is checked by the cyclic nature of Common Stock.
-All spikes or drops in value will approach the initial Global Matrix basis value.
+All spikes or drops in value will approach the initial incorporation Global-Matrix-Basis.
 ✦
-At the end of the 10-Year-Cycle, the family (only in that time) has the option to buy back the stock at the invariant rate of 110% of the Global Matrix valuation-at-point-of-incorporation.
+At the end of the 10-Year-Cycle, the family (only in that time) has the option to buy back the stock at the invariant rate of 110% of the Global-Matrix-Basis valuation-at-point-of-incorporation.
 
 If the family is unable to buy back the Common Stock.
 Family must redraw the border of Family Land, and the land is lost forever.
@@ -1164,10 +1166,12 @@ It only gives the right to freely trade or hold till end of cycle buyback.
 ✦
 Family is able to build upon the land continuously, increasing the land value well past the original valuation-at-point-of-release.
 This increases the speculative value, after the sale and until the next cycle nears.
-Speculative Common Stock is immutable; stocktraders favor families that are able to consistently have highly-liquid stocks.
+
+Speculative Common Stock history is on ORP.
+Stocktraders favor families that are able to consistently have highly-liquid stocks.
 Improvement benefits the family land, benefits the traders, and helps the family's Common Stock in future cycles.
 ✦
-At the end of the cycle, the family reclaims the land at the invariant 110%.
+At the end of the cycle, the family reclaims the land at the invariant 110% of the value at point-of-incorporation.
 Common Stock is by nature cyclic. 
 
 The value may grow sinusoidal. The value may decrease cosynical.
@@ -1179,9 +1183,9 @@ This will add a spike in cash flow for a greater spike repayment.
 The consequences are real, not folded into inflation.
 	
 Education & Meritocracy
-Growth of an individual from education to workforce -- is decentral & unrestricted.
+Growth of an individual from education into workforce -- is decentral & unrestricted.
 
-Axiom right of life demands one must eat and have shelter.
+Axiom Right of Life demands one must eat and have shelter.
 Both needs require gains from work.
 Thus no requirements, certifications, or law can bar anyone to enter any profession.
 ✦
@@ -1192,15 +1196,18 @@ Exist no distinction between children of Citizen or Resident - such are properti
 
 Community hosts open infrastructure to the children of the community.
 
-Apprentice develops skill under a master craftsman, in apprentice hierarchy to distribute overhead of management of apprentices to the first-apprentice.
+Apprentice develops skill under a master craftsman.
+The First-Apprentice manages the apprentice hierarchy to not pass this burden onto the master.
+
 Every individual is a debtor of society in their profession, and must teach what was taught.
+Masters are expected to host apprenticeships by social norm.
 
 Childhood will no longer be enslaved to regimental systems.
 Children shall not be required to more than 4 hours of class daily.
 Communities hold open classes on reading, mathematics, writing, and culture.
 
 Automata Intelligence allows access to rich cultivation where poverty exists.
-Massive data archives are available in every community due to ORP. 
+Massive data archives are available in every community via ORP. 
 Servers host every book known to history being accessible without copyright-restriction.
 
 A community is publicly damned by the state of worst-equipped child.
@@ -1214,21 +1221,22 @@ Barriers of entry to labor of choice impoverishes society.
 
 For each chosen-apprentice, the master is obligated to two assigned-apprentices.
 The assigned-apprentices are paid at minimum of half the rate of the chosen apprentice.
-Master is able to negotiate assignment to the community, or to the courts.
-The burden of the assigned-apprentices falls upon the chosen-apprentice, not the master. 
+
+Master is able to negotiate apprentice-assignment to the community, or to the courts.
+The burden of the assigned-apprentices falls upon the First-Apprentice, not the master. 
 
 Assignment of the secondary apprentice is given by AI, who has the records of the teenager and their ability. This external mapping done to assure that a society does not cage out teenagers from their chosen profession.
 
 Third assignment of apprenticeship is assigned by the community.
 ✦
-Roles of assigned-apprentices more rudimentary tasks governed by the chosen-apprentice.
+Roles of assigned-apprentices more rudimentary tasks governed by the First-Apprentice.
 
-Second-apprentices challenges for first-apprentice in public duel, and likewise third-apprentice may challenge second-apprentice.
+Second-apprentices challenges for First-Apprentice in public duel, and likewise Third-Apprentice may challenge Second-Apprentice.
 
 The roles & pay are bound to the position to abolish favoritism.
 ✦
 Education from childhood is continued thru apprenticeship.
-AI becomes the foundation in a targeted cultivation of learning.
+AI becomes the foundation by the ability to provide targeted cultivation of learning.
 
 Community Open Seminars are held a few times a week on subjects. 
 
@@ -1239,7 +1247,7 @@ The client learner may alone be allowed to interact, but any may audit on the te
 ✦
 Apprentices use pay to acquire tools, seminar instructors, and save up for ordeals of merit. 
 
-Ordeals of merit establish the practitioner in an open public contest.
+Ordeals of merit establish the practitioner in a public contest.
 Ordeals may last full days to weeks to months.
 
 Company sponsorship allow the able-unprivileged to compete with the able-privileged.
@@ -1251,8 +1259,8 @@ Products made by Ordeal champions are valued by the market.
 Products must list the company as well as the creator.
 ✦
 Independent basis of IWO meritocracy:
-	One Ring social Witness of merit of individual
-	AI Rank of skill is always public on One Ring
+	ORP Witness of merit of individual
+	AI Rank of skill is always public.
 	Community, Regional, State, National, Global -- Public Ordeals of Merit & Duels
 ✦
 Competition is the heart of a healthy skill domain.
@@ -1260,10 +1268,10 @@ Competition is the heart of a healthy skill domain.
 Community joins together to ensure all are able to eat which have accomplished their tasks. 
 Children their classes. Teenagers their study sessions. Adults work or service.
 
-Society sits according to their labors to bond the trade across ages & skill.
+Society sits according to their labors to bond by trade across ages & skill.
 
-Apart from food, music, and gaiety; Ciesta forms the heart of the community.
-Opportunity to reserve a public duel.
+Ciesta forms the heart of the community.
+Apart from food, music, and gaiety; it is an opportunity to reserve a public duel.
 ✦
 Duel: 
 	Challenger posts a public challenge on the community board.
@@ -1271,7 +1279,7 @@ Duel:
 	In reduel the defeated challenger choses the set of tasks. 
 
 After food, the entire community may observe the duel to cast their vote.
-Duels are always posted on the One Ring for public exposure.
+Duels are always posted on the ORP for public exposure.
 
 A challenger can only duel/reduel the same person once a year.
 A challenger can only duel once a quarter. More is limited by community.
@@ -1284,34 +1292,34 @@ Both must post the amount, and the winner takes all.
 Challenger locks out once a quarter of the year for local duels and another for non-local duels.
 Lock-out denial by coordination may be challenged in court. 
 
-Hot-challengers, which have hit a year in total lockout qualify to attain a Second-Seat Apprentice - which must be defeated preliminary to challenge the Hot-challenger.
+Hot-challengers, which have hit a year in total lockout qualify to attain a Second-Seat - which must be defeated preliminary to challenge the Hot-challenger.
 ✦
 Local, Regional, National, Global - Ordeals of Merit.
-Public Ordeals is during a festive timeframe for the community to enjoy the fires of trial for the tested.
+Public Ordeals of Merit occur during a festive timeframe for the community to enjoy the fires of trial for the tested.
 
 Three sections of a rounded ordeal:
 	Cell of stay & work construction. 
 	Stage tests, group discussions, duels to defend construction. 
-	Podium oration ability to expound teachings of the subject.
+	Podium oration teaching the subject.
 
 Ordeals are open.
 If the entrance fee is greater than the individual's monthly salary, then early arrival & presentation to seek contributions is required. This being fulfilled, then any deficit is allowed to be paid in post-ordeal festival-break-down service.
 In all ordeals a reasonable fee is required to respect the spirit of open competition.
 
-Ordeals post rankings, constructions, tests, discussions, duels, oration, and all commentary used to measure value (Witness, One-Ring, AI).
+Ordeals ORP post rankings, constructions, tests, discussions, duels, oration, and all commentary used to measure value (Witness, AI).
 
 All the metrics & methods to dissect each element are immutably accessible in a compressed form.
 
-Trials by fire.
+Trials by fire forge skill of a strong Meritocracy.
 ✦
-Marathons of Merit tend to be more extreme & demanding, for a reward that is more respected.
+Marathons of Merit tend to be more extreme & demanding, for a reward that is respected.
 Marathons of Merit are under public-observation.
-Marathons of Merit are not about competition but survival.
-Each participant must produce above the minimum expectation.
+Marathons of Merit are not about competition but endurance.
+Each participant must produce above the minimum-expectation.
 
 Merit is proven to be sustainable in long-suffering environment under sustained-pressure.
 
-Trial by winter.
+Trial by winter instill quality for a stable Meritocracy.
 ✦
 Judgement of Duels & Ordeals is based upon social Witness, ORP discussion, and AI analysis.
 Verdict must be reached by thirty days.
@@ -1343,7 +1351,7 @@ Isolation can excel in AI, social thru witness, and dominion thru duels & ordeal
 All verifications of skill require public display among peers.
 Verification is defined by ranking - from a spectrum of incompetent to proficient.
 
-One Ring public ranking & comments informs capabilities of each Individual.
+ORP public ranking & comments informs capabilities of each Individual over a lifetime.
 
 The public ordeal transitions the apprentice into a public verified worker.
 Public ordeal is proof unto peers, community and potential companies.
@@ -1377,16 +1385,16 @@ Global exposure allows correspondence & growth across cultures.
 Companies attain increased survivability with full scope of international reach.
 Regional ostracism is reduced in its ability to crush companies.
 ✦
-Search engine is isolated from ORP.
-Opensource search engines are custom to type of inquiry.
+Search-engines are isolated from ORP.
+Opensource search-engines are custom to type of inquiry.
 Massive data is curated into accessible presentation for users.
 
 Upvoting of reviews, reviews by rank.
 
 Curation of data is critical but it also opens possibility of control by overhead.
-Modification of Opensource search engines force misuse to be easily replaced.
+Opensource search-engines allow easily modified replacements.
 
-Business search engines curate interfaces to markets.
+Business search-engines curate interfaces to markets.
 AI can tailor results based on your trend of interests.
 Social posts are helpful to expose local & niche markets.
 
@@ -1418,7 +1426,6 @@ Time will show the true trend of individuals identified & in relation to product
 If the process remained invariant, but there was a bubble anomaly.
 Then all the users which contributed to this anomaly are flagged for audit.
 ✦
-ORP keeps data immutable. 
 AI is able to pattern invariant signs of corrupt practices.
 Courts are able to adapt current situation to current reason.
 Owner Employee Investor
@@ -1433,7 +1440,7 @@ Exist no partnerships or corporations.
 Exist modular chain of products/services.
 ✦
 Companies exist as structures dependent on society. 
-Thus company books are accessible to the public. 
+Thus company non-sensitive books are accessible to the public. 
 Citizen Marshals only able to access sensitive-records.
 
 Inter-company and investor meeting-minutes or correspondence are public records.
@@ -1473,7 +1480,7 @@ Employee Performance Calculation:
 
 Employees are responsible for calculating the metrics of their daily contributions.
 Owners must submit their own work calculation to receive above base compensation.
-Owners are responsible for the management verification of daily contributions.
+Owners are responsible for the management verification of daily contribution-metrics.
 
 Owner submits calculation to Controller.
 Management submits calculation to Controller.
@@ -1482,7 +1489,7 @@ Employees submit calculation to Management.
 Contribution metrics are public & industry-normalized.
 
 Individuals are educated since youth to comprehend the complexity of job-work accounting.
-This mechanism of compensation is deeply rooted and guarded by peer-to-peer many eyes inspection to establish honest employee-protections.
+This mechanism of compensation is deeply rooted and guarded by peer-to-peer many eyes inspection to establish employee-protections.
 Mastery of calculation of per-job accounts, contributions, and resultant gains - is how the employee gains sustainable returns for work done.
 
 Metrics detail efforts of each individual for each day into a Quarter Integration.
@@ -1511,7 +1518,7 @@ This scales the basis to fit to the excellence of Individual action in a specifi
 Time spent as unit of payment is a poor indicator of effort and breeds lazy effort.
 Standard project accounting improves this basis with rounded metrics.
 
-Computation results in a bottom-line return in the form of a standard paycheck.
+Time-unit payments are the bottom-line returns in the form of a standard paycheck.
 ✦
 Vested payments focus the employee to actions which result in effective contribution.
 
@@ -1523,15 +1530,15 @@ Management creates employee reports based upon employee consensus of historic, c
 Controller only maintains reports submitted by management.
 
 ORP peer-reviews evaluation of employee contribution, and management reports.
-Vesting of a year allows payments to achieve stability of action & effect.
+Vesting of a year allows payments to be based stably upon action & year-scope effect.
 Effective actions will stand out clearly in the scope of a year.
 ✦
 Payment of work precede - gains on investment gambling.
 
 Flow of payments:
 Base compensation for owner & employee 
-Compensation for units of employee work calculation
-Compensation for units of owner work calculation
+Vested compensation for units of employee work calculation
+Vested compensation for units of owner work calculation
 Payment of investors capped at 10% of annual revenue
 Debt to community
 Profit on owner investment
@@ -1552,10 +1559,10 @@ Citizen Marshalls can halt-work for a period of time, respective of their rank, 
 Local community must approve the company establishment. 
 National interest, proved by science, can veto company establishment.
 
-A trust must be accumulated prior to approval by investors. This trust is sufficient to restore the land, after operations, to 120% the Global Matrix at point of incorporation.
+A trust must be accumulated prior to approval by investors. This trust is sufficient to restore the land, after operations, to 120% of the Global-Matrix-Basis at point of incorporation.
 
 Region where the resource is extracted, Public|Wild, must be the recipient of the betterment investment - effected parallel to operations.
-20% of all vested payments and owner profit is due preliminary any vested payments.
+20% of all vested payments and owner profit is due to regional-betterment preliminary any vested payments.
 Sanctity of land is foremost above the gains of extractors.
 
 Resources:
